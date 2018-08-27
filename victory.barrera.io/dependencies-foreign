@@ -5,6 +5,7 @@ libc++
 libc++abi
 openrazer-daemon
 openrazer-driver-dkms
+python-asttokens
 python-colour
 python-notify2
 python-openrazer

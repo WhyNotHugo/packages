@@ -11,6 +11,8 @@ light
 minecraft
 minecraft-launcher
 pacaur
+pkgbuild-introspection
+python-flake8-import-order
 razercommander
 skypeforlinux-preview-bin
 spotify
