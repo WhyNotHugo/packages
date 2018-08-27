@@ -1,0 +1,15 @@
+ca-certificates-cacert
+libc++
+libc++abi
+libgksu
+libx264
+python-asttokens
+python-babelfish
+python-colour
+python-enzyme
+python-ewmh
+python-guessit
+python-onetimepass
+python-rarfile
+python-rebulk
+python-sphinxcontrib-programoutput
