@@ -4,15 +4,15 @@ htmlcxx
 libc++
 libc++abi
 libgksu
+openrazer-daemon
+openrazer-driver-dkms
 python-asttokens
 python-babelfish
 python-basiciw
 python-colour
 python-enzyme
-python-ewmh
 python-guessit
 python-notify2
-python-onetimepass
 python-rarfile
 python-rebulk
 python-txdbus

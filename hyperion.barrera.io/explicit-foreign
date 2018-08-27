@@ -1,7 +1,6 @@
 1password-cli
 alsi
 browser-vacuum
-caffeine-ng
 ctop
 discord
 docker-gc-git
@@ -9,19 +8,17 @@ downgrade
 dunstify
 ethminer-bin
 fswebcam
-git-extras
 gksu
 gnome-ssh-askpass2
 go-makepkg
 gog-thimbleweedpark
 gtkevemon-git
 hobarrera-sxiv
-i3pystatus-git
+i3pystatus
 insomnia
 itch
 jslint
 lgogdownloader
-librespot-git
 libretro-fbalpha
 light
 meta-eve-online
@@ -31,8 +28,6 @@ meta-starcraft2
 minecraft
 minecraft-launcher
 nodejs-coffeelint
-openrazer-daemon
-openrazer-driver-dkms
 otf-operator-mono
 otf-operator-mono-nerd
 pacaur
@@ -43,7 +38,6 @@ popcorntime-bin
 python-flake8-import-order
 python-openrazer
 razercommander
-redshift-scheduler
 remotemouse
 rss2email-wking
 scrotpush
@@ -57,7 +51,6 @@ systemd-lock-handler
 tlauncher
 toppler
 tor-browser
-totp-cli
 ttf-ms-fonts
 ttf-opensans
 ttf-symbola

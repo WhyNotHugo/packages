@@ -123,6 +123,7 @@ python-pipenv
 python-tox
 python-virtualenvwrapper
 python2-service-identity
+redshift
 retroarch
 retroarch-assets-xmb
 rofi

@@ -464,7 +464,6 @@ libfreehand
 libgcrypt
 libgcrypt15
 libgdiplus
-libgee
 libgexiv2
 libglade
 libglvnd
@@ -927,10 +926,8 @@ python-virtualenv-clone
 python-wcwidth
 python-webencodings
 python-websocket-client
-python-wheel
 python-wsproto
 python-xdg
-python-xlib
 python-yaml
 python-zope-interface
 python2
@@ -987,7 +984,6 @@ re2
 readline
 recordmydesktop
 redland
-redshift
 reiserfsprogs
 rest
 rhash
