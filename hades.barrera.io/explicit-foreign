@@ -10,7 +10,6 @@ downgrade
 dunstify
 flake8-import-order
 fswebcam
-git-extras
 gksu
 gnome-ssh-askpass2
 heroku-cli
