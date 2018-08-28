@@ -3,7 +3,6 @@ alsi
 browser-vacuum
 ctop
 discord
-docker-gc-git
 downgrade
 dunstify
 ethminer-bin
@@ -40,7 +39,6 @@ python-openrazer
 razercommander
 remotemouse
 rss2email-wking
-scrotpush
 sct
 skypeforlinux-preview-bin
 spotify
