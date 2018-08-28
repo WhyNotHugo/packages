@@ -1,7 +1,9 @@
+alsi
 browser-vacuum
 cower
 ctop
 discord
+downgrade
 dunstify
 fswebcam
 gnome-ssh-askpass2
@@ -14,6 +16,7 @@ minecraft
 minecraft-launcher
 pacaur
 pkgbuild-introspection
+popcorntime-bin
 python-flake8-import-order
 razercommander
 skypeforlinux-preview-bin
@@ -21,7 +24,10 @@ spotify
 stepmania
 sysconfig
 systemd-lock-handler
+tor-browser
 touchegg
+ttf-ms-fonts
+ttf-opensans
 ttf-symbola
 universal-ctags-git
 zoom

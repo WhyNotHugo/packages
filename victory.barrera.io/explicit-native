@@ -8,7 +8,6 @@ autossh
 bind-tools
 blueberry
 blueman
-bluez-utils
 bwm-ng
 calc
 cgminer
@@ -59,7 +58,6 @@ khal
 leafpad
 lib32-nvidia-utils
 libreoffice-fresh
-linux-headers
 lm_sensors
 lostfiles
 lsof
@@ -116,7 +114,6 @@ ponymix
 postgresql
 powertop
 pulseaudio-alsa
-pulseaudio-bluetooth
 pv
 python-ipdb
 python-neovim
@@ -196,7 +193,6 @@ xorg-xrandr
 xorg-xrdb
 xorg-xset
 xsel
-yajl
 yapf
 zathura
 zathura-pdf-poppler

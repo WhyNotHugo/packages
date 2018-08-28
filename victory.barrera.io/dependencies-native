@@ -481,6 +481,7 @@ lilv
 linux
 linux-api-headers
 linux-firmware
+linux-headers
 llvm-libs
 lmdb
 logrotate
@@ -544,6 +545,7 @@ opus
 orc
 p11-kit
 pacman
+pacman-contrib
 pacman-mirrorlist
 pam
 pambase
@@ -556,6 +558,7 @@ pcre
 pcre2
 pcsclite
 perl
+perl-data-dump
 perl-digest-sha1
 perl-error
 perl-file-which
@@ -586,6 +589,7 @@ procps-ng
 protobuf
 psmisc
 pulseaudio
+pulseaudio-bluetooth
 pyalpm
 pygobject-devel
 pygobject2-devel
@@ -917,6 +921,7 @@ xorg-xwininfo
 xorgproto
 xvidcore
 xz
+yajl
 yasm
 zenity
 zeromq
