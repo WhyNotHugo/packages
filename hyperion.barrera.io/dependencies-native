@@ -653,6 +653,7 @@ lua
 lua52
 luajit
 lucene++
+lv2
 lvm2
 lz4
 lzo
@@ -801,6 +802,7 @@ python-asn1crypto
 python-atomicwrites
 python-attrs
 python-automat
+python-babel
 python-beautifulsoup4
 python-blinker
 python-brotlipy
@@ -848,15 +850,18 @@ python-hyperframe
 python-hyperlink
 python-icalendar
 python-idna
+python-imagesize
 python-incremental
 python-iniconfig
 python-jedi
+python-jinja
 python-jsonrpclib-pelix
 python-jsonschema
 python-kaitaistruct
 python-langdetect
 python-ldap3
 python-lockfile
+python-markupsafe
 python-mccabe
 python-msgpack
 python-netifaces
@@ -912,7 +917,13 @@ python-sgmllib
 python-sip
 python-sip-pyqt5
 python-six
+python-snowballstemmer
 python-sortedcontainers
+python-sphinx
+python-sphinx-alabaster-theme
+python-sphinx_rtd_theme
+python-sphinxcontrib-websupport
+python-sqlalchemy
 python-stevedore
 python-tabulate
 python-texttable
@@ -928,6 +939,7 @@ python-virtualenv-clone
 python-wcwidth
 python-webencodings
 python-websocket-client
+python-whoosh
 python-wsproto
 python-xdg
 python-yaml
