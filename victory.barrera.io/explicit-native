@@ -181,7 +181,6 @@ xdotool
 xorg-fonts-encodings
 xorg-server
 xorg-setxkbmap
-xorg-xbacklight
 xorg-xev
 xorg-xhost
 xorg-xinit
