@@ -267,6 +267,7 @@ lib32-zlib
 libabw
 libaio
 libarchive
+libart-lgpl
 libasr
 libass
 libassuan
@@ -323,6 +324,7 @@ libgexiv2
 libglade
 libglvnd
 libgme
+libgnomecanvas
 libgnomekbd
 libgpg-error
 libgtop
