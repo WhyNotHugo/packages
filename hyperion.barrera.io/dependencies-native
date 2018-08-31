@@ -790,7 +790,6 @@ python-colorama
 python-commonmark
 python-configobj
 python-constantly
-python-crypto
 python-cryptography
 python-daemonize
 python-dateutil
