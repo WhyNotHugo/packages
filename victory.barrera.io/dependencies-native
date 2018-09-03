@@ -561,6 +561,7 @@ pcre2
 pcsclite
 perl
 perl-data-dump
+perl-data-validate-ip
 perl-digest-sha1
 perl-error
 perl-file-which
@@ -570,6 +571,7 @@ perl-ipc-run
 perl-locale-gettext
 perl-mailtools
 perl-net-ssleay
+perl-netaddr-ip
 perl-time-duration
 perl-timedate
 perl-uri
