@@ -86,6 +86,7 @@ enchant
 ethtool
 exempi
 exfat-utils
+exo
 expac
 expat
 f2fs-tools
@@ -614,6 +615,8 @@ libxdamage
 libxdg-basedir
 libxdmcp
 libxext
+libxfce4ui
+libxfce4util
 libxfixes
 libxfont2
 libxft
@@ -1096,6 +1099,7 @@ xcb-util-wm
 xcb-util-xrm
 xdg-utils
 xf86-input-libinput
+xfconf
 xfsprogs
 xkeyboard-config
 xmlsec
