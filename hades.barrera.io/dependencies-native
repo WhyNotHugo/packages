@@ -122,7 +122,6 @@ gmp
 gnome-desktop
 gnupg
 gnutls
-go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -159,7 +158,6 @@ hicolor-icon-theme
 hspell
 http-parser
 hunspell
-hunspell-en_GB
 hunspell-en_US
 hwids
 hyphen
@@ -188,6 +186,7 @@ kbd
 keyutils
 kmod
 krb5
+l-smash
 ladspa
 lame
 lapack
@@ -367,6 +366,7 @@ libnm
 libnm-glib
 libnotify
 libnsl
+libnumbertext
 libodfgen
 libofa
 libogg
@@ -488,6 +488,7 @@ lua
 lua52
 luajit
 lucene++
+lv2
 lvm2
 lz4
 lzo
@@ -872,6 +873,7 @@ wpa_supplicant
 wxgtk-common
 wxgtk2
 wxgtk3
+x264
 x265
 xapian-core
 xapps

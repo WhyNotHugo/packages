@@ -43,7 +43,9 @@ gparted
 gsmartcontrol
 gtk-recordmydesktop
 httpie
-hunspell-en
+hunspell-en_AU
+hunspell-en_CA
+hunspell-en_GB
 hunspell-es_any
 i3-wm
 inkscape
