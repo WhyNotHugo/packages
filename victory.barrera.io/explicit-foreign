@@ -16,6 +16,8 @@ minecraft
 minecraft-launcher
 pacaur
 pkgbuild-introspection
+plymouth
+plymouth-theme-monoarch
 popcorntime-bin
 python-flake8-import-order
 razercommander
