@@ -176,8 +176,12 @@ iw
 jack
 jansson
 jasper
+java-environment-common
+java-runtime-common
 jemalloc
 jfsutils
+jre10-openjdk
+jre10-openjdk-headless
 js52
 json-c
 json-glib
@@ -357,6 +361,7 @@ libmwaw
 libmypaint
 libnatpmp
 libndp
+libnet
 libnewt
 libnftnl
 libnghttp2
