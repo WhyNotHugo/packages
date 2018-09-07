@@ -53,7 +53,7 @@ inotify-tools
 intel-ucode
 iperf
 ipython
-jdk10-openjdk
+jdk8-openjdk
 jhead
 jq
 kexec-tools
