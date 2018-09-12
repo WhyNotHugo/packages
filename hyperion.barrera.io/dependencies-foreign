@@ -8,7 +8,6 @@ openrazer-driver-dkms
 python-asttokens
 python-babelfish
 python-basiciw
-python-colour
 python-enzyme
 python-guessit
 python-notify2
