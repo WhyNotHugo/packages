@@ -614,6 +614,7 @@ python-click
 python-click-log
 python-click-threading
 python-colorama
+python-colour
 python-commonmark
 python-configobj
 python-cryptography
