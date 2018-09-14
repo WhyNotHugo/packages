@@ -757,10 +757,12 @@ qt5-declarative
 qt5-imageformats
 qt5-location
 qt5-quickcontrols
+qt5-quickcontrols2
 qt5-sensors
 qt5-svg
 qt5-tools
 qt5-webchannel
+qt5-webengine
 qt5-webkit
 qt5-x11extras
 qt5-xmlpatterns
