@@ -184,6 +184,7 @@ gzip
 harfbuzz
 harfbuzz-icu
 hdparm
+help2man
 hicolor-icon-theme
 hspell
 http-parser
@@ -745,6 +746,7 @@ perl-file-which
 perl-io-socket-ssl
 perl-io-tty
 perl-ipc-run
+perl-locale-gettext
 perl-mailtools
 perl-net-ssleay
 perl-netaddr-ip
