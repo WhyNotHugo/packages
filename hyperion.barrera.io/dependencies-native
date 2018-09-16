@@ -13,6 +13,7 @@ at-spi2-core
 atk
 atkmm
 attr
+audit
 autoconf
 automake
 avahi
@@ -187,6 +188,7 @@ hicolor-icon-theme
 hspell
 http-parser
 hunspell
+hunspell-en_US
 hwids
 hyphen
 iana-etc
@@ -337,6 +339,7 @@ lib32-libunistring
 lib32-libunwind
 lib32-libusb
 lib32-libva
+lib32-libva1
 lib32-libvdpau
 lib32-libvorbis
 lib32-libvpx1.3
@@ -522,6 +525,8 @@ libnice
 libnl
 libnm
 libnm-glib
+libnm-gtk
+libnma
 libnotify
 libnsl
 libnumbertext
@@ -589,6 +594,7 @@ libutil-linux
 libuv
 libva
 libva-vdpau-driver
+libva1
 libvdpau
 libvisio
 libvisual
@@ -904,6 +910,7 @@ python-sqlalchemy
 python-stevedore
 python-tabulate
 python-texttable
+python-toml
 python-tornado
 python-traitlets
 python-twisted
