@@ -1,6 +1,4 @@
-evernote-sdk-python
 frame
-gcc54
 geis
 grail
 lcms
@@ -12,8 +10,3 @@ python-asttokens
 python-notify2
 python-openrazer
 python-txdbus
-python2-htpasswd-git
-python2-markdown2-git
-python2-oauth2
-python2-orderedmultidict-git
-python2-proxyenv-git
