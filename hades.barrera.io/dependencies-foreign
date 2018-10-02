@@ -5,7 +5,6 @@ libgksu
 python-asttokens
 python-babelfish
 python-enzyme
-python-ewmh
 python-guessit
 python-onetimepass
 python-rarfile

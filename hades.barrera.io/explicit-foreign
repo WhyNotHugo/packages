@@ -1,8 +1,6 @@
 1password-cli
-alacritty-git
 alsi
 browser-vacuum
-caffeine-ng
 cower
 ctop
 discord
@@ -17,7 +15,6 @@ hobarrera-sxiv
 i3pystatus-git
 insomnia
 jslint
-libasr-snapshot
 meta-group-base
 meta-group-base-devel
 pacaur
@@ -25,7 +22,6 @@ pkgbuild-introspection
 pngout
 python-flake8-bugbear
 remotemouse
-scrotpush
 subliminal-git
 sysconfig
 tor-browser
