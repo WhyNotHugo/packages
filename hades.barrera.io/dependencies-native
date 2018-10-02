@@ -525,6 +525,7 @@ nano
 ncurses
 ndctl
 neon
+net-tools
 netctl
 nettle
 nm-connection-editor
