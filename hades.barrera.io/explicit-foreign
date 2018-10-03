@@ -10,7 +10,9 @@ flake8-import-order
 fswebcam
 gksu
 gnome-ssh-askpass2
+go-makepkg
 heroku-cli
+hey
 hobarrera-sxiv
 i3pystatus-git
 insomnia

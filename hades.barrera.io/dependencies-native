@@ -5,9 +5,6 @@ adwaita-icon-theme
 alsa-lib
 alsa-plugins
 aom
-apache
-apr
-apr-util
 archlinux-keyring
 argon2
 aspell
@@ -126,6 +123,7 @@ gmp
 gnome-desktop
 gnupg
 gnutls
+go
 gobject-introspection-runtime
 gpgme
 gpm
