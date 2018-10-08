@@ -123,7 +123,6 @@ gmp
 gnome-desktop
 gnupg
 gnutls
-go
 gobject-introspection-runtime
 gpgme
 gpm
