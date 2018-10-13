@@ -60,7 +60,6 @@ db
 dbus
 dbus-glib
 dconf
-dconf-editor
 desktop-file-utils
 device-mapper
 dhcpcd
@@ -524,7 +523,6 @@ neon
 net-tools
 netctl
 nettle
-ninja
 nm-connection-editor
 notmuch-runtime
 npth
