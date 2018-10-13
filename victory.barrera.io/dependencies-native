@@ -60,6 +60,7 @@ db
 dbus
 dbus-glib
 dconf
+dconf-editor
 desktop-file-utils
 device-mapper
 dhcpcd
@@ -523,6 +524,7 @@ neon
 net-tools
 netctl
 nettle
+ninja
 nm-connection-editor
 notmuch-runtime
 npth
@@ -633,6 +635,7 @@ python-dockerpty
 python-docopt
 python-docutils
 python-ecdsa
+python-filelock
 python-future
 python-gobject
 python-greenlet
