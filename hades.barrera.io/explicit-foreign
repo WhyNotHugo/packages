@@ -8,6 +8,7 @@ downgrade
 dunstify
 flake8-import-order
 fswebcam
+geeknote
 gksu
 gnome-ssh-askpass2
 go-makepkg
@@ -23,6 +24,7 @@ pacaur
 pkgbuild-introspection
 pngout
 python-flake8-bugbear
+python2-markdown2-git
 remotemouse
 subliminal-git
 sysconfig

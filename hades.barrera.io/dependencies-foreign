@@ -1,3 +1,4 @@
+evernote-sdk-python
 libc++
 libc++abi
 libgksu
@@ -8,3 +9,8 @@ python-guessit
 python-onetimepass
 python-rarfile
 python-rebulk
+python2-htpasswd-git
+python2-oauth2
+python2-orderedmultidict-git
+python2-proxyenv-git
+python2-thrift
