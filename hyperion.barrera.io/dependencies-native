@@ -149,7 +149,6 @@ gnome-themes-extra
 gnome-video-effects
 gnupg
 gnutls
-go
 gobject-introspection-runtime
 gpart
 gpgme
@@ -185,7 +184,6 @@ gzip
 harfbuzz
 harfbuzz-icu
 hdparm
-help2man
 hicolor-icon-theme
 hspell
 http-parser
@@ -257,7 +255,6 @@ lib32-freeglut
 lib32-freetype2
 lib32-fribidi
 lib32-gcc-libs
-lib32-gconf
 lib32-gdk-pixbuf2
 lib32-gettext
 lib32-giflib
@@ -305,6 +302,7 @@ lib32-libgusb
 lib32-libice
 lib32-libid3tag
 lib32-libidn
+lib32-libidn11
 lib32-libidn2
 lib32-libindicator-gtk2
 lib32-libjpeg-turbo
@@ -489,6 +487,7 @@ libical
 libice
 libid3tag
 libidn
+libidn11
 libidn2
 libiec61883
 libindicator-gtk2
@@ -702,7 +701,6 @@ neon
 net-tools
 netctl
 nettle
-ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -726,6 +724,7 @@ openvpn
 opus
 orc
 p11-kit
+p7zip
 pacman
 pacman-contrib
 pacman-mirrorlist
@@ -748,7 +747,6 @@ perl-file-which
 perl-io-socket-ssl
 perl-io-tty
 perl-ipc-run
-perl-locale-gettext
 perl-mailtools
 perl-net-ssleay
 perl-netaddr-ip
@@ -789,8 +787,6 @@ python-asn1crypto
 python-atomicwrites
 python-attrs
 python-automat
-python-babel
-python-beautifulsoup4
 python-blinker
 python-brotlipy
 python-cachecontrol
@@ -821,9 +817,9 @@ python-docker-pycreds
 python-dockerpty
 python-docopt
 python-docutils
-python-dogpile.cache
 python-ecdsa
 python-feedparser
+python-filelock
 python-future
 python-gobject
 python-greenlet
@@ -837,18 +833,15 @@ python-hyperframe
 python-hyperlink
 python-icalendar
 python-idna
-python-imagesize
 python-incremental
 python-iniconfig
 python-jedi
-python-jinja
 python-jsonrpclib-pelix
 python-jsonschema
 python-kaitaistruct
 python-langdetect
 python-ldap3
 python-lockfile
-python-markupsafe
 python-mccabe
 python-msgpack
 python-netifaces
@@ -887,12 +880,10 @@ python-pyparsing
 python-pyperclip
 python-pyqt5
 python-pysocks
-python-pysrt
 python-pytoml
 python-pytz
 python-pyudev
 python-qrcode
-python-regex
 python-requests
 python-requests-oauthlib
 python-requests-toolbelt
@@ -904,13 +895,7 @@ python-sgmllib
 python-sip
 python-sip-pyqt5
 python-six
-python-snowballstemmer
 python-sortedcontainers
-python-sphinx
-python-sphinx-alabaster-theme
-python-sphinx_rtd_theme
-python-sphinxcontrib-websupport
-python-sqlalchemy
 python-stevedore
 python-tabulate
 python-texttable
@@ -927,9 +912,10 @@ python-virtualenv-clone
 python-wcwidth
 python-webencodings
 python-websocket-client
-python-whoosh
+python-wheel
 python-wsproto
 python-xdg
+python-xlib
 python-yaml
 python-zope-interface
 python2
