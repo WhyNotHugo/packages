@@ -20,6 +20,7 @@ clang
 cmake
 cuetools
 d-feet
+dconf-editor
 ddclient
 deluge
 docker
