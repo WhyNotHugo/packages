@@ -9,6 +9,7 @@ python-guessit
 python-onetimepass
 python-rarfile
 python-rebulk
+python-sphinxcontrib-programoutput
 python2-htpasswd-git
 python2-oauth2
 python2-orderedmultidict-git
