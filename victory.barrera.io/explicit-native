@@ -21,7 +21,6 @@ cmake
 cuetools
 d-feet
 dconf-editor
-ddclient
 deluge
 docker
 docker-compose
@@ -202,6 +201,5 @@ yapf
 zathura
 zathura-pdf-poppler
 zerotier-one
-zim
 zsh
 zsh-completions
