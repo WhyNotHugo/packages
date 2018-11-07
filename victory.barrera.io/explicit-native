@@ -114,6 +114,7 @@ pkgfile
 pkgstats
 playerctl
 poedit
+polkit-gnome
 ponymix
 postgresql
 powertop
