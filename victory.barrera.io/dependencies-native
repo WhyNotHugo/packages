@@ -7,6 +7,7 @@ alsa-plugins
 aom
 archlinux-keyring
 argon2
+asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -32,6 +33,7 @@ brotli06
 btrfs-progs
 bubblewrap
 bzip2
+c-ares
 ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
@@ -52,6 +54,7 @@ clutter-gtk
 cogl
 colord
 compiler-rt
+containerd
 coreutils
 cracklib
 cryptsetup
@@ -67,6 +70,8 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
+docbook-xml
+docbook-xsl
 dosfstools
 double-conversion
 e2fsprogs
@@ -161,6 +166,7 @@ harfbuzz-icu
 hdparm
 hicolor-icon-theme
 hspell
+http-parser
 hunspell
 hunspell-en_US
 hwids
@@ -358,7 +364,9 @@ libmwaw
 libmypaint
 libnatpmp
 libndp
+libnetfilter_conntrack
 libnewt
+libnfnetlink
 libnftnl
 libnghttp2
 libnice
@@ -524,6 +532,7 @@ net-tools
 netctl
 nettle
 nm-connection-editor
+nodejs
 notmuch-runtime
 npth
 nspr
@@ -812,6 +821,7 @@ ruby-thor
 ruby-yard
 rubygems
 run-parts
+runc
 s-nail
 sbc
 sdl
