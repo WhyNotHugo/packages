@@ -584,6 +584,7 @@ popt
 portaudio
 portmidi
 portsmf
+postgresql
 postgresql-libs
 potrace
 procps-ng
