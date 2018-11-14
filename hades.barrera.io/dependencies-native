@@ -506,6 +506,7 @@ man-db
 man-pages
 mate-desktop
 mdadm
+memtest86+
 metis
 miniupnpc
 minizip
@@ -759,6 +760,7 @@ python2-pycparser
 python2-pyhamcrest
 python2-pyopenssl
 python2-pyparsing
+python2-service-identity
 python2-setuptools
 python2-six
 python2-twisted

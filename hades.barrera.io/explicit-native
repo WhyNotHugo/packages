@@ -67,7 +67,6 @@ lsof
 maim
 mate-utils
 mediainfo
-memtest86+
 mesa
 minicom
 mitmproxy
@@ -120,7 +119,6 @@ python-pip
 python-pipenv
 python-tox
 python-virtualenvwrapper
-python2-service-identity
 qrencode
 retroarch
 retroarch-assets-xmb
