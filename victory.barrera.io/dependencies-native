@@ -87,6 +87,7 @@ faac
 faad2
 fakeroot
 ffmpeg
+ffmpegthumbnailer
 fftw
 file
 file-roller
@@ -863,6 +864,7 @@ thin-provisioning-tools
 tinyxml2
 tslib
 ttf-dejavu
+tumbler
 twolame
 tzdata
 uchardet
