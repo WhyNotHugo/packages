@@ -151,6 +151,7 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
+gtk-sharp-2
 gtk-update-icon-cache
 gtk2
 gtk3
@@ -269,6 +270,8 @@ lib32-xz
 lib32-zlib
 libabw
 libaio
+libappindicator-gtk2
+libappindicator-sharp
 libarchive
 libart-lgpl
 libasr
@@ -298,6 +301,8 @@ libcups
 libcurl-gnutls
 libdaemon
 libdatrie
+libdbusmenu-glib
+libdbusmenu-gtk2
 libdbusmenu-qt4
 libdc1394
 libdca
@@ -341,6 +346,7 @@ libid3tag
 libidn
 libidn2
 libiec61883
+libindicator-gtk2
 libinput
 libixion
 libjpeg-turbo
