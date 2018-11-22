@@ -127,6 +127,7 @@ glib-networking
 glib2
 glibc
 glibmm
+glslang
 glu
 gmime
 gmp
@@ -259,6 +260,7 @@ lib32-libxss
 lib32-libxxf86vm
 lib32-llvm-libs
 lib32-lm_sensors
+lib32-lz4
 lib32-mesa
 lib32-ncurses
 lib32-pcre
@@ -268,6 +270,7 @@ lib32-util-linux
 lib32-wayland
 lib32-xz
 lib32-zlib
+lib32-zstd
 libabw
 libaio
 libappindicator-gtk2
@@ -836,6 +839,7 @@ sdl
 sdl2
 sed
 serd
+shaderc
 shadow
 shared-mime-info
 slang
@@ -848,6 +852,7 @@ soundtouch
 spandsp
 speex
 speexdsp
+spirv-tools
 sqlite
 sratom
 srt
