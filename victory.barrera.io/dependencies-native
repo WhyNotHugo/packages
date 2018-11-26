@@ -7,7 +7,6 @@ alsa-plugins
 aom
 archlinux-keyring
 argon2
-asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -33,7 +32,6 @@ brotli06
 btrfs-progs
 bubblewrap
 bzip2
-c-ares
 ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
@@ -70,8 +68,6 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
-docbook-xml
-docbook-xsl
 dosfstools
 double-conversion
 e2fsprogs
@@ -169,14 +165,12 @@ harfbuzz-icu
 hdparm
 hicolor-icon-theme
 hspell
-http-parser
 hunspell
 hunspell-en_US
 hwids
 hyphen
 iana-etc
 icu
-idnkit
 ilmbase
 imlib2
 inetutils
@@ -542,7 +536,6 @@ net-tools
 netctl
 nettle
 nm-connection-editor
-nodejs
 notmuch-runtime
 npth
 nspr
@@ -594,7 +587,6 @@ popt
 portaudio
 portmidi
 portsmf
-postgresql
 postgresql-libs
 potrace
 procps-ng
@@ -875,7 +867,6 @@ thin-provisioning-tools
 tinyxml2
 tslib
 ttf-dejavu
-tumbler
 twolame
 tzdata
 uchardet
