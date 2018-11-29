@@ -7,6 +7,7 @@ alsa-plugins
 aom
 archlinux-keyring
 argon2
+asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -32,6 +33,7 @@ brotli06
 btrfs-progs
 bubblewrap
 bzip2
+c-ares
 ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
@@ -165,6 +167,7 @@ harfbuzz-icu
 hdparm
 hicolor-icon-theme
 hspell
+http-parser
 hunspell
 hunspell-en_US
 hwids
@@ -536,6 +539,7 @@ net-tools
 netctl
 nettle
 nm-connection-editor
+nodejs
 notmuch-runtime
 npth
 nspr
@@ -670,6 +674,7 @@ python-parsedatetime
 python-parso
 python-passlib
 python-pbkdf2
+python-pep517
 python-pew
 python-pexpect
 python-pickleshare
