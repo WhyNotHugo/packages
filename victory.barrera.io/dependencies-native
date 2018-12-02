@@ -57,6 +57,7 @@ coreutils
 cracklib
 cryptsetup
 curl
+cython
 db
 dbus
 dbus-glib
@@ -176,6 +177,7 @@ ilmbase
 imlib2
 inetutils
 intel-tbb
+intltool
 iproute2
 iptables
 iputils
@@ -576,6 +578,7 @@ perl-ipc-run
 perl-mailtools
 perl-time-duration
 perl-timedate
+perl-xml-parser
 pinentry
 pixman
 pkcs11-helper
@@ -686,6 +689,7 @@ python-ptyprocess
 python-py
 python-pyaes
 python-pyasn1
+python-pybluez
 python-pycodestyle
 python-pycparser
 python-pycryptodomex
