@@ -685,6 +685,7 @@ python-progress
 python-progressbar
 python-prompt_toolkit
 python-protobuf
+python-psycopg2
 python-ptyprocess
 python-py
 python-pyaes
@@ -899,7 +900,6 @@ wildmidi
 woff2
 wpa_supplicant
 wxgtk-common
-wxgtk2
 wxgtk3
 x264
 x265
