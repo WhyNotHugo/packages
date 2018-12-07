@@ -8,7 +8,6 @@ atool
 audacity
 autossh
 bind-tools
-blueberry
 bluez-utils
 bwm-ng
 calc
@@ -42,7 +41,6 @@ gitlab-runner
 gnome-keyring
 gparted
 gsmartcontrol
-gtk-recordmydesktop
 httpie
 hunspell-en_GB
 hunspell-es_ar
@@ -74,7 +72,6 @@ mitmproxy
 moreutils
 mpv
 musescore
-mypaint
 namcap
 nemo
 nemo-fileroller
