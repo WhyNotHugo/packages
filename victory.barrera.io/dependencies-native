@@ -211,7 +211,9 @@ lib32-alsa-lib
 lib32-alsa-plugins
 lib32-attr
 lib32-bzip2
+lib32-dbus
 lib32-expat
+lib32-flac
 lib32-fontconfig
 lib32-freetype2
 lib32-gcc-libs
@@ -224,6 +226,7 @@ lib32-gstreamer
 lib32-harfbuzz
 lib32-icu
 lib32-lcms2
+lib32-libasyncns
 lib32-libcap
 lib32-libdrm
 lib32-libelf
@@ -233,14 +236,19 @@ lib32-libglvnd
 lib32-libgpg-error
 lib32-libice
 lib32-libjpeg-turbo
+lib32-libldap
 lib32-libnl
+lib32-libogg
 lib32-libpcap
 lib32-libpciaccess
 lib32-libpng
+lib32-libpulse
 lib32-libsm
+lib32-libsndfile
 lib32-libtiff
 lib32-libunwind
 lib32-libusb
+lib32-libvorbis
 lib32-libx11
 lib32-libxau
 lib32-libxcb
@@ -255,6 +263,7 @@ lib32-libxrandr
 lib32-libxrender
 lib32-libxshmfence
 lib32-libxss
+lib32-libxtst
 lib32-libxv
 lib32-libxxf86vm
 lib32-llvm-libs
@@ -262,6 +271,7 @@ lib32-lm_sensors
 lib32-lz4
 lib32-mesa
 lib32-ncurses
+lib32-openssl
 lib32-orc
 lib32-pcre
 lib32-readline
