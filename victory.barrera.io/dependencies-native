@@ -7,6 +7,7 @@ alsa-plugins
 aom
 archlinux-keyring
 argon2
+asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -31,6 +32,7 @@ brotli06
 btrfs-progs
 bubblewrap
 bzip2
+c-ares
 ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
@@ -552,6 +554,7 @@ net-tools
 netctl
 nettle
 nm-connection-editor
+nodejs
 notmuch-runtime
 npth
 nspr
