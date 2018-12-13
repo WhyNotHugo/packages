@@ -115,6 +115,7 @@ polkit-gnome
 ponymix
 powertop
 pulseaudio-alsa
+pulseaudio-bluetooth
 pv
 python-ipdb
 python-neovim
