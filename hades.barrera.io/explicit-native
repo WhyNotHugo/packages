@@ -103,6 +103,7 @@ parity-ethereum
 pass
 pavucontrol
 pepper-flash
+perl-image-exiftool
 perl-switch
 pgadmin3
 pkgfile
@@ -160,6 +161,7 @@ tor
 trash-cli
 tree
 tsocks
+ttf-opensans
 ttf-ubuntu-font-family
 vagrant
 vdirsyncer
