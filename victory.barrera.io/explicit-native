@@ -182,6 +182,7 @@ winetricks
 xclip
 xdg-user-dirs
 xdotool
+xf86-video-intel
 xorg-fonts-encodings
 xorg-server
 xorg-setxkbmap
