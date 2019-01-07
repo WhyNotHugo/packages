@@ -51,6 +51,7 @@ clutter-gtk
 cogl
 colord
 compiler-rt
+containerd
 coreutils
 cracklib
 cryptsetup
@@ -117,6 +118,7 @@ glib-networking
 glib2
 glibc
 glibmm
+glslang
 glu
 gmime
 gmp
@@ -249,6 +251,7 @@ lib32-libxss
 lib32-libxxf86vm
 lib32-llvm-libs
 lib32-lm_sensors
+lib32-lz4
 lib32-mesa
 lib32-ncurses
 lib32-nvidia-utils
@@ -259,6 +262,7 @@ lib32-util-linux
 lib32-wayland
 lib32-xz
 lib32-zlib
+lib32-zstd
 libabw
 libaio
 libappindicator-gtk2
@@ -362,7 +366,9 @@ libmwaw
 libmypaint
 libnatpmp
 libndp
+libnetfilter_conntrack
 libnewt
+libnfnetlink
 libnftnl
 libnghttp2
 libnice
@@ -669,6 +675,7 @@ python-parsedatetime
 python-parso
 python-passlib
 python-pbkdf2
+python-pep517
 python-pew
 python-pexpect
 python-pickleshare
@@ -825,6 +832,7 @@ ruby-thor
 ruby-yard
 rubygems
 run-parts
+runc
 s-nail
 sbc
 sdl
@@ -832,6 +840,7 @@ sdl2
 sed
 semver
 serd
+shaderc
 shadow
 shared-mime-info
 slang
@@ -845,6 +854,7 @@ soundtouch
 spandsp
 speex
 speexdsp
+spirv-tools
 sqlite
 sratom
 srt
