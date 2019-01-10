@@ -3,6 +3,7 @@ geis
 grail
 libc++
 libc++abi
+ncurses5-compat-libs
 openrazer-daemon
 openrazer-driver-dkms
 python-asttokens

@@ -115,6 +115,7 @@ gdbm
 gdk-pixbuf2
 gegl
 geoclue2
+geocode-glib
 geoip
 geoip-database
 gettext
