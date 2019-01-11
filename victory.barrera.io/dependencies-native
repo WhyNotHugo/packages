@@ -324,6 +324,7 @@ libdbusmenu-qt4
 libdc1394
 libdca
 libde265
+libdmx
 libdrm
 libdv
 libdvdnav
@@ -505,6 +506,7 @@ libxt
 libxtst
 libxv
 libxvmc
+libxxf86dga
 libxxf86vm
 libyaml
 libzen
@@ -842,7 +844,6 @@ qt5-tools
 qt5-webchannel
 qt5-webengine
 qt5-webkit
-qt5-x11extras
 qt5-xmlpatterns
 raptor
 rasqal
@@ -983,6 +984,7 @@ xorg-server-common
 xorg-server-devel
 xorg-util-macros
 xorg-xauth
+xorg-xdpyinfo
 xorg-xkbcomp
 xorg-xmessage
 xorg-xsetroot
