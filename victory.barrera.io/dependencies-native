@@ -366,6 +366,7 @@ libid3tag
 libidn
 libidn2
 libiec61883
+libimagequant
 libindicator-gtk2
 libinput
 libixion
