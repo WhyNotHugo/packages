@@ -9,6 +9,7 @@ audacity
 autossh
 bind-tools
 bluez-utils
+bolt
 bwm-ng
 calc
 cgminer
@@ -69,7 +70,6 @@ mate-utils
 mediainfo
 memtest86+
 mesa-demos
-minicom
 mitmproxy
 moreutils
 mpv
@@ -96,7 +96,6 @@ nvidia-settings
 nvidia-utils
 offlineimap
 openbsd-netcat
-opencl-nvidia
 opensmtpd
 openssh
 optipng
@@ -133,6 +132,7 @@ rofi
 rsync
 ruby-homesick
 ruby-jekyll
+rust
 scrot
 slock
 smartmontools
@@ -163,7 +163,6 @@ texlive-pstricks
 texlive-publishers
 texlive-science
 the_silver_searcher
-tigervnc
 tlp
 tmux
 todoman
@@ -175,7 +174,6 @@ tsocks
 ttf-fira-mono
 ttf-opensans
 ttf-ubuntu-font-family
-vagrant
 vdirsyncer
 wine-mono
 wine-staging

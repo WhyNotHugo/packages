@@ -7,7 +7,6 @@ alsa-plugins
 aom
 archlinux-keyring
 argon2
-asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -58,7 +57,6 @@ coreutils
 cracklib
 cryptsetup
 curl
-cython
 db
 dbus
 dbus-glib
@@ -95,7 +93,6 @@ filesystem
 findutils
 flac
 flex
-fltk
 fontconfig
 freeglut
 freetype2
@@ -181,7 +178,6 @@ ilmbase
 imlib2
 inetutils
 intel-tbb
-intltool
 iproute2
 iptables
 iputils
@@ -326,7 +322,6 @@ libdbusmenu-qt4
 libdc1394
 libdca
 libde265
-libdmx
 libdrm
 libdv
 libdvdnav
@@ -509,7 +504,6 @@ libxt
 libxtst
 libxv
 libxvmc
-libxxf86dga
 libxxf86vm
 libyaml
 libzen
@@ -561,7 +555,6 @@ neon
 net-tools
 netctl
 nettle
-ninja
 nm-connection-editor
 nodejs
 notmuch-runtime
@@ -603,7 +596,6 @@ perl-ipc-run
 perl-mailtools
 perl-time-duration
 perl-timedate
-perl-xml-parser
 pinentry
 pixman
 pkcs11-helper
@@ -839,7 +831,6 @@ qt5-base
 qt5-declarative
 qt5-imageformats
 qt5-location
-qt5-quickcontrols
 qt5-quickcontrols2
 qt5-sensors
 qt5-svg
@@ -988,10 +979,8 @@ xorg-server-common
 xorg-server-devel
 xorg-util-macros
 xorg-xauth
-xorg-xdpyinfo
 xorg-xkbcomp
 xorg-xmessage
-xorg-xsetroot
 xorgproto
 xvidcore
 xz
