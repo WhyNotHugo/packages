@@ -145,6 +145,7 @@ gsettings-desktop-schemas
 gsfonts
 gsl
 gsm
+gssdp
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-base-libs
@@ -160,6 +161,8 @@ gtkspell
 gtkspell3
 guile
 guile2.0
+gupnp
+gupnp-igd
 gvfs
 gzip
 harfbuzz
@@ -358,7 +361,6 @@ libibus
 libical
 libice
 libid3tag
-libidn
 libidn2
 libiec61883
 libimagequant
@@ -831,7 +833,6 @@ qt5-base
 qt5-declarative
 qt5-imageformats
 qt5-location
-qt5-quickcontrols2
 qt5-sensors
 qt5-svg
 qt5-tools
@@ -863,7 +864,7 @@ ruby-http_parser.rb
 ruby-i18n-0
 ruby-jekyll-sass-converter
 ruby-jekyll-watch
-ruby-kramdown
+ruby-kramdown-1
 ruby-liquid
 ruby-listen
 ruby-maruku
