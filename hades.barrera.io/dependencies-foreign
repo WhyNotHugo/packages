@@ -2,6 +2,7 @@ geoclue2
 libc++
 libc++abi
 libgksu
+libnm-gtk
 python-asttokens
 python-babelfish
 python-enzyme
