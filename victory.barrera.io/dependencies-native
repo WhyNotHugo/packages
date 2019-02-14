@@ -7,7 +7,6 @@ alsa-plugins
 aom
 archlinux-keyring
 argon2
-asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -76,11 +75,10 @@ e2fsprogs
 efivar
 egl-wayland
 eglexternalplatform
-electron2
+electron
 elfutils
 enchant
 exempi
-expac
 expat
 faac
 faad2
@@ -113,6 +111,7 @@ gdb-common
 gdbm
 gdk-pixbuf2
 gegl
+geoclue
 geocode-glib
 geoip
 geoip-database
@@ -161,6 +160,7 @@ gtkspell
 gtkspell3
 guile
 guile2.0
+gunicorn
 gupnp
 gupnp-igd
 gvfs
@@ -316,6 +316,7 @@ libcdr
 libcmis
 libcroco
 libcups
+libcurl-compat
 libcurl-gnutls
 libdaemon
 libdatrie
@@ -340,6 +341,7 @@ libevdev
 libevent
 libexif
 libexttextcat
+libfbclient
 libfdk-aac
 libffi
 libfontenc
@@ -398,7 +400,6 @@ libnice
 libnl
 libnm
 libnm-glib
-libnm-gtk
 libnma
 libnotify
 libnsl
@@ -442,7 +443,6 @@ libssh
 libssh2
 libstaroffice
 libsynctex
-libsystemd
 libtasn1
 libteam
 libtermkey
@@ -622,12 +622,16 @@ pygobject2-devel
 pygtk
 pyqt5-common
 python
+python-aiohttp
+python-aiohttp-socks
+python-aiorpcx
 python-alembic
 python-apipkg
 python-appdirs
 python-argcomplete
 python-argparse
 python-asn1crypto
+python-async-timeout
 python-atomicwrites
 python-attrs
 python-automat
@@ -666,6 +670,7 @@ python-docopt
 python-docutils
 python-ecdsa
 python-editor
+python-entrypoints
 python-extras
 python-filelock
 python-fixtures
@@ -711,6 +716,7 @@ python-markupsafe
 python-mccabe
 python-mimeparse
 python-msgpack
+python-multidict
 python-numpy
 python-oauthlib
 python-packaging
@@ -796,6 +802,7 @@ python-wsproto
 python-wtforms
 python-xdg
 python-yaml
+python-yarl
 python-zope-interface
 python2
 python2-appdirs
@@ -913,6 +920,7 @@ suil
 suitesparse
 sysfsutils
 systemd
+systemd-libs
 systemd-sysvcompat
 t1lib
 taglib

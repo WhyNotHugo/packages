@@ -1,7 +1,6 @@
 alsi
 blueman-netauth
 browser-vacuum
-cower
 ctop
 discord
 downgrade
@@ -14,7 +13,6 @@ meta-group-base
 meta-group-base-devel
 minecraft
 minecraft-launcher
-pacaur
 pkgbuild-introspection
 plymouth
 plymouth-theme-monoarch
@@ -33,4 +31,5 @@ ttf-ms-fonts
 ttf-symbola
 universal-ctags-git
 vmware-workstation
+yay
 zoom
