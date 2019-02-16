@@ -316,7 +316,6 @@ libcdr
 libcmis
 libcroco
 libcups
-libcurl-compat
 libcurl-gnutls
 libdaemon
 libdatrie
@@ -558,7 +557,6 @@ net-tools
 netctl
 nettle
 nm-connection-editor
-nodejs
 notmuch-runtime
 npth
 nspr
