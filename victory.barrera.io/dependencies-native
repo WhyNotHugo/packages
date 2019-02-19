@@ -131,11 +131,13 @@ gmime
 gmp
 gnome-desktop
 gnupg
+gnustep-base
 gnutls
 gobject-introspection-runtime
 gpgme
 gpm
 gptfdisk
+granite
 graphene
 graphite
 grep
@@ -347,6 +349,7 @@ libfontenc
 libfreehand
 libgcrypt
 libgdiplus
+libgee
 libgexiv2
 libglade
 libglvnd
@@ -936,6 +939,7 @@ twolame
 tzdata
 uchardet
 udisks2
+unarchiver
 unibilium
 unzip
 usbutils
