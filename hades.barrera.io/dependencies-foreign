@@ -1,8 +1,7 @@
-geoclue2
 libc++
 libc++abi
 libgksu
-libnm-gtk
+libsystemd
 python-asttokens
 python-babelfish
 python-enzyme
@@ -10,4 +9,3 @@ python-guessit
 python-onetimepass
 python-rarfile
 python-rebulk
-python-sphinxcontrib-programoutput
