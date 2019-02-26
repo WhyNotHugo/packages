@@ -107,6 +107,7 @@ parity-ethereum
 pass
 pavucontrol
 pepper-flash
+perl-image-exiftool
 perl-switch
 pgadmin4
 pkgfile
