@@ -126,7 +126,6 @@ gmp
 gnome-desktop
 gnupg
 gnutls
-go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -538,7 +537,6 @@ neon
 net-tools
 netctl
 nettle
-ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -781,7 +779,6 @@ qt5-base
 qt5-declarative
 qt5-imageformats
 qt5-location
-qt5-quickcontrols2
 qt5-sensors
 qt5-svg
 qt5-tools

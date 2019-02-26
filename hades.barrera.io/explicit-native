@@ -173,6 +173,7 @@ winetricks
 xclip
 xdg-user-dirs
 xdotool
+xf86-input-evdev
 xf86-input-vmmouse
 xf86-video-vmware
 xorg-fonts-encodings
