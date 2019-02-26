@@ -1,7 +1,6 @@
 1password-cli
 alsi
 browser-vacuum
-cower
 ctop
 discord
 downgrade
@@ -17,7 +16,6 @@ insomnia
 jslint
 meta-group-base
 meta-group-base-devel
-pacaur
 pkgbuild-introspection
 pngout
 python-flake8-bugbear
@@ -31,4 +29,5 @@ ttf-ms-fonts
 ttf-symbola
 tusk
 universal-ctags-git
+yay
 zoom

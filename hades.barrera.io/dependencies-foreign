@@ -1,7 +1,6 @@
 libc++
 libc++abi
 libgksu
-libsystemd
 python-asttokens
 python-babelfish
 python-enzyme

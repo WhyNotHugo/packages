@@ -72,10 +72,10 @@ ed
 efivar
 egl-wayland
 eglexternalplatform
+electron
 elfutils
 enchant
 exempi
-expac
 expat
 faac
 faad2
@@ -126,6 +126,7 @@ gmp
 gnome-desktop
 gnupg
 gnutls
+go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -164,6 +165,7 @@ harfbuzz-icu
 hdparm
 hicolor-icon-theme
 hspell
+http-parser
 hunspell
 hunspell-en_US
 hwids
@@ -536,6 +538,7 @@ neon
 net-tools
 netctl
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -861,6 +864,7 @@ suil
 suitesparse
 sysfsutils
 systemd
+systemd-libs
 systemd-sysvcompat
 t1lib
 taglib
