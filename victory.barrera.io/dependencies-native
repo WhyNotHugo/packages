@@ -5,6 +5,7 @@ adwaita-icon-theme
 alsa-lib
 alsa-plugins
 aom
+apparmor
 archlinux-keyring
 argon2
 aspell
@@ -135,6 +136,8 @@ gnome-desktop
 gnupg
 gnustep-base
 gnutls
+go
+go-tools
 gobject-introspection-runtime
 gpgme
 gpm
@@ -531,7 +534,6 @@ luajit
 lucene++
 lv2
 lvm2
-lxc
 lz4
 lzip
 lzo
@@ -907,7 +909,6 @@ s-nail
 sbc
 sdl
 sdl2
-sdl2_image
 sed
 semver
 serd
@@ -972,7 +973,6 @@ wayland
 wayland-protocols
 webkit2gtk
 webrtc-audio-processing
-wget
 which
 wildmidi
 woff2

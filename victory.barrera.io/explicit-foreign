@@ -1,6 +1,4 @@
 alsi
-anbox-git
-anbox-modules-dkms-git
 blueman-netauth
 browser-vacuum
 ctop
@@ -25,6 +23,7 @@ python-flake8-import-order
 razercommander
 remotemouse
 skypeforlinux-preview-bin
+snapd
 spotify
 stepmania
 sysconfig
