@@ -24,6 +24,7 @@ bison
 blas
 bluez
 bluez-libs
+boost
 boost-libs
 bridge-utils
 brotli
@@ -125,6 +126,7 @@ glib-networking
 glib2
 glibc
 glibmm
+glm
 glslang
 glu
 gmime
@@ -152,6 +154,7 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
+gtest
 gtk-sharp-2
 gtk-update-icon-cache
 gtk2
@@ -528,7 +531,9 @@ luajit
 lucene++
 lv2
 lvm2
+lxc
 lz4
+lzip
 lzo
 m4
 mailcap
@@ -902,6 +907,7 @@ s-nail
 sbc
 sdl
 sdl2
+sdl2_image
 sed
 semver
 serd
@@ -920,6 +926,7 @@ speex
 speexdsp
 spirv-tools
 sqlite
+squashfs-tools
 sratom
 srt
 startup-notification
@@ -965,6 +972,7 @@ wayland
 wayland-protocols
 webkit2gtk
 webrtc-audio-processing
+wget
 which
 wildmidi
 woff2
