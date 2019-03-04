@@ -973,6 +973,7 @@ wayland
 wayland-protocols
 webkit2gtk
 webrtc-audio-processing
+wget
 which
 wildmidi
 woff2
