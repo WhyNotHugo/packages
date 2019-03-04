@@ -7,7 +7,6 @@ alsa-plugins
 aom
 archlinux-keyring
 argon2
-asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -840,17 +839,20 @@ python2-twisted
 python2-virtualenv
 python2-xdg
 python2-zope-interface
+qca
 qt4
 qt5-base
 qt5-declarative
 qt5-imageformats
 qt5-location
+qt5-script
 qt5-sensors
 qt5-svg
 qt5-tools
 qt5-webchannel
 qt5-webengine
 qt5-webkit
+qt5-x11extras
 qt5-xmlpatterns
 raptor
 rasqal
@@ -953,6 +955,7 @@ v4l-utils
 vamp-plugin-sdk
 vi
 vid.stab
+virtualbox
 volume_key
 vpnc
 vte-common
