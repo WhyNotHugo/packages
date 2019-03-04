@@ -1,8 +1,8 @@
 alsi
-android-emulator
+anbox-git
+anbox-modules-dkms-git
 blueman-netauth
 browser-vacuum
-chromeos-apk-git
 ctop
 discord
 downgrade
