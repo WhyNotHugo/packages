@@ -561,8 +561,10 @@ net-tools
 netctl
 nettle
 nm-connection-editor
+node-gyp
 nodejs
 notmuch-runtime
+npm
 npth
 nspr
 nss
@@ -899,6 +901,7 @@ sbc
 sdl
 sdl2
 sed
+semver
 serd
 shaderc
 shadow
