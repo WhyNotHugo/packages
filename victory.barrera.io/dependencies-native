@@ -5,7 +5,6 @@ adwaita-icon-theme
 alsa-lib
 alsa-plugins
 aom
-apparmor
 archlinux-keyring
 argon2
 aspell
@@ -534,6 +533,7 @@ luajit
 lucene++
 lv2
 lvm2
+lxc
 lz4
 lzip
 lzo
@@ -909,6 +909,7 @@ s-nail
 sbc
 sdl
 sdl2
+sdl2_image
 sed
 semver
 serd
