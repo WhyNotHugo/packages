@@ -8,3 +8,4 @@ python-asttokens
 python-notify2
 python-openrazer
 python-txdbus
+xorg-mkfontdir
