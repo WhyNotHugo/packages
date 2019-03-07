@@ -924,7 +924,6 @@ xmlsec
 xorg-bdftopcf
 xorg-font-util
 xorg-font-utils
-xorg-mkfontdir
 xorg-mkfontscale
 xorg-server-common
 xorg-xauth
