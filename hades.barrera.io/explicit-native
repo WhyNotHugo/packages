@@ -25,6 +25,7 @@ docker-compose
 dosfstools
 dunst
 efibootmgr
+electrum
 encfs
 exiv2
 feh
