@@ -83,6 +83,7 @@ electron
 elfutils
 enchant
 exempi
+exo
 expat
 faac
 faad2
@@ -494,6 +495,8 @@ libxdamage
 libxdg-basedir
 libxdmcp
 libxext
+libxfce4ui
+libxfce4util
 libxfixes
 libxfont2
 libxft
@@ -612,6 +615,7 @@ perl-ipc-run
 perl-mailtools
 perl-time-duration
 perl-timedate
+perl-uri
 pinentry
 pixman
 pkcs11-helper
@@ -999,6 +1003,7 @@ xcb-util-wm
 xcb-util-xrm
 xdg-utils
 xf86-input-libinput
+xfconf
 xfsprogs
 xkeyboard-config
 xmlsec
