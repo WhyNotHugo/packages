@@ -7,7 +7,6 @@ alsa-plugins
 aom
 archlinux-keyring
 argon2
-asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -25,7 +24,6 @@ bison
 blas
 bluez
 bluez-libs
-boost
 boost-libs
 bridge-utils
 brotli
@@ -70,8 +68,6 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
-docbook-xml
-docbook-xsl
 docker
 dosfstools
 double-conversion
@@ -130,7 +126,6 @@ glib-networking
 glib2
 glibc
 glibmm
-glm
 glslang
 glu
 gmime
@@ -139,8 +134,6 @@ gnome-desktop
 gnupg
 gnustep-base
 gnutls
-go
-go-tools
 gobject-introspection-runtime
 gpgme
 gpm
@@ -160,7 +153,6 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
-gtest
 gtk-sharp-2
 gtk-update-icon-cache
 gtk2
@@ -541,7 +533,6 @@ lv2
 lvm2
 lxc
 lz4
-lzip
 lzo
 m4
 mailcap
@@ -935,7 +926,6 @@ speex
 speexdsp
 spirv-tools
 sqlite
-squashfs-tools
 sratom
 srt
 startup-notification
