@@ -5,6 +5,7 @@ anbox-image-gapps
 anbox-modules-dkms-git
 blueman-netauth
 browser-vacuum
+caffeine-ng
 ctop
 discord
 downgrade

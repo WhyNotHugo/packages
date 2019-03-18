@@ -807,9 +807,11 @@ python-wcwidth
 python-webencodings
 python-websocket-client
 python-werkzeug
+python-wheel
 python-wsproto
 python-wtforms
 python-xdg
+python-xlib
 python-yaml
 python-yarl
 python-zope-interface
