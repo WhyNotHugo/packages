@@ -3,7 +3,6 @@ libc++abi
 ncurses5-compat-libs
 openrazer-daemon
 openrazer-driver-dkms
-properties-cpp
 python-asttokens
 python-ewmh
 python-notify2
