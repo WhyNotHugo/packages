@@ -1,12 +1,14 @@
 aalib
 accountsservice
 acl
+adobe-source-code-pro-fonts
 adwaita-icon-theme
 alsa-lib
 alsa-plugins
 aom
 archlinux-keyring
 argon2
+asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -84,6 +86,7 @@ expat
 faac
 faad2
 fakeroot
+faudio
 ffmpeg
 ffmpegthumbnailer
 fftw
@@ -221,6 +224,7 @@ lib32-attr
 lib32-bzip2
 lib32-dbus
 lib32-expat
+lib32-faudio
 lib32-flac
 lib32-fontconfig
 lib32-freetype2
@@ -283,6 +287,7 @@ lib32-openssl
 lib32-orc
 lib32-pcre
 lib32-readline
+lib32-sdl2
 lib32-systemd
 lib32-util-linux
 lib32-wayland
@@ -533,6 +538,7 @@ lv2
 lvm2
 lxc
 lz4
+lzip
 lzo
 m4
 mailcap
@@ -846,20 +852,15 @@ python2-twisted
 python2-virtualenv
 python2-xdg
 python2-zope-interface
-qca
 qt4
 qt5-base
 qt5-declarative
 qt5-imageformats
 qt5-location
-qt5-script
-qt5-sensors
 qt5-svg
 qt5-tools
 qt5-webchannel
 qt5-webengine
-qt5-webkit
-qt5-x11extras
 qt5-xmlpatterns
 raptor
 rasqal
@@ -928,6 +929,7 @@ speex
 speexdsp
 spirv-tools
 sqlite
+squashfs-tools
 sratom
 srt
 startup-notification
@@ -963,7 +965,6 @@ v4l-utils
 vamp-plugin-sdk
 vi
 vid.stab
-virtualbox
 volume_key
 vpnc
 vte-common
