@@ -8,7 +8,6 @@ alsa-plugins
 aom
 archlinux-keyring
 argon2
-asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -538,7 +537,6 @@ lv2
 lvm2
 lxc
 lz4
-lzip
 lzo
 m4
 mailcap
@@ -929,7 +927,6 @@ speex
 speexdsp
 spirv-tools
 sqlite
-squashfs-tools
 sratom
 srt
 startup-notification
