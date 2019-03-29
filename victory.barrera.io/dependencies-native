@@ -297,7 +297,6 @@ libaio
 libappindicator-gtk2
 libappindicator-sharp
 libarchive
-libart-lgpl
 libasr
 libass
 libassuan
@@ -358,7 +357,6 @@ libgexiv2
 libglade
 libglvnd
 libgme
-libgnomecanvas
 libgnomekbd
 libgpg-error
 libgtop
@@ -517,6 +515,7 @@ libxvmc
 libxxf86vm
 libyaml
 libzen
+libzip
 libzmf
 licenses
 lilv
@@ -525,6 +524,7 @@ linux-api-headers
 linux-firmware
 linux-headers
 llvm-libs
+llvm7-libs
 lmdb
 logrotate
 lpsolve
