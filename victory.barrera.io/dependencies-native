@@ -566,6 +566,7 @@ neon
 net-tools
 netctl
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
