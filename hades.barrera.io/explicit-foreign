@@ -16,6 +16,7 @@ insomnia
 jslint
 meta-group-base
 meta-group-base-devel
+pgadmin3
 pkgbuild-introspection
 pngout
 python-flake8-bugbear
