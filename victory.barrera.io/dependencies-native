@@ -683,6 +683,7 @@ python-docutils
 python-ecdsa
 python-editor
 python-entrypoints
+python-ewmh
 python-extras
 python-filelock
 python-fixtures
