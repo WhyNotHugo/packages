@@ -4,6 +4,7 @@ android-tools
 arandr
 arc-gtk-theme
 arc-icon-theme
+asar
 astyle
 atool
 audacity
@@ -43,6 +44,7 @@ gimp
 git-crypt
 gitlab-runner
 gnome-keyring
+go
 gparted
 gsmartcontrol
 httpie
