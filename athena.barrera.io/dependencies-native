@@ -85,7 +85,6 @@ expat
 faac
 faad2
 fakeroot
-faudio
 ffmpeg
 ffmpegthumbnailer
 fftw
@@ -222,7 +221,6 @@ lib32-attr
 lib32-bzip2
 lib32-dbus
 lib32-expat
-lib32-faudio
 lib32-flac
 lib32-fontconfig
 lib32-freetype2
@@ -285,7 +283,6 @@ lib32-openssl
 lib32-orc
 lib32-pcre
 lib32-readline
-lib32-sdl2
 lib32-systemd
 lib32-util-linux
 lib32-wayland
@@ -651,6 +648,7 @@ python-babel
 python-bcrypt
 python-beaker
 python-blinker
+python-botocore
 python-brotlipy
 python-cachecontrol
 python-cached-property
@@ -718,6 +716,7 @@ python-iniconfig
 python-itsdangerous
 python-jedi
 python-jinja
+python-jmespath
 python-jsonrpclib-pelix
 python-jsonschema
 python-kaitaistruct
@@ -781,7 +780,9 @@ python-requests
 python-requests-oauthlib
 python-requests-toolbelt
 python-retrying
+python-rsa
 python-ruamel-yaml
+python-s3transfer
 python-setproctitle
 python-setuptools
 python-simplejson
@@ -1005,7 +1006,6 @@ xorg-server-common
 xorg-server-devel
 xorg-util-macros
 xorg-xauth
-xorg-xinput
 xorg-xkbcomp
 xorg-xmessage
 xorgproto

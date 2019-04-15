@@ -9,6 +9,7 @@ astyle
 atool
 audacity
 autossh
+aws-cli
 bind-tools
 bluez-utils
 bolt
@@ -42,6 +43,7 @@ gdb
 geckodriver
 gimp
 git-crypt
+git-lfs
 gitlab-runner
 gnome-keyring
 go
