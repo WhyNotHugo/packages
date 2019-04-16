@@ -201,6 +201,7 @@ xorg-setxkbmap
 xorg-xev
 xorg-xhost
 xorg-xinit
+xorg-xinput
 xorg-xkill
 xorg-xmodmap
 xorg-xprop
