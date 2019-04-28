@@ -113,6 +113,7 @@ gdb-common
 gdbm
 gdk-pixbuf2
 gegl
+gendesk
 geoclue
 geocode-glib
 geoip
