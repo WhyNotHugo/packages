@@ -4,6 +4,7 @@ ncurses5-compat-libs
 openrazer-daemon
 openrazer-driver-dkms
 python-asttokens
+python-flake8-polyfill
 python-notify2
 python-openrazer
 python-txdbus

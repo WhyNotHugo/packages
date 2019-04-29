@@ -764,6 +764,7 @@ python-pycodestyle
 python-pycparser
 python-pycryptodome
 python-pycryptodomex
+python-pydocstyle
 python-pyelftools
 python-pyflakes
 python-pygments
@@ -793,6 +794,7 @@ python-simplejson
 python-sip
 python-sip-pyqt5
 python-six
+python-snowballstemmer
 python-sortedcontainers
 python-speaklater
 python-sqlalchemy
