@@ -9,4 +9,5 @@ python-flake8-polyfill
 python-notify2
 python-openrazer
 python-txdbus
+qt4
 vmware-keymaps
