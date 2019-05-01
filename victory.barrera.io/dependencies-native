@@ -850,7 +850,6 @@ python2-twisted
 python2-virtualenv
 python2-xdg
 python2-zope-interface
-qt4
 qt5-base
 qt5-declarative
 qt5-imageformats
