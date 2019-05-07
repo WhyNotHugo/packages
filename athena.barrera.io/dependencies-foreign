@@ -6,7 +6,6 @@ openrazer-daemon
 openrazer-driver-dkms
 properties-cpp
 python-asttokens
-python-flake8-polyfill
 python-notify2
 python-openrazer
 python-txdbus
