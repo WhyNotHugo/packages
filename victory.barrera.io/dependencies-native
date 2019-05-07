@@ -98,10 +98,12 @@ flex
 fontconfig
 freeglut
 freetype2
+frei0r-plugins
 fribidi
 fuse-common
 fuse2
 fuse3
+gavl
 gawk
 gc
 gcc
@@ -133,6 +135,7 @@ glu
 gmime
 gmp
 gnome-desktop
+gnome-video-effects
 gnupg
 gnustep-base
 gnutls
@@ -378,6 +381,7 @@ libksba
 liblangtag
 libldap
 liblqr
+liblrdf
 libmad
 libmagick6
 libmediainfo
