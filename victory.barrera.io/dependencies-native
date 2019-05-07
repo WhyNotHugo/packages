@@ -20,6 +20,7 @@ automake
 avahi
 babl
 bash
+bc
 binutils
 bison
 blas
@@ -57,6 +58,8 @@ containerd
 coreutils
 cracklib
 cryptsetup
+cups
+cups-filters
 curl
 db
 dbus
@@ -185,6 +188,7 @@ hwids
 hyphen
 iana-etc
 icu
+ijs
 ilmbase
 imlib2
 inetutils
@@ -380,6 +384,7 @@ libjpeg-turbo
 libksba
 liblangtag
 libldap
+liblouis
 liblqr
 liblrdf
 libmad
@@ -546,6 +551,7 @@ mailcap
 make
 man-db
 man-pages
+mariadb-libs
 mate-desktop
 mdadm
 mesa
@@ -854,6 +860,7 @@ python2-twisted
 python2-virtualenv
 python2-xdg
 python2-zope-interface
+qpdf
 qt5-base
 qt5-declarative
 qt5-imageformats
@@ -958,6 +965,7 @@ uchardet
 udisks2
 unarchiver
 unibilium
+unixodbc
 unzip
 usbutils
 util-linux
