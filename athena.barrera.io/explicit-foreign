@@ -19,6 +19,7 @@ meta-group-base
 meta-group-base-devel
 minecraft
 minecraft-launcher
+natural-scrolling-forever
 pkgbuild-introspection
 plymouth
 plymouth-theme-monoarch
