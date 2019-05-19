@@ -205,6 +205,7 @@ java-runtime-common
 jemalloc
 jfsutils
 js52
+js60
 json-c
 json-glib
 jsoncpp
@@ -865,6 +866,7 @@ qt5-base
 qt5-declarative
 qt5-imageformats
 qt5-location
+qt5-quickcontrols
 qt5-svg
 qt5-tools
 qt5-webchannel
