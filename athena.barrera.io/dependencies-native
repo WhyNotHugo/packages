@@ -108,6 +108,7 @@ fuse3
 gavl
 gawk
 gc
+gcab
 gcc
 gcc-libs
 gconf
@@ -387,6 +388,7 @@ liblqr
 liblrdf
 libmad
 libmagick6
+libmbim
 libmediainfo
 libmm-glib
 libmms
@@ -430,6 +432,7 @@ libpng
 libproxy
 libpsl
 libpulse
+libqmi
 libqxp
 libraqm
 libraw
@@ -444,6 +447,7 @@ libshout
 libsigc++
 libsigsegv
 libsm
+libsmbios
 libsndfile
 libsodium
 libsoup
@@ -453,6 +457,7 @@ libsrtp
 libssh
 libssh2
 libstaroffice
+libstemmer
 libsynctex
 libtasn1
 libteam
@@ -507,6 +512,7 @@ libxkbcommon-x11
 libxkbfile
 libxklavier
 libxml2
+libxmlb
 libxmu
 libxnvctrl
 libxpm
@@ -559,6 +565,7 @@ mjpegtools
 mkinitcpio
 mkinitcpio-busybox
 mobile-broadband-provider-info
+modemmanager
 mono
 mozilla-common
 mpfr
@@ -631,6 +638,7 @@ portmidi
 portsmf
 postgresql-libs
 potrace
+ppp
 procps-ng
 protobuf
 psmisc
