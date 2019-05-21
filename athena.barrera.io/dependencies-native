@@ -205,7 +205,6 @@ java-environment-common
 java-runtime-common
 jemalloc
 jfsutils
-js52
 js60
 json-c
 json-glib

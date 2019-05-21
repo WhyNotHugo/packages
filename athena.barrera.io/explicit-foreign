@@ -12,7 +12,7 @@ downgrade
 fswebcam
 gnome-ssh-askpass2
 hobarrera-sxiv
-i3pystatus
+i3pystatus-git
 insomnia
 itch
 meta-group-base
@@ -29,7 +29,6 @@ python-flake8-import-order
 razercommander
 remotemouse
 skypeforlinux-preview-bin
-sni-qt
 spotify
 stepmania
 sysconfig
