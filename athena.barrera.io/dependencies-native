@@ -26,6 +26,7 @@ bison
 blas
 bluez
 bluez-libs
+boost
 boost-libs
 bridge-utils
 brotli
@@ -132,6 +133,7 @@ glib-networking
 glib2
 glibc
 glibmm
+glm
 glslang
 glu
 gmime
@@ -160,6 +162,7 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
+gtest
 gtk-sharp-2
 gtk-update-icon-cache
 gtk2
