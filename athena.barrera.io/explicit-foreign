@@ -20,7 +20,7 @@ meta-group-base-devel
 minecraft
 minecraft-launcher
 natural-scrolling-forever
-nvidia-xrun
+nvidia-xrun-git
 pkgbuild-introspection
 plymouth
 plymouth-theme-monoarch
