@@ -20,6 +20,7 @@ automake
 avahi
 babl
 bash
+bbswitch
 bc
 binutils
 bison
@@ -953,6 +954,7 @@ sqlite
 sratom
 srt
 startup-notification
+stoken
 sudo
 suil
 suitesparse
