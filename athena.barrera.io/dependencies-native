@@ -299,6 +299,7 @@ lib32-pcre
 lib32-readline
 lib32-systemd
 lib32-util-linux
+lib32-vulkan-icd-loader
 lib32-wayland
 lib32-xz
 lib32-zlib
