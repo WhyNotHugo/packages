@@ -197,6 +197,7 @@ ilmbase
 imagemagick
 imlib2
 inetutils
+iniparser
 intel-tbb
 iproute2
 iptables
@@ -243,6 +244,8 @@ lib32-gettext
 lib32-glib2
 lib32-glibc
 lib32-glu
+lib32-gmp
+lib32-gnutls
 lib32-gst-plugins-base-libs
 lib32-gstreamer
 lib32-harfbuzz
@@ -257,6 +260,7 @@ lib32-libgcrypt
 lib32-libglvnd
 lib32-libgpg-error
 lib32-libice
+lib32-libidn
 lib32-libjpeg-turbo
 lib32-libldap
 lib32-libnl
@@ -267,6 +271,7 @@ lib32-libpng
 lib32-libpulse
 lib32-libsm
 lib32-libsndfile
+lib32-libtasn1
 lib32-libtiff
 lib32-libunwind
 lib32-libusb
@@ -293,12 +298,15 @@ lib32-lm_sensors
 lib32-lz4
 lib32-mesa
 lib32-ncurses
+lib32-nettle
 lib32-openssl
 lib32-orc
+lib32-p11-kit
 lib32-pcre
 lib32-readline
 lib32-systemd
 lib32-util-linux
+lib32-vkd3d
 lib32-vulkan-icd-loader
 lib32-wayland
 lib32-xz
@@ -378,6 +386,7 @@ libibus
 libical
 libice
 libid3tag
+libidn
 libidn2
 libiec61883
 libimagequant
@@ -626,6 +635,7 @@ perl-file-which
 perl-io-tty
 perl-ipc-run
 perl-mailtools
+perl-parse-yapp
 perl-time-duration
 perl-timedate
 perl-uri
@@ -734,6 +744,7 @@ python-hyperframe
 python-hyperlink
 python-icalendar
 python-idna
+python-importlib-metadata
 python-incremental
 python-iniconfig
 python-itsdangerous
@@ -842,6 +853,7 @@ python-xdg
 python-xlib
 python-yaml
 python-yarl
+python-zipp
 python-zope-interface
 python2
 python2-appdirs
@@ -931,6 +943,7 @@ rubygems
 run-parts
 runc
 s-nail
+samba
 sbc
 sdl
 sdl2
@@ -990,6 +1003,7 @@ v4l-utils
 vamp-plugin-sdk
 vi
 vid.stab
+vkd3d
 volume_key
 vpnc
 vte-common
