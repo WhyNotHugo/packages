@@ -24,6 +24,7 @@ clang
 cmake
 code
 cuetools
+cura
 d-feet
 dconf-editor
 deluge
@@ -137,6 +138,7 @@ python-pip
 python-pipenv
 python-tox
 python-virtualenvwrapper
+python-zeroconf
 python2-service-identity
 redshift
 retroarch

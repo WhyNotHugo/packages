@@ -7,6 +7,7 @@ alsa-lib
 alsa-plugins
 aom
 archlinux-keyring
+arcus
 argon2
 aspell
 at-spi2-atk
@@ -62,6 +63,9 @@ cracklib
 cryptsetup
 cups
 cups-filters
+cura-binary-data
+cura-resources-materials
+curaengine
 curl
 db
 dbus
@@ -124,6 +128,7 @@ geoclue
 geocode-glib
 geoip
 geoip-database
+geos
 gettext
 giblib
 giflib
@@ -455,6 +460,7 @@ librevenge
 librsvg
 libsamplerate
 libsasl
+libsavitar
 libseccomp
 libsecret
 libshout
@@ -657,6 +663,7 @@ ppp
 procps-ng
 protobuf
 psmisc
+pugixml
 pulseaudio
 pyalpm
 pygobject-devel
@@ -744,6 +751,7 @@ python-hyperframe
 python-hyperlink
 python-icalendar
 python-idna
+python-ifaddr
 python-importlib-metadata
 python-incremental
 python-iniconfig
@@ -763,6 +771,7 @@ python-mccabe
 python-mimeparse
 python-msgpack
 python-multidict
+python-netifaces
 python-numpy
 python-oauthlib
 python-packaging
@@ -805,6 +814,7 @@ python-pyparsing
 python-pyperclip
 python-pyqt5
 python-pyrsistent
+python-pyserial
 python-pysocks
 python-pytoml
 python-pytz
@@ -817,8 +827,10 @@ python-retrying
 python-rsa
 python-ruamel-yaml
 python-s3transfer
+python-scipy
 python-setproctitle
 python-setuptools
+python-shapely
 python-simplejson
 python-sip
 python-sip-pyqt5
@@ -889,9 +901,11 @@ python2-zope-interface
 qpdf
 qt5-base
 qt5-declarative
+qt5-graphicaleffects
 qt5-imageformats
 qt5-location
 qt5-quickcontrols
+qt5-quickcontrols2
 qt5-svg
 qt5-tools
 qt5-webchannel
@@ -954,6 +968,7 @@ serd
 shaderc
 shadow
 shared-mime-info
+sip
 slang
 slop
 smbclient
@@ -998,6 +1013,7 @@ unarchiver
 unibilium
 unixodbc
 unzip
+uranium
 usbutils
 util-linux
 v4l-utils
