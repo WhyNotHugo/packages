@@ -60,9 +60,6 @@ cracklib
 cryptsetup
 cups
 cups-filters
-cura-binary-data
-cura-resources-materials
-curaengine
 curl
 db
 dbus
@@ -125,7 +122,6 @@ geoclue
 geocode-glib
 geoip
 geoip-database
-geos
 gettext
 giblib
 giflib
@@ -455,7 +451,6 @@ librevenge
 librsvg
 libsamplerate
 libsasl
-libsavitar
 libseccomp
 libsecret
 libshout
@@ -658,7 +653,6 @@ ppp
 procps-ng
 protobuf
 psmisc
-pugixml
 pulseaudio
 pyalpm
 pygobject-devel
@@ -809,7 +803,6 @@ python-pyparsing
 python-pyperclip
 python-pyqt5
 python-pyrsistent
-python-pyserial
 python-pysocks
 python-pytoml
 python-pytz
@@ -822,10 +815,8 @@ python-retrying
 python-rsa
 python-ruamel-yaml
 python-s3transfer
-python-scipy
 python-setproctitle
 python-setuptools
-python-shapely
 python-simplejson
 python-sip
 python-sip-pyqt5
@@ -896,7 +887,6 @@ python2-zope-interface
 qpdf
 qt5-base
 qt5-declarative
-qt5-graphicaleffects
 qt5-imageformats
 qt5-location
 qt5-quickcontrols
