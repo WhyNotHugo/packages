@@ -13,7 +13,6 @@ aws-cli
 bind-tools
 bluez-utils
 bolt
-bookworm
 bwm-ng
 calc
 cgminer
@@ -30,7 +29,6 @@ deluge
 docker-compose
 dunst
 efibootmgr
-electrum
 encfs
 exiv2
 feh
@@ -42,7 +40,6 @@ flake8
 fuseiso
 fwupd
 fzf
-gdb
 geckodriver
 gimp
 git-crypt
@@ -62,10 +59,7 @@ inotify-tools
 intel-ucode
 iperf
 ipython
-jdk8-openjdk
 jhead
-jre8-openjdk
-jre8-openjdk-headless
 kexec-tools
 khal
 leafpad
@@ -101,7 +95,6 @@ notmuch
 noto-fonts-cjk
 noto-fonts-emoji
 nss-mdns
-ntfs-3g
 numlockx
 nvidia
 nvidia-settings
@@ -178,16 +171,12 @@ texlive-pstricks
 texlive-publishers
 texlive-science
 the_silver_searcher
-thunar
 tlp
 tmux
 todoman
 tor
-traceroute
 trash-cli
 tree
-tsocks
-ttf-fira-mono
 ttf-opensans
 ttf-ubuntu-font-family
 unrar
@@ -220,6 +209,7 @@ xorg-xset
 xournalpp
 xsel
 yapf
+yarn
 youtube-dl
 zathura
 zathura-pdf-poppler

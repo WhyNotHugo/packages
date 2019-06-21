@@ -17,13 +17,13 @@ hobarrera-sxiv
 i3pystatus-git
 insomnia
 itch
-libarcus-git
 meta-group-base
 meta-group-base-devel
 minecraft
 minecraft-launcher
 natural-scrolling-forever
 nvidia-xrun-git
+nvm
 pkgbuild-introspection
 plymouth
 plymouth-theme-monoarch
@@ -39,10 +39,8 @@ stepmania
 sysconfig
 systemd-lock-handler
 tor-browser
-ttf-ms-fonts
 ttf-symbola
 unigine-heaven
 universal-ctags-git
 vmware-workstation
 yay
-zoom

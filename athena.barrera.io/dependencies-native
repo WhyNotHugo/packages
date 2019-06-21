@@ -83,7 +83,6 @@ electron
 elfutils
 enchant
 exempi
-exo
 expat
 faac
 faad2
@@ -114,7 +113,6 @@ gcc-libs
 gconf
 gcr
 gd
-gdb-common
 gdbm
 gdk-pixbuf2
 gegl
@@ -139,13 +137,11 @@ gmp
 gnome-desktop
 gnome-video-effects
 gnupg
-gnustep-base
 gnutls
 gobject-introspection-runtime
 gpgme
 gpm
 gptfdisk
-granite
 graphene
 graphite
 grep
@@ -170,8 +166,6 @@ gtksourceview3
 gtkspell
 gtkspell3
 guile
-guile2.0
-gunicorn
 gupnp
 gupnp-igd
 gvfs
@@ -205,8 +199,11 @@ jansson
 jasper
 java-environment-common
 java-runtime-common
+jdk8-openjdk
 jemalloc
 jfsutils
+jre8-openjdk
+jre8-openjdk-headless
 js60
 json-c
 json-glib
@@ -385,7 +382,6 @@ libid3tag
 libidn
 libidn2
 libiec61883
-libimagequant
 libindicator-gtk2
 libinput
 libixion
@@ -510,8 +506,6 @@ libxdamage
 libxdg-basedir
 libxdmcp
 libxext
-libxfce4ui
-libxfce4util
 libxfixes
 libxfont2
 libxft
@@ -598,6 +592,7 @@ npm
 npth
 nspr
 nss
+ntfs-3g
 openal
 openconnect
 opencore-amr
@@ -634,7 +629,6 @@ perl-mailtools
 perl-parse-yapp
 perl-time-duration
 perl-timedate
-perl-uri
 pinentry
 pixman
 pkcs11-helper
@@ -660,16 +654,12 @@ pygobject2-devel
 pygtk
 pyqt5-common
 python
-python-aiohttp
-python-aiohttp-socks
-python-aiorpcx
 python-alembic
 python-apipkg
 python-appdirs
 python-argcomplete
 python-argparse
 python-asn1crypto
-python-async-timeout
 python-atomicwrites
 python-attrs
 python-automat
@@ -701,13 +691,11 @@ python-dbus-common
 python-decorator
 python-distlib
 python-distro
-python-dnspython
 python-docker
 python-docker-pycreds
 python-dockerpty
 python-docopt
 python-docutils
-python-ecdsa
 python-editor
 python-entrypoints
 python-ewmh
@@ -748,7 +736,6 @@ python-itsdangerous
 python-jedi
 python-jinja
 python-jmespath
-python-jsonrpclib-pelix
 python-jsonschema
 python-kaitaistruct
 python-langdetect
@@ -759,7 +746,6 @@ python-markupsafe
 python-mccabe
 python-mimeparse
 python-msgpack
-python-multidict
 python-netifaces
 python-numpy
 python-oauthlib
@@ -768,13 +754,11 @@ python-paramiko
 python-parsedatetime
 python-parso
 python-passlib
-python-pbkdf2
 python-pbr
 python-pep517
 python-pew
 python-pexpect
 python-pickleshare
-python-pillow
 python-pluggy
 python-ply
 python-progress
@@ -785,13 +769,11 @@ python-psutil
 python-psycopg2
 python-ptyprocess
 python-py
-python-pyaes
 python-pyasn1
 python-pybluez
 python-pycodestyle
 python-pycparser
 python-pycryptodome
-python-pycryptodomex
 python-pyelftools
 python-pyflakes
 python-pygments
@@ -803,11 +785,9 @@ python-pyparsing
 python-pyperclip
 python-pyqt5
 python-pyrsistent
-python-pysocks
 python-pytoml
 python-pytz
 python-pyudev
-python-qrcode
 python-requests
 python-requests-oauthlib
 python-requests-toolbelt
@@ -850,7 +830,6 @@ python-wtforms
 python-xdg
 python-xlib
 python-yaml
-python-yarl
 python-zipp
 python-zope-interface
 python2
@@ -992,7 +971,6 @@ twolame
 tzdata
 uchardet
 udisks2
-unarchiver
 unibilium
 unixodbc
 unzip
@@ -1036,7 +1014,6 @@ xcb-util-wm
 xcb-util-xrm
 xdg-utils
 xf86-input-libinput
-xfconf
 xfsprogs
 xkeyboard-config
 xmlsec
