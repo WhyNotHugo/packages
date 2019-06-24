@@ -133,6 +133,7 @@ glibmm
 glslang
 glu
 gmime
+gmime3
 gmp
 gnome-desktop
 gnome-video-effects
@@ -382,6 +383,7 @@ libid3tag
 libidn
 libidn2
 libiec61883
+libimagequant
 libindicator-gtk2
 libinput
 libixion
@@ -630,6 +632,7 @@ perl-parse-yapp
 perl-time-duration
 perl-timedate
 pinentry
+pipewire
 pixman
 pkcs11-helper
 pkgconf
@@ -716,6 +719,7 @@ python-flask-security
 python-flask-sqlalchemy
 python-flask-wtf
 python-future
+python-geoip
 python-gobject
 python-greenlet
 python-h11
@@ -759,6 +763,7 @@ python-pep517
 python-pew
 python-pexpect
 python-pickleshare
+python-pillow
 python-pluggy
 python-ply
 python-progress
@@ -770,6 +775,7 @@ python-psycopg2
 python-ptyprocess
 python-py
 python-pyasn1
+python-pyasn1-modules
 python-pybluez
 python-pycodestyle
 python-pycparser
@@ -788,6 +794,7 @@ python-pyrsistent
 python-pytoml
 python-pytz
 python-pyudev
+python-rencode
 python-requests
 python-requests-oauthlib
 python-requests-toolbelt
@@ -795,6 +802,7 @@ python-retrying
 python-rsa
 python-ruamel-yaml
 python-s3transfer
+python-service-identity
 python-setproctitle
 python-setuptools
 python-simplejson
