@@ -24,6 +24,7 @@ cmake
 code
 cuetools
 d-feet
+dbeaver
 dconf-editor
 deluge
 docker-compose
