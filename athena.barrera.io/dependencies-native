@@ -26,7 +26,6 @@ bison
 blas
 bluez
 bluez-libs
-boost
 boost-libs
 bridge-utils
 brotli
@@ -80,7 +79,6 @@ e2fsprogs
 efivar
 egl-wayland
 eglexternalplatform
-electron
 electron4
 elfutils
 enchant
@@ -132,10 +130,8 @@ glib-networking
 glib2
 glibc
 glibmm
-glm
 glslang
 glu
-gmime
 gmime3
 gmp
 gnome-desktop
@@ -160,7 +156,6 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
-gtest
 gtk-sharp-2
 gtk-update-icon-cache
 gtk2
@@ -558,7 +553,6 @@ lv2
 lvm2
 lxc
 lz4
-lzip
 lzo
 m4
 mailcap
@@ -818,7 +812,6 @@ python2-attrs
 python2-automat
 python2-cairo
 python2-cffi
-python2-chardet
 python2-click
 python2-constantly
 python2-cryptography
@@ -840,7 +833,6 @@ python2-setuptools
 python2-six
 python2-twisted
 python2-virtualenv
-python2-xdg
 python2-zope-interface
 qpdf
 qt5-base
@@ -922,7 +914,6 @@ speex
 speexdsp
 spirv-tools
 sqlite
-squashfs-tools
 sratom
 srt
 startup-notification
