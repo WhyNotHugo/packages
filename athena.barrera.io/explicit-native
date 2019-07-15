@@ -124,6 +124,7 @@ powertop
 pulseaudio-alsa
 pulseaudio-bluetooth
 pv
+python-black
 python-ipdb
 python-neovim
 python-pip
