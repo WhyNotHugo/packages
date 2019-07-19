@@ -647,6 +647,7 @@ popt
 portaudio
 portmidi
 portsmf
+postgresql-libs
 potrace
 ppp
 procps-ng
