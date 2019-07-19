@@ -256,6 +256,7 @@ lib32-libice
 lib32-libidn
 lib32-libjpeg-turbo
 lib32-libldap
+lib32-libltdl
 lib32-libnl
 lib32-libogg
 lib32-libpcap
@@ -290,6 +291,7 @@ lib32-llvm-libs
 lib32-lm_sensors
 lib32-lz4
 lib32-mesa
+lib32-mpg123
 lib32-ncurses
 lib32-nettle
 lib32-openssl
@@ -297,6 +299,7 @@ lib32-orc
 lib32-p11-kit
 lib32-pcre
 lib32-readline
+lib32-sqlite
 lib32-systemd
 lib32-util-linux
 lib32-vkd3d
@@ -607,6 +610,7 @@ openvpn
 opus
 orc
 p11-kit
+p7zip
 pacman
 pacman-contrib
 pacman-mirrorlist
@@ -696,6 +700,7 @@ python-dockerpty
 python-docopt
 python-docutils
 python-entrypoints
+python-evdev
 python-ewmh
 python-filelock
 python-future
