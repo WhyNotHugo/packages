@@ -82,6 +82,7 @@ eglexternalplatform
 electron4
 elfutils
 enchant
+evolution-data-server
 exempi
 expat
 faac
@@ -96,6 +97,7 @@ filesystem
 findutils
 flac
 flex
+folks
 fontconfig
 freeglut
 freetype2
@@ -135,6 +137,7 @@ glu
 gmime3
 gmp
 gnome-desktop
+gnome-online-accounts
 gnome-video-effects
 gnupg
 gnutls
@@ -142,6 +145,7 @@ gobject-introspection-runtime
 gpgme
 gpm
 gptfdisk
+granite
 graphene
 graphite
 grep
@@ -334,6 +338,7 @@ libcddb
 libcdio
 libcdio-paranoia
 libcdr
+libchamplain
 libcmis
 libcroco
 libcups
@@ -367,6 +372,7 @@ libffi
 libfontenc
 libfreehand
 libgcrypt
+libgdata
 libgdiplus
 libgee
 libgexiv2
@@ -378,6 +384,7 @@ libgpg-error
 libgtop
 libgudev
 libgusb
+libgweather
 libheif
 libibus
 libical
@@ -428,6 +435,7 @@ libnma
 libnotify
 libnsl
 libnumbertext
+liboauth
 libodfgen
 libofa
 libogg
@@ -438,6 +446,7 @@ libpaper
 libpcap
 libpciaccess
 libpgm
+libphonenumber
 libpipeline
 libpng
 libproxy
@@ -938,6 +947,7 @@ taglib
 talloc
 tar
 tdb
+telepathy-glib
 termite-terminfo
 tevent
 texinfo
