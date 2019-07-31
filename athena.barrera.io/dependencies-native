@@ -79,6 +79,7 @@ e2fsprogs
 efivar
 egl-wayland
 eglexternalplatform
+electron
 electron4
 elfutils
 enchant
@@ -150,6 +151,7 @@ graphene
 graphite
 grep
 groff
+grunt-cli
 gsettings-desktop-schemas
 gsfonts
 gsl
