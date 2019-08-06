@@ -1,7 +1,6 @@
 ncurses5-compat-libs
 openrazer-daemon
 openrazer-driver-dkms
-properties-cpp
 python-asttokens
 python-notify2
 python-openrazer

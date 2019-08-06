@@ -26,7 +26,6 @@ bison
 blas
 bluez
 bluez-libs
-boost
 boost-libs
 bridge-utils
 brotli
@@ -134,7 +133,6 @@ glib-networking
 glib2
 glibc
 glibmm
-glm
 glslang
 glu
 gmime3
@@ -153,7 +151,6 @@ graphene
 graphite
 grep
 groff
-grunt-cli
 gsettings-desktop-schemas
 gsfonts
 gsl
@@ -164,7 +161,6 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
-gtest
 gtk-sharp-2
 gtk-update-icon-cache
 gtk2
@@ -308,7 +304,6 @@ lib32-orc
 lib32-p11-kit
 lib32-pcre
 lib32-readline
-lib32-sqlite
 lib32-systemd
 lib32-util-linux
 lib32-vkd3d
@@ -435,7 +430,6 @@ libnghttp2
 libnice
 libnl
 libnm
-libnm-glib
 libnma
 libnotify
 libnsl
@@ -571,7 +565,6 @@ lv2
 lvm2
 lxc
 lz4
-lzip
 lzo
 m4
 mailcap
@@ -936,7 +929,6 @@ speex
 speexdsp
 spirv-tools
 sqlite
-squashfs-tools
 sratom
 srt
 startup-notification
@@ -997,7 +989,6 @@ x264
 x265
 xapian-core
 xapps
-xautomation
 xcb-proto
 xcb-util
 xcb-util-cursor
