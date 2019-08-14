@@ -61,6 +61,7 @@ cryptsetup
 cups
 cups-filters
 curl
+dav1d
 db
 dbus
 dbus-glib
@@ -161,7 +162,6 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
-gtk-sharp-2
 gtk-update-icon-cache
 gtk2
 gtk3
@@ -314,8 +314,6 @@ lib32-zlib
 lib32-zstd
 libabw
 libaio
-libappindicator-gtk2
-libappindicator-sharp
 libarchive
 libasr
 libass
@@ -346,8 +344,6 @@ libcurl-compat
 libcurl-gnutls
 libdaemon
 libdatrie
-libdbusmenu-glib
-libdbusmenu-gtk2
 libdc1394
 libdca
 libde265
@@ -373,7 +369,6 @@ libfontenc
 libfreehand
 libgcrypt
 libgdata
-libgdiplus
 libgee
 libgexiv2
 libglade
@@ -394,7 +389,6 @@ libidn
 libidn2
 libiec61883
 libimagequant
-libindicator-gtk2
 libinput
 libixion
 libjpeg-turbo
@@ -447,6 +441,7 @@ libpciaccess
 libpgm
 libphonenumber
 libpipeline
+libplacebo
 libpng
 libproxy
 libpsl
@@ -583,7 +578,6 @@ mkinitcpio
 mkinitcpio-busybox
 mobile-broadband-provider-info
 modemmanager
-mono
 mozilla-common
 mpfr
 mpg123
@@ -616,6 +610,7 @@ openresolv
 openssl
 openssl-1.0
 openvpn
+opera-ffmpeg-codecs
 opus
 orc
 p11-kit
@@ -726,7 +721,6 @@ python-hyperframe
 python-hyperlink
 python-icalendar
 python-idna
-python-ifaddr
 python-importlib-metadata
 python-incremental
 python-iniconfig
@@ -741,7 +735,6 @@ python-mako
 python-markupsafe
 python-mccabe
 python-msgpack
-python-netifaces
 python-numpy
 python-oauthlib
 python-packaging
@@ -764,7 +757,6 @@ python-ptyprocess
 python-py
 python-pyasn1
 python-pyasn1-modules
-python-pybluez
 python-pycodestyle
 python-pycparser
 python-pycryptodome
@@ -1017,6 +1009,7 @@ xorgproto
 xvidcore
 xz
 yajl
+zbar
 zenity
 zeromq
 zip

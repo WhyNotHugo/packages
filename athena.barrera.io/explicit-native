@@ -11,6 +11,7 @@ audacity
 autossh
 aws-cli
 bind-tools
+blueman
 bluez-utils
 bolt
 bwm-ng
@@ -134,7 +135,6 @@ python-pip
 python-pipenv
 python-tox
 python-virtualenvwrapper
-python-zeroconf
 python2-service-identity
 redshift
 retroarch

@@ -3,7 +3,6 @@ anbox-bridge
 anbox-git
 anbox-image-gapps
 anbox-modules-dkms-git
-blueman-netauth
 boostnote
 browser-vacuum
 caffeine-ng-git
@@ -11,13 +10,11 @@ ctop
 downgrade
 dxvk-bin
 fswebcam
-gitflow-avh
 gnome-ssh-askpass2
 hobarrera-sxiv
 i3pystatus-git
 insomnia
 itch
-jet
 meta-group-base
 meta-group-base-devel
 minecraft
@@ -33,7 +30,6 @@ python-flake8-bugbear
 python-flake8-import-order
 razercommander
 redshift-scheduler
-remotemouse
 skypeforlinux-preview-bin
 slack-desktop
 spotify
@@ -41,7 +37,6 @@ stepmania
 sysconfig
 systemd-lock-handler
 tor-browser
-ttf-anka-coder
 ttf-symbola
 unigine-heaven
 universal-ctags-git
