@@ -81,7 +81,6 @@ efivar
 egl-wayland
 eglexternalplatform
 electron
-electron4
 elfutils
 enchant
 evolution-data-server
@@ -861,7 +860,6 @@ redland
 reiserfsprogs
 rest
 rhash
-ripgrep
 rtkit
 rtmpdump
 rubberband
