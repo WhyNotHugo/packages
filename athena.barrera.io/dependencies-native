@@ -874,6 +874,7 @@ ruby-forwardable-extended
 ruby-http_parser.rb
 ruby-i18n-0
 ruby-jekyll-sass-converter
+ruby-jekyll-sass-converter-1
 ruby-jekyll-watch
 ruby-kramdown-1
 ruby-liquid
