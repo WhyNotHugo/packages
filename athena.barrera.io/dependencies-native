@@ -170,6 +170,7 @@ gtksourceview3
 gtkspell
 gtkspell3
 guile
+gunicorn
 gupnp
 gupnp-igd
 gvfs
@@ -662,11 +663,15 @@ pygobject2-devel
 pygtk
 pyqt5-common
 python
+python-aiohttp
+python-aiohttp-socks
+python-aiorpcx
 python-apipkg
 python-appdirs
 python-argcomplete
 python-argparse
 python-asn1crypto
+python-async-timeout
 python-atomicwrites
 python-attrs
 python-automat
@@ -697,11 +702,13 @@ python-dbus-common
 python-decorator
 python-distlib
 python-distro
+python-dnspython
 python-docker
 python-docker-pycreds
 python-dockerpty
 python-docopt
 python-docutils
+python-ecdsa
 python-entrypoints
 python-evdev
 python-ewmh
@@ -724,6 +731,7 @@ python-incremental
 python-iniconfig
 python-jedi
 python-jmespath
+python-jsonrpclib-pelix
 python-jsonschema
 python-kaitaistruct
 python-langdetect
@@ -733,6 +741,7 @@ python-mako
 python-markupsafe
 python-mccabe
 python-msgpack
+python-multidict
 python-numpy
 python-oauthlib
 python-packaging
@@ -740,6 +749,7 @@ python-paramiko
 python-parsedatetime
 python-parso
 python-passlib
+python-pbkdf2
 python-pep517
 python-pew
 python-pexpect
@@ -753,11 +763,13 @@ python-prompt_toolkit
 python-protobuf
 python-ptyprocess
 python-py
+python-pyaes
 python-pyasn1
 python-pyasn1-modules
 python-pycodestyle
 python-pycparser
 python-pycryptodome
+python-pycryptodomex
 python-pyelftools
 python-pyflakes
 python-pygments
@@ -769,9 +781,11 @@ python-pyparsing
 python-pyperclip
 python-pyqt5
 python-pyrsistent
+python-pysocks
 python-pytoml
 python-pytz
 python-pyudev
+python-qrcode
 python-rencode
 python-requests
 python-requests-oauthlib
@@ -808,6 +822,7 @@ python-wsproto
 python-xdg
 python-xlib
 python-yaml
+python-yarl
 python-zipp
 python-zope-interface
 python2
