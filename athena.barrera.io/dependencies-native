@@ -409,6 +409,7 @@ libmodplug
 libmp4v2
 libmpc
 libmpcdec
+libmpdclient
 libmpeg2
 libmspub
 libmwaw
@@ -711,7 +712,6 @@ python-docutils
 python-ecdsa
 python-entrypoints
 python-evdev
-python-ewmh
 python-filelock
 python-future
 python-geoip
@@ -817,10 +817,8 @@ python-virtualenv-clone
 python-wcwidth
 python-webencodings
 python-websocket-client
-python-wheel
 python-wsproto
 python-xdg
-python-xlib
 python-yaml
 python-yarl
 python-zipp

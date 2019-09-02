@@ -5,7 +5,6 @@ anbox-image-gapps
 anbox-modules-dkms-git
 boostnote
 browser-vacuum
-caffeine-ng-git
 ctop
 downgrade
 dxvk-bin
@@ -26,6 +25,7 @@ nvm
 pkgbuild-introspection
 plymouth
 plymouth-theme-monoarch
+polybar
 popcorntime-bin
 python-flake8-bugbear
 python-flake8-import-order
@@ -39,6 +39,5 @@ systemd-lock-handler
 tor-browser
 ttf-symbola
 unigine-heaven
-universal-ctags-git
 vmware-workstation
 yay
