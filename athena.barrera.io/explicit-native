@@ -133,7 +133,6 @@ pulseaudio-bluetooth
 pv
 python-black
 python-ipdb
-python-neovim
 python-pip
 python-pipenv
 python-tox

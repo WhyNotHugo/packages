@@ -29,6 +29,7 @@ polybar
 popcorntime-bin
 python-flake8-bugbear
 python-flake8-import-order
+python-neovim
 razercommander
 redshift-scheduler
 skypeforlinux-preview-bin
