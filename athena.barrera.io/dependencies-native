@@ -26,6 +26,7 @@ bison
 blas
 bluez
 bluez-libs
+boost
 boost-libs
 bridge-utils
 brotli
@@ -73,6 +74,8 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
+docbook-xml
+docbook-xsl
 docker
 dosfstools
 double-conversion
@@ -124,6 +127,7 @@ geocode-glib
 geoip
 geoip-database
 gettext
+ghostscript
 giblib
 giflib
 girara
@@ -131,8 +135,10 @@ git
 glew
 glib-networking
 glib2
+glib2-docs
 glibc
 glibmm
+glm
 glslang
 glu
 gmime3
@@ -149,6 +155,7 @@ gptfdisk
 granite
 graphene
 graphite
+graphviz
 grep
 groff
 gsettings-desktop-schemas
@@ -161,6 +168,8 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
+gtest
+gtk-doc
 gtk-update-icon-cache
 gtk2
 gtk3
@@ -169,6 +178,7 @@ gtkmm3
 gtksourceview3
 gtkspell
 gtkspell3
+gts
 guile
 gunicorn
 gupnp
@@ -204,6 +214,7 @@ jansson
 jasper
 java-environment-common
 java-runtime-common
+jbig2dec
 jdk8-openjdk
 jemalloc
 jfsutils
@@ -230,14 +241,19 @@ less
 lib32-acl
 lib32-alsa-lib
 lib32-alsa-plugins
+lib32-atk
 lib32-attr
 lib32-bzip2
+lib32-cairo
 lib32-dbus
+lib32-e2fsprogs
 lib32-expat
 lib32-flac
 lib32-fontconfig
 lib32-freetype2
+lib32-fribidi
 lib32-gcc-libs
+lib32-gdk-pixbuf2
 lib32-gettext
 lib32-glib2
 lib32-glibc
@@ -246,11 +262,19 @@ lib32-gmp
 lib32-gnutls
 lib32-gst-plugins-base-libs
 lib32-gstreamer
+lib32-gtk2
 lib32-harfbuzz
 lib32-icu
+lib32-keyutils
+lib32-krb5
 lib32-lcms2
+lib32-libappindicator-gtk2
 lib32-libasyncns
 lib32-libcap
+lib32-libcups
+lib32-libdatrie
+lib32-libdbusmenu-glib
+lib32-libdbusmenu-gtk2
 lib32-libdrm
 lib32-libelf
 lib32-libffi
@@ -259,6 +283,7 @@ lib32-libglvnd
 lib32-libgpg-error
 lib32-libice
 lib32-libidn
+lib32-libindicator-gtk2
 lib32-libjpeg-turbo
 lib32-libldap
 lib32-libltdl
@@ -271,6 +296,7 @@ lib32-libpulse
 lib32-libsm
 lib32-libsndfile
 lib32-libtasn1
+lib32-libthai
 lib32-libtiff
 lib32-libunwind
 lib32-libusb
@@ -278,12 +304,15 @@ lib32-libvorbis
 lib32-libx11
 lib32-libxau
 lib32-libxcb
+lib32-libxcomposite
 lib32-libxcursor
 lib32-libxdamage
 lib32-libxdmcp
 lib32-libxext
 lib32-libxfixes
+lib32-libxft
 lib32-libxi
+lib32-libxinerama
 lib32-libxml2
 lib32-libxrandr
 lib32-libxrender
@@ -299,11 +328,16 @@ lib32-mesa
 lib32-mpg123
 lib32-ncurses
 lib32-nettle
+lib32-nspr
+lib32-nss
 lib32-openssl
 lib32-orc
 lib32-p11-kit
+lib32-pango
 lib32-pcre
+lib32-pixman
 lib32-readline
+lib32-sqlite
 lib32-systemd
 lib32-util-linux
 lib32-vkd3d
@@ -343,6 +377,8 @@ libcups
 libcurl-gnutls
 libdaemon
 libdatrie
+libdbusmenu-glib
+libdbusmenu-gtk2
 libdc1394
 libdca
 libde265
@@ -388,6 +424,7 @@ libidn
 libidn2
 libiec61883
 libimagequant
+libindicator-gtk2
 libinput
 libixion
 libjpeg-turbo
@@ -502,6 +539,7 @@ libwbclient
 libwebp
 libwmf
 libwpd
+libwpe
 libwpg
 libwps
 libx11
@@ -552,6 +590,7 @@ llvm-libs
 lmdb
 logrotate
 lpsolve
+lsb-release
 lua
 lua52
 luajit
@@ -560,6 +599,7 @@ lv2
 lvm2
 lxc
 lz4
+lzip
 lzo
 m4
 mailcap
@@ -584,6 +624,7 @@ mpg123
 msgpack-c
 mtdev
 mypaint-brushes
+mypaint-brushes1
 nano
 ncurses
 ndctl
@@ -667,6 +708,7 @@ python
 python-aiohttp
 python-aiohttp-socks
 python-aiorpcx
+python-anytree
 python-apipkg
 python-appdirs
 python-argcomplete
@@ -737,9 +779,11 @@ python-kaitaistruct
 python-langdetect
 python-ldap3
 python-lockfile
+python-lxml
 python-mako
 python-markupsafe
 python-mccabe
+python-more-itertools
 python-msgpack
 python-multidict
 python-numpy
@@ -884,10 +928,14 @@ ruby-eventmachine
 ruby-ffi
 ruby-forwardable-extended
 ruby-http_parser.rb
+ruby-i18n
 ruby-i18n-0
+ruby-jekyll-sass-converter
 ruby-jekyll-sass-converter-1
 ruby-jekyll-watch
+ruby-kramdown
 ruby-kramdown-1
+ruby-kramdown-parser-gfm
 ruby-liquid
 ruby-listen
 ruby-maruku
@@ -902,7 +950,9 @@ ruby-ruby_dep
 ruby-safe_yaml
 ruby-sass
 ruby-sass-listen
+ruby-terminal-table
 ruby-thor
+ruby-unicode-display_width
 ruby-yard
 rubygems
 run-parts
@@ -931,6 +981,7 @@ speex
 speexdsp
 spirv-tools
 sqlite
+squashfs-tools
 sratom
 srt
 startup-notification
@@ -966,6 +1017,7 @@ unzip
 usbutils
 util-linux
 v4l-utils
+vala
 vamp-plugin-sdk
 vi
 vid.stab
@@ -985,6 +1037,7 @@ wildmidi
 wlroots
 woff2
 wpa_supplicant
+wpebackend-fdo
 wxgtk-common
 wxgtk3
 x264
@@ -1000,6 +1053,7 @@ xcb-util-keysyms
 xcb-util-renderutil
 xcb-util-wm
 xcb-util-xrm
+xdg-dbus-proxy
 xdg-utils
 xf86-input-libinput
 xfsprogs

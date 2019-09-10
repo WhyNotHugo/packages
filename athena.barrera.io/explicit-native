@@ -134,6 +134,7 @@ pv
 python-ipdb
 python-pip
 python-pipenv
+python-pynvim
 python-tox
 python-virtualenvwrapper
 python2-service-identity
