@@ -434,6 +434,7 @@ libldap
 liblouis
 liblqr
 liblrdf
+libluv
 libmad
 libmagick6
 libmbim
@@ -1005,6 +1006,7 @@ tevent
 texinfo
 thin-provisioning-tools
 tinyxml2
+tpm2-tss
 tslib
 ttf-dejavu
 twolame
