@@ -863,6 +863,7 @@ python-virtualenv-clone
 python-wcwidth
 python-webencodings
 python-websocket-client
+python-wheel
 python-wsproto
 python-xdg
 python-yaml
