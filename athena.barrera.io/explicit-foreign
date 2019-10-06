@@ -3,6 +3,7 @@ anbox-bridge
 anbox-git
 anbox-image-gapps
 anbox-modules-dkms-git
+base
 boostnote
 browser-vacuum
 ctop
