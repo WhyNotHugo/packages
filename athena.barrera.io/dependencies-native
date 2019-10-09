@@ -26,7 +26,6 @@ bison
 blas
 bluez
 bluez-libs
-boost
 boost-libs
 bridge-utils
 brotli
@@ -45,7 +44,6 @@ cantarell-fonts
 cblas
 cdparanoia
 celt
-cfitsio
 chromaprint
 cifs-utils
 cinnamon-desktop
@@ -68,7 +66,6 @@ db
 dbus
 dbus-glib
 dconf
-dcraw
 desktop-file-utils
 device-mapper
 dhcpcd
@@ -76,8 +73,6 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
-docbook-xml
-docbook-xsl
 docker
 dosfstools
 double-conversion
@@ -107,6 +102,7 @@ flex
 folks
 fontconfig
 freeglut
+freerdp
 freetype2
 frei0r-plugins
 fribidi
@@ -130,7 +126,6 @@ geocode-glib
 geoip
 geoip-database
 gettext
-ghostscript
 giblib
 giflib
 girara
@@ -138,10 +133,8 @@ git
 glew
 glib-networking
 glib2
-glib2-docs
 glibc
 glibmm
-glm
 glslang
 glu
 gmime3
@@ -158,7 +151,6 @@ gptfdisk
 granite
 graphene
 graphite
-graphviz
 grep
 groff
 gsettings-desktop-schemas
@@ -171,18 +163,14 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
-gtest
-gtk-doc
 gtk-update-icon-cache
 gtk2
 gtk3
-gtkimageview
 gtkmm
 gtkmm3
 gtksourceview3
 gtkspell
 gtkspell3
-gts
 guile
 gunicorn
 gupnp
@@ -218,9 +206,7 @@ jansson
 jasper
 java-environment-common
 java-runtime-common
-jbig2dec
 jdk8-openjdk
-jemalloc
 jfsutils
 jre8-openjdk
 jre8-openjdk-headless
@@ -415,6 +401,7 @@ libglvnd
 libgme
 libgnomekbd
 libgpg-error
+libgssglue
 libgtop
 libgudev
 libgusb
@@ -604,7 +591,6 @@ lv2
 lvm2
 lxc
 lz4
-lzip
 lzo
 m4
 mailcap
@@ -613,6 +599,7 @@ man-db
 man-pages
 mariadb-libs
 mate-desktop
+mbedtls
 mdadm
 mesa
 metis
@@ -629,7 +616,6 @@ mpg123
 msgpack-c
 mtdev
 mujs
-mypaint-brushes
 mypaint-brushes1
 nano
 ncurses
@@ -715,7 +701,6 @@ python
 python-aiohttp
 python-aiohttp-socks
 python-aiorpcx
-python-anytree
 python-apipkg
 python-appdirs
 python-argcomplete
@@ -725,7 +710,6 @@ python-async-timeout
 python-atomicwrites
 python-attrs
 python-automat
-python-babel
 python-bcrypt
 python-beaker
 python-blinker
@@ -776,12 +760,10 @@ python-hyperframe
 python-hyperlink
 python-icalendar
 python-idna
-python-imagesize
 python-importlib-metadata
 python-incremental
 python-iniconfig
 python-jedi
-python-jinja
 python-jmespath
 python-jsonrpclib-pelix
 python-jsonschema
@@ -789,7 +771,6 @@ python-kaitaistruct
 python-langdetect
 python-ldap3
 python-lockfile
-python-lxml
 python-mako
 python-markupsafe
 python-mccabe
@@ -854,16 +835,7 @@ python-setuptools
 python-sip
 python-sip-pyqt5
 python-six
-python-snowballstemmer
 python-sortedcontainers
-python-sphinx
-python-sphinx-alabaster-theme
-python-sphinxcontrib-applehelp
-python-sphinxcontrib-devhelp
-python-sphinxcontrib-htmlhelp
-python-sphinxcontrib-jsmath
-python-sphinxcontrib-qthelp
-python-sphinxcontrib-serializinghtml
 python-stevedore
 python-tabulate
 python-texttable
@@ -880,7 +852,6 @@ python-virtualenv-clone
 python-wcwidth
 python-webencodings
 python-websocket-client
-python-wheel
 python-wsproto
 python-xdg
 python-yaml
@@ -924,14 +895,11 @@ qt5-base
 qt5-declarative
 qt5-imageformats
 qt5-location
-qt5-multimedia
 qt5-quickcontrols
-qt5-sensors
 qt5-svg
 qt5-tools
 qt5-webchannel
 qt5-webengine
-qt5-webkit
 qt5-x11extras
 qt5-xmlpatterns
 raptor
@@ -955,12 +923,9 @@ ruby-ffi
 ruby-forwardable-extended
 ruby-http_parser.rb
 ruby-i18n
-ruby-i18n-0
 ruby-jekyll-sass-converter
-ruby-jekyll-sass-converter-1
 ruby-jekyll-watch
 ruby-kramdown
-ruby-kramdown-1
 ruby-kramdown-parser-gfm
 ruby-liquid
 ruby-listen
@@ -972,7 +937,6 @@ ruby-rb-fsevent
 ruby-rb-inotify
 ruby-rdoc
 ruby-rouge
-ruby-ruby_dep
 ruby-safe_yaml
 ruby-sass
 ruby-sass-listen
@@ -1007,7 +971,6 @@ speex
 speexdsp
 spirv-tools
 sqlite
-squashfs-tools
 sratom
 srt
 startup-notification
@@ -1045,7 +1008,6 @@ unzip
 usbutils
 util-linux
 v4l-utils
-vala
 vamp-plugin-sdk
 vi
 vid.stab

@@ -1,8 +1,5 @@
-lcms
-ncurses5-compat-libs
 openrazer-daemon
 openrazer-driver-dkms
-properties-cpp
 python-aspy-refactor-imports
 python-asttokens
 python-notify2
@@ -10,4 +7,3 @@ python-openrazer
 python-txdbus
 ttf-ms-fonts
 vmware-keymaps
-xnviewmp
