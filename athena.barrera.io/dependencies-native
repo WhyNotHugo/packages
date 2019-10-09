@@ -45,6 +45,7 @@ cantarell-fonts
 cblas
 cdparanoia
 celt
+cfitsio
 chromaprint
 cifs-utils
 cinnamon-desktop
@@ -67,6 +68,7 @@ db
 dbus
 dbus-glib
 dconf
+dcraw
 desktop-file-utils
 device-mapper
 dhcpcd
@@ -174,6 +176,7 @@ gtk-doc
 gtk-update-icon-cache
 gtk2
 gtk3
+gtkimageview
 gtkmm
 gtkmm3
 gtksourceview3
@@ -634,6 +637,7 @@ ndctl
 neon
 net-tools
 netctl
+netpbm
 nettle
 nm-connection-editor
 node-gyp
@@ -920,11 +924,14 @@ qt5-base
 qt5-declarative
 qt5-imageformats
 qt5-location
+qt5-multimedia
 qt5-quickcontrols
+qt5-sensors
 qt5-svg
 qt5-tools
 qt5-webchannel
 qt5-webengine
+qt5-webkit
 qt5-x11extras
 qt5-xmlpatterns
 raptor

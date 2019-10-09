@@ -1,3 +1,4 @@
+lcms
 ncurses5-compat-libs
 openrazer-daemon
 openrazer-driver-dkms
@@ -9,3 +10,4 @@ python-openrazer
 python-txdbus
 ttf-ms-fonts
 vmware-keymaps
+xnviewmp
