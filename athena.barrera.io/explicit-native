@@ -52,7 +52,6 @@ git-crypt
 git-lfs
 gitlab-runner
 gnome-keyring
-go
 gparted
 gsmartcontrol
 httpie
@@ -70,7 +69,6 @@ kexec-tools
 khal
 leafpad
 lib32-nvidia-utils
-libreoffice-fresh
 light
 lm_sensors
 lostfiles
@@ -166,8 +164,6 @@ telegram-desktop
 termite
 texlive-bibtexextra
 texlive-bin
-texlive-core
-texlive-fontsextra
 texlive-formatsextra
 texlive-games
 texlive-humanities

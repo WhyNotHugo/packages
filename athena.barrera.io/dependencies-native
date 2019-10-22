@@ -47,7 +47,6 @@ celt
 chromaprint
 cifs-utils
 cinnamon-desktop
-clucene
 clutter
 clutter-gst
 clutter-gtk
@@ -80,7 +79,6 @@ e2fsprogs
 efivar
 egl-wayland
 eglexternalplatform
-electron
 elfutils
 enchant
 evolution-data-server
@@ -182,7 +180,6 @@ harfbuzz-icu
 hdparm
 hicolor-icon-theme
 hspell
-http-parser
 hunspell
 hunspell-en_US
 hwids
@@ -335,7 +332,6 @@ lib32-wayland
 lib32-xz
 lib32-zlib
 lib32-zstd
-libabw
 libaio
 libarchive
 libasr
@@ -360,7 +356,6 @@ libcdio
 libcdio-paranoia
 libcdr
 libchamplain
-libcmis
 libcroco
 libcups
 libcurl-gnutls
@@ -375,22 +370,17 @@ libdrm
 libdv
 libdvdnav
 libdvdread
-libe-book
 libedit
 libelf
 libepoxy
-libepubgen
-libetonyek
 libev
 libevdev
 libevent
 libexif
-libexttextcat
 libfbclient
 libfdk-aac
 libffi
 libfontenc
-libfreehand
 libgcrypt
 libgdata
 libgee
@@ -416,10 +406,8 @@ libiec61883
 libimagequant
 libindicator-gtk2
 libinput
-libixion
 libjpeg-turbo
 libksba
-liblangtag
 libldap
 liblouis
 liblqr
@@ -439,8 +427,6 @@ libmpc
 libmpcdec
 libmpdclient
 libmpeg2
-libmspub
-libmwaw
 libmypaint
 libnatpmp
 libndp
@@ -455,14 +441,10 @@ libnm
 libnma
 libnotify
 libnsl
-libnumbertext
 liboauth
-libodfgen
 libofa
 libogg
 libomxil-bellagio
-liborcus
-libpagemaker
 libpaper
 libpcap
 libpciaccess
@@ -475,7 +457,6 @@ libproxy
 libpsl
 libpulse
 libqmi
-libqxp
 libraqm
 libraw
 libraw1394
@@ -498,7 +479,6 @@ libspiro
 libsrtp
 libssh
 libssh2
-libstaroffice
 libstemmer
 libsynctex
 libtasn1
@@ -519,7 +499,6 @@ libutil-linux
 libuv
 libva
 libvdpau
-libvisio
 libvisual
 libvoikko
 libvorbis
@@ -531,8 +510,6 @@ libwebp
 libwmf
 libwpd
 libwpe
-libwpg
-libwps
 libx11
 libxau
 libxaw
@@ -570,7 +547,6 @@ libxxf86vm
 libyaml
 libzen
 libzip
-libzmf
 licenses
 lilv
 linux
@@ -580,7 +556,6 @@ linux-headers
 llvm-libs
 lmdb
 logrotate
-lpsolve
 lsb-release
 lua
 lua52
@@ -902,10 +877,8 @@ qt5-webengine
 qt5-x11extras
 qt5-xmlpatterns
 raptor
-rasqal
 re2
 readline
-redland
 reiserfsprogs
 rest
 rhash
@@ -992,6 +965,7 @@ telepathy-glib
 termite-terminfo
 tevent
 texinfo
+texlive-core
 thin-provisioning-tools
 tinyxml2
 tpm2-tss
@@ -1047,7 +1021,6 @@ xdg-utils
 xf86-input-libinput
 xfsprogs
 xkeyboard-config
-xmlsec
 xorg-bdftopcf
 xorg-font-util
 xorg-font-utils
