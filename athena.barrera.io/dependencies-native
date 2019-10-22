@@ -142,6 +142,7 @@ gnome-online-accounts
 gnome-video-effects
 gnupg
 gnutls
+go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -460,6 +461,7 @@ libqmi
 libraqm
 libraw
 libraw1394
+libressl
 librevenge
 librsvg
 libsamplerate
@@ -721,6 +723,7 @@ python-ecdsa
 python-entrypoints
 python-evdev
 python-filelock
+python-flask
 python-future
 python-geoip
 python-gobject
@@ -737,7 +740,9 @@ python-idna
 python-importlib-metadata
 python-incremental
 python-iniconfig
+python-itsdangerous
 python-jedi
+python-jinja
 python-jmespath
 python-jsonrpclib-pelix
 python-jsonschema
@@ -826,6 +831,7 @@ python-virtualenv-clone
 python-wcwidth
 python-webencodings
 python-websocket-client
+python-werkzeug
 python-wsproto
 python-xdg
 python-yaml
