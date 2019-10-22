@@ -335,7 +335,6 @@ lib32-zlib
 lib32-zstd
 libaio
 libarchive
-libasr
 libass
 libassuan
 libasyncns
@@ -461,7 +460,6 @@ libqmi
 libraqm
 libraw
 libraw1394
-libressl
 librevenge
 librsvg
 libsamplerate
