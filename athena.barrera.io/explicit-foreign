@@ -4,6 +4,7 @@ anbox-git
 anbox-image-gapps
 anbox-modules-dkms-git
 browser-vacuum
+caffeine-ng
 ctop
 downgrade
 dxvk-bin

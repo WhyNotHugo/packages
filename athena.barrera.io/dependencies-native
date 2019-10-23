@@ -142,7 +142,6 @@ gnome-online-accounts
 gnome-video-effects
 gnupg
 gnutls
-go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -720,6 +719,7 @@ python-docutils
 python-ecdsa
 python-entrypoints
 python-evdev
+python-ewmh
 python-filelock
 python-flask
 python-future
@@ -817,7 +817,6 @@ python-stevedore
 python-tabulate
 python-texttable
 python-toml
-python-tornado
 python-traitlets
 python-twisted
 python-tzlocal
@@ -830,8 +829,10 @@ python-wcwidth
 python-webencodings
 python-websocket-client
 python-werkzeug
+python-wheel
 python-wsproto
 python-xdg
+python-xlib
 python-yaml
 python-yarl
 python-zipp
