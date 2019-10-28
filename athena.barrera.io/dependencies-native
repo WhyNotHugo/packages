@@ -686,6 +686,7 @@ python-automat
 python-bcrypt
 python-beaker
 python-blinker
+python-boto3
 python-botocore
 python-brotlipy
 python-cachecontrol
