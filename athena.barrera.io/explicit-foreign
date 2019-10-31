@@ -25,7 +25,6 @@ nvidia-xrun-git
 pkgbuild-introspection
 plymouth
 plymouth-theme-monoarch
-polybar
 popcorntime-bin
 python-aws-mfa
 python-flake8-bugbear
