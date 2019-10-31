@@ -135,13 +135,13 @@ glibc
 glibmm
 glslang
 glu
-gmime3
 gmp
 gnome-desktop
 gnome-online-accounts
 gnome-video-effects
 gnupg
 gnutls
+go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -214,7 +214,6 @@ kbd
 keyutils
 kmod
 krb5
-kyotocabinet
 l-smash
 ladspa
 lame
@@ -564,6 +563,7 @@ lv2
 lvm2
 lxc
 lz4
+lzip
 lzo
 m4
 mailcap
@@ -601,7 +601,6 @@ nettle
 nm-connection-editor
 node-gyp
 nodejs
-notmuch-runtime
 npm
 npth
 nspr
@@ -683,6 +682,7 @@ python-async-timeout
 python-atomicwrites
 python-attrs
 python-automat
+python-babel
 python-bcrypt
 python-beaker
 python-blinker
@@ -736,6 +736,7 @@ python-hyperframe
 python-hyperlink
 python-icalendar
 python-idna
+python-imagesize
 python-importlib-metadata
 python-incremental
 python-iniconfig
@@ -813,7 +814,16 @@ python-setuptools
 python-sip
 python-sip-pyqt5
 python-six
+python-snowballstemmer
 python-sortedcontainers
+python-sphinx
+python-sphinx-alabaster-theme
+python-sphinxcontrib-applehelp
+python-sphinxcontrib-devhelp
+python-sphinxcontrib-htmlhelp
+python-sphinxcontrib-jsmath
+python-sphinxcontrib-qthelp
+python-sphinxcontrib-serializinghtml
 python-stevedore
 python-tabulate
 python-texttable
@@ -862,12 +872,9 @@ python2-pycparser
 python2-pyhamcrest
 python2-pyopenssl
 python2-pyparsing
-python2-rfc6555
-python2-selectors2
 python2-setuptools
 python2-six
 python2-twisted
-python2-uritemplate
 python2-virtualenv
 python2-zope-interface
 qpdf
@@ -949,6 +956,7 @@ speex
 speexdsp
 spirv-tools
 sqlite
+squashfs-tools
 sratom
 srt
 startup-notification
@@ -1011,7 +1019,6 @@ wxgtk-common
 wxgtk3
 x264
 x265
-xapian-core
 xapps
 xcb-proto
 xcb-util
