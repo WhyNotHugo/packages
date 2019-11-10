@@ -55,6 +55,7 @@ colord
 compiler-rt
 containerd
 coreutils
+cpio
 cracklib
 cryptsetup
 cups

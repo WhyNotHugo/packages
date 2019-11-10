@@ -32,6 +32,7 @@ dconf-editor
 deluge
 discord
 docker-compose
+dracut
 dunst
 efibootmgr
 electrum
