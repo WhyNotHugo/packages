@@ -666,7 +666,6 @@ psmisc
 pulseaudio
 pyalpm
 pygobject-devel
-pygobject2-devel
 pygtk
 pyqt5-common
 python

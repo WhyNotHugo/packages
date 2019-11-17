@@ -1,5 +1,6 @@
 openrazer-daemon
 openrazer-driver-dkms
+pygobject2-devel
 python-aspy-refactor-imports
 python-asttokens
 python-notify2
