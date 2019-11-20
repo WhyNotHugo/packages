@@ -31,11 +31,9 @@ python-aws-mfa
 python-flake8-bugbear
 python-flake8-comprehensions
 python-flake8-import-order
-python-pypi2pkgbuild
 python-reorder-python-imports
 razercommander
 redshift-scheduler
-skypeforlinux-preview-bin
 spotify
 starship
 stepmania
@@ -43,7 +41,6 @@ sysconfig
 systemd-lock-handler
 tor-browser
 ttf-symbola
-typora
 unigine-heaven
 vmware-workstation
 yay
