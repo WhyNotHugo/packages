@@ -5,6 +5,8 @@ adobe-source-code-pro-fonts
 adwaita-icon-theme
 alsa-lib
 alsa-plugins
+alsa-topology-conf
+alsa-ucm-conf
 aom
 apr
 apr-util
@@ -410,6 +412,7 @@ liblrdf
 libluv
 libmad
 libmagick6
+libmaxminddb
 libmbim
 libmediainfo
 libmm-glib
