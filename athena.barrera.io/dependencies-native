@@ -78,8 +78,6 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
-docbook-xml
-docbook-xsl
 docker
 dosfstools
 double-conversion
@@ -137,7 +135,6 @@ git
 glew
 glib-networking
 glib2
-glib2-docs
 glibc
 glibmm
 glslang
@@ -166,7 +163,6 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
-gtk-doc
 gtk-update-icon-cache
 gtk2
 gtk3
@@ -179,7 +175,6 @@ gunicorn
 gupnp
 gupnp-igd
 gvfs
-gyp
 gzip
 harfbuzz
 harfbuzz-icu
@@ -382,7 +377,6 @@ libfdk-aac
 libffi
 libfontenc
 libgcrypt
-libgee
 libgexiv2
 libglade
 libglvnd
@@ -572,7 +566,6 @@ mdadm
 mercurial
 mesa
 mesa-demos
-meson
 metis
 miniupnpc
 minizip
@@ -595,7 +588,6 @@ neon
 netctl
 netpbm
 nettle
-ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -666,7 +658,6 @@ python
 python-aiohttp
 python-aiohttp-socks
 python-aiorpcx
-python-anytree
 python-apipkg
 python-appdirs
 python-argcomplete
@@ -731,7 +722,6 @@ python-jsonrpclib-pelix
 python-jsonschema
 python-langdetect
 python-lockfile
-python-lxml
 python-mako
 python-markupsafe
 python-mccabe
