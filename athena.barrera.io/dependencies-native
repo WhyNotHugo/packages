@@ -27,7 +27,6 @@ babl
 bash
 bc
 binutils
-bison
 blas
 bluez
 bluez-libs
@@ -51,7 +50,6 @@ cdparanoia
 celt
 chromaprint
 cifs-utils
-cinnamon-desktop
 clutter
 clutter-gst
 clutter-gtk
@@ -63,8 +61,6 @@ coreutils
 cpio
 cracklib
 cryptsetup
-cups
-cups-filters
 curl
 dav1d
 db
@@ -103,7 +99,6 @@ findutils
 flac
 flex
 fontconfig
-freeglut
 freerdp
 freetype2
 frei0r-plugins
@@ -117,7 +112,6 @@ gc
 gcab
 gcc
 gcc-libs
-gconf
 gcr
 gd
 gdbm
@@ -188,8 +182,6 @@ hyphen
 iana-etc
 icu
 ijs
-imagemagick
-imlib2
 inetutils
 iniparser
 intel-tbb
@@ -235,7 +227,6 @@ lib32-expat
 lib32-flac
 lib32-fontconfig
 lib32-freetype2
-lib32-fribidi
 lib32-gcc-libs
 lib32-gdk-pixbuf2
 lib32-gettext
@@ -255,7 +246,6 @@ lib32-lcms2
 lib32-libappindicator-gtk2
 lib32-libasyncns
 lib32-libcap
-lib32-libcups
 lib32-libdatrie
 lib32-libdbusmenu-glib
 lib32-libdbusmenu-gtk2
@@ -308,7 +298,6 @@ lib32-libxxf86vm
 lib32-llvm-libs
 lib32-lm_sensors
 lib32-lz4
-lib32-mesa
 lib32-mpg123
 lib32-ncurses
 lib32-nettle
@@ -322,7 +311,6 @@ lib32-pcre
 lib32-pixman
 lib32-readline
 lib32-sqlite
-lib32-systemd
 lib32-util-linux
 lib32-vkd3d
 lib32-vulkan-icd-loader
@@ -352,7 +340,6 @@ libcdio
 libcdio-paranoia
 libcdr
 libcroco
-libcups
 libcurl-gnutls
 libdaemon
 libdatrie
@@ -388,7 +375,6 @@ libgudev
 libgusb
 libheif
 libibus
-libical
 libice
 libid3tag
 libidn
@@ -428,7 +414,6 @@ libnftnl
 libnghttp2
 libnice
 libnl
-libnm
 libnma
 libnotify
 libnsl
@@ -445,7 +430,6 @@ libpng
 libproxy
 libpsl
 libpulse
-libqmi
 libraqm
 libraw
 libraw1394
@@ -520,10 +504,8 @@ libxkbcommon-x11
 libxkbfile
 libxklavier
 libxml2
-libxmlb
 libxmu
 libxnvctrl
-libxpm
 libxrandr
 libxrender
 libxshmfence
@@ -541,8 +523,6 @@ licenses
 lilv
 linux
 linux-api-headers
-linux-firmware
-linux-headers
 llvm-libs
 lmdb
 logrotate
@@ -562,10 +542,9 @@ man-db
 man-pages
 mariadb-libs
 mbedtls
+md4c
 mdadm
 mercurial
-mesa
-mesa-demos
 metis
 miniupnpc
 minizip
@@ -610,7 +589,6 @@ opera-ffmpeg-codecs
 opus
 orc
 p11-kit
-p7zip
 pacman
 pacman-contrib
 pacman-mirrorlist
@@ -653,7 +631,6 @@ pulseaudio
 pyalpm
 pygobject-devel
 pygtk
-pyqt5-common
 python
 python-aiohttp
 python-aiohttp-socks
@@ -670,7 +647,6 @@ python-automat
 python-bcrypt
 python-beaker
 python-boto3
-python-botocore
 python-cachecontrol
 python-cached-property
 python-cairo
@@ -701,7 +677,6 @@ python-docopt
 python-docutils
 python-ecdsa
 python-entrypoints
-python-evdev
 python-ewmh
 python-filelock
 python-future
@@ -782,7 +757,6 @@ python-service-identity
 python-setproctitle
 python-setuptools
 python-sip
-python-sip-pyqt5
 python-six
 python-stevedore
 python-tabulate
@@ -928,8 +902,6 @@ suil
 suitesparse
 swaybg
 sysfsutils
-systemd
-systemd-libs
 systemd-sysvcompat
 t1lib
 taglib
@@ -1009,6 +981,7 @@ xorgproto
 xvidcore
 xz
 yajl
+zathura-pdf-poppler
 zbar
 zenity
 zeromq
