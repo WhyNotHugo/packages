@@ -5,5 +5,6 @@ python-asttokens
 python-notify2
 python-openrazer
 python-txdbus
+ruby-concurrent-ruby
 ttf-ms-fonts
 vmware-keymaps

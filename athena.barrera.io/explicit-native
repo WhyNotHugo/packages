@@ -50,7 +50,6 @@ flake8
 fuseiso
 fwupd
 fzf
-gconf
 geckodriver
 gimp
 git-crypt
@@ -183,9 +182,9 @@ vdirsyncer
 virtualbox
 virtualbox-host-dkms
 whois
+wine-gecko
 wine-mono
 wine-staging
-wine_gecko
 winetricks
 xclip
 xdg-user-dirs
