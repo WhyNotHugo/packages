@@ -890,6 +890,7 @@ ruby-liquid
 ruby-listen
 ruby-maruku
 ruby-mercenary
+ruby-mercenary-0.3
 ruby-mocha
 ruby-pathutil
 ruby-public_suffix
