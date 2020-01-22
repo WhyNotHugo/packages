@@ -333,6 +333,7 @@ lib32-xz
 lib32-zlib
 lib32-zstd
 libaio
+libappindicator-gtk3
 libarchive
 libass
 libassuan
@@ -359,6 +360,7 @@ libdaemon
 libdatrie
 libdbusmenu-glib
 libdbusmenu-gtk2
+libdbusmenu-gtk3
 libdc1394
 libdca
 libde265
@@ -396,6 +398,7 @@ libidn2
 libiec61883
 libimagequant
 libindicator-gtk2
+libindicator-gtk3
 libinput
 libjpeg-turbo
 libksba
