@@ -137,6 +137,7 @@ python-botocore
 python-ipdb
 python-pip
 python-pipenv
+python-poetry
 python-pynvim
 python-tox
 python-virtualenvwrapper
