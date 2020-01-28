@@ -27,6 +27,7 @@ babl
 bash
 bc
 binutils
+bison
 blas
 bluez
 bluez-libs
