@@ -67,6 +67,7 @@ inotify-tools
 intel-ucode
 iperf
 ipython
+k9s
 kexec-tools
 khal
 leafpad
@@ -91,6 +92,7 @@ maim
 mdp
 memtest86+
 mesa
+minikube
 mpv
 musescore
 namcap
