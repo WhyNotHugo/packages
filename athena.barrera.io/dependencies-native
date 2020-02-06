@@ -723,6 +723,7 @@ python-paramiko
 python-parsedatetime
 python-parso
 python-pastel
+python-pathspec
 python-pbkdf2
 python-pep517
 python-pew
@@ -762,6 +763,7 @@ python-pytoml
 python-pytz
 python-pyudev
 python-qrcode
+python-regex
 python-rencode
 python-requests
 python-requests-oauthlib
@@ -783,6 +785,7 @@ python-toml
 python-tomlkit
 python-traitlets
 python-twisted
+python-typed-ast
 python-tzlocal
 python-urllib3
 python-urwid
