@@ -1,5 +1,4 @@
 alacritty
-alacritty-terminfo
 android-tools
 arandr
 arc-gtk-theme
@@ -31,7 +30,6 @@ d-feet
 dbeaver
 dconf-editor
 deluge
-devtools
 discord
 docker-compose
 dracut
