@@ -541,6 +541,7 @@ lv2
 lvm2
 lxc
 lz4
+lzip
 lzo
 m4
 mailcap
@@ -915,6 +916,7 @@ speex
 speexdsp
 spirv-tools
 sqlite
+squashfs-tools
 sratom
 srt
 startup-notification
