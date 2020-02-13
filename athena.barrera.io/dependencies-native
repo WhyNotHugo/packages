@@ -349,6 +349,7 @@ libdatrie
 libdbusmenu-glib
 libdbusmenu-gtk2
 libdbusmenu-gtk3
+libdbusmenu-qt5
 libdc1394
 libdca
 libde265
