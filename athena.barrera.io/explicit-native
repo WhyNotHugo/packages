@@ -1,10 +1,7 @@
-alacritty
-android-tools
 arandr
 arc-gtk-theme
 arc-icon-theme
 astyle
-atool
 audacity
 autorandr
 autossh
@@ -13,7 +10,6 @@ base
 bind-tools
 blueman
 bluez-utils
-bolt
 bwm-ng
 calc
 cgminer
@@ -27,12 +23,10 @@ ctags
 cups
 cups-filters
 d-feet
-dbeaver
 dconf-editor
 deluge
 discord
 docker-compose
-dracut
 dunst
 efibootmgr
 electrum
@@ -60,7 +54,6 @@ i3-wm
 i3lock
 imagemagick
 imlib2
-inkscape
 inotify-tools
 intel-ucode
 iperf
@@ -69,11 +62,6 @@ k9s
 kexec-tools
 khal
 leafpad
-lib32-fribidi
-lib32-libcups
-lib32-mesa
-lib32-nvidia-utils
-lib32-systemd
 libcups
 libical
 libnm
@@ -109,16 +97,12 @@ noto-fonts-cjk
 noto-fonts-emoji
 nss-mdns
 numlockx
-nvidia
-nvidia-settings
-nvidia-utils
 openbsd-netcat
 openssh
 otf-font-awesome
 paprefs
 parcellite
 parity-ethereum
-pass
 pavucontrol
 pepper-flash
 perl-image-exiftool
@@ -131,7 +115,6 @@ ponymix
 powertop
 pulseaudio-alsa
 pulseaudio-bluetooth
-pv
 python-black
 python-botocore
 python-ipdb
@@ -178,7 +161,6 @@ ttf-opensans
 ttf-ubuntu-font-family
 typescript
 unrar
-vagrant
 vdirsyncer
 virtualbox
 virtualbox-host-dkms
@@ -187,7 +169,6 @@ wine-gecko
 wine-mono
 wine-staging
 winetricks
-xclip
 xdg-user-dirs
 xdotool
 xf86-video-intel
@@ -210,6 +191,5 @@ yapf
 yarn
 youtube-dl
 zathura
-zerotier-one
 zsh
 zsh-completions

@@ -1,9 +1,5 @@
 1password-cli
 alsi
-anbox-bridge
-anbox-git
-anbox-image-gapps
-anbox-modules-dkms-git
 aws-ecs-cli
 browser-vacuum
 caffeine-ng
@@ -25,12 +21,10 @@ meta-group-base-devel
 minecraft
 minecraft-launcher
 natural-scrolling-forever
-nvidia-xrun-git
 pkgbuild-introspection
 plymouth
 plymouth-theme-monoarch
 popcorntime-bin
-python-aws-mfa
 python-flake8-bugbear
 python-flake8-comprehensions
 python-flake8-import-order

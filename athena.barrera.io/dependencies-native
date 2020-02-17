@@ -3,6 +3,7 @@ accountsservice
 acl
 adobe-source-code-pro-fonts
 adwaita-icon-theme
+alacritty
 alsa-lib
 alsa-plugins
 alsa-topology-conf
@@ -10,7 +11,6 @@ alsa-ucm-conf
 aom
 archlinux-keyring
 argon2
-asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -75,10 +75,9 @@ dnssec-anchors
 docker
 dosfstools
 double-conversion
+dracut
 e2fsprogs
 efivar
-egl-wayland
-eglexternalplatform
 elfutils
 enchant
 exempi
@@ -98,7 +97,6 @@ flac
 flex
 fluidsynth
 fontconfig
-freerdp
 freetype2
 frei0r-plugins
 fribidi
@@ -148,7 +146,6 @@ grep
 groff
 gsettings-desktop-schemas
 gsfonts
-gsl
 gsm
 gssdp
 gst-plugins-bad
@@ -159,9 +156,7 @@ gstreamer
 gtk-update-icon-cache
 gtk2
 gtk3
-gtkmm
 gtkmm3
-gtkspell
 gtkspell3
 guile
 gunicorn
@@ -230,6 +225,7 @@ lib32-expat
 lib32-flac
 lib32-fontconfig
 lib32-freetype2
+lib32-fribidi
 lib32-gcc-libs
 lib32-gdk-pixbuf2
 lib32-gettext
@@ -249,6 +245,7 @@ lib32-lcms2
 lib32-libappindicator-gtk2
 lib32-libasyncns
 lib32-libcap
+lib32-libcups
 lib32-libdatrie
 lib32-libdbusmenu-glib
 lib32-libdbusmenu-gtk2
@@ -301,6 +298,7 @@ lib32-libxxf86vm
 lib32-llvm-libs
 lib32-lm_sensors
 lib32-lz4
+lib32-mesa
 lib32-mpg123
 lib32-ncurses
 lib32-nettle
@@ -314,6 +312,7 @@ lib32-pcre
 lib32-pixman
 lib32-readline
 lib32-sqlite
+lib32-systemd
 lib32-util-linux
 lib32-vkd3d
 lib32-vulkan-icd-loader
@@ -342,7 +341,6 @@ libcap-ng
 libcddb
 libcdio
 libcdio-paranoia
-libcdr
 libcroco
 libcurl-gnutls
 libdaemon
@@ -376,7 +374,6 @@ libglvnd
 libgme
 libgnomekbd
 libgpg-error
-libgssglue
 libgudev
 libgusb
 libheif
@@ -399,7 +396,6 @@ liblqr
 liblrdf
 libluv
 libmad
-libmagick6
 libmaxminddb
 libmbim
 libmediainfo
@@ -413,7 +409,6 @@ libmpc
 libmpcdec
 libmpeg2
 libmypaint
-libnatpmp
 libndp
 libnetfilter_conntrack
 libnewt
@@ -441,7 +436,6 @@ libpulse
 libraqm
 libraw
 libraw1394
-librevenge
 librsvg
 libsamplerate
 libsasl
@@ -490,7 +484,6 @@ libwacom
 libwbclient
 libwebp
 libwmf
-libwpd
 libwpe
 libx11
 libxau
@@ -513,7 +506,6 @@ libxkbfile
 libxklavier
 libxml2
 libxmu
-libxnvctrl
 libxrandr
 libxrender
 libxshmfence
@@ -541,9 +533,7 @@ luajit
 lucene++
 lv2
 lvm2
-lxc
 lz4
-lzip
 lzo
 m4
 mailcap
@@ -655,7 +645,6 @@ python-attrs
 python-automat
 python-bcrypt
 python-beaker
-python-boto3
 python-cachecontrol
 python-cached-property
 python-cachy
@@ -899,7 +888,6 @@ samba
 sbc
 sdl
 sdl2
-sdl2_image
 sed
 semver
 serd
@@ -918,7 +906,6 @@ speex
 speexdsp
 spirv-tools
 sqlite
-squashfs-tools
 sratom
 srt
 startup-notification
@@ -968,7 +955,6 @@ wayland
 wayland-protocols
 webkit2gtk
 webrtc-audio-processing
-wget
 which
 wildmidi
 wlroots
@@ -1000,8 +986,6 @@ xorg-font-util
 xorg-font-utils
 xorg-mkfontscale
 xorg-server-common
-xorg-server-devel
-xorg-util-macros
 xorg-xauth
 xorg-xkbcomp
 xorg-xmessage
