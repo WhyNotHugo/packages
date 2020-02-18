@@ -18,8 +18,6 @@ js-beautify
 kernel-modules-hook
 meta-group-base
 meta-group-base-devel
-minecraft
-minecraft-launcher
 natural-scrolling-forever
 pkgbuild-introspection
 plymouth

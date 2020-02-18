@@ -78,7 +78,6 @@ double-conversion
 dracut
 e2fsprogs
 efivar
-elfutils
 enchant
 exempi
 exfat-utils
@@ -119,7 +118,6 @@ geocode-glib
 geoip
 geoip-database
 gettext
-giblib
 giflib
 girara
 git
@@ -177,8 +175,11 @@ hyphen
 iana-etc
 icu
 ijs
+imagemagick
+imlib2
 inetutils
 iniparser
+inotify-tools
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
@@ -191,10 +192,7 @@ iw
 jack
 jansson
 jasper
-java-runtime-common
 jfsutils
-jre8-openjdk
-jre8-openjdk-headless
 js60
 json-c
 json-glib
@@ -574,7 +572,6 @@ nspr
 nss
 ntfs-3g
 openal
-openconnect
 opencore-amr
 openexr
 openjpeg2
@@ -582,7 +579,6 @@ openmpi
 openntpd
 openresolv
 openssl
-openvpn
 opera-ffmpeg-codecs
 opus
 orc
@@ -609,7 +605,6 @@ perl-timedate
 pinentry
 pipewire
 pixman
-pkcs11-helper
 pkgconf
 polkit
 poppler
@@ -626,7 +621,6 @@ procps-ng
 protobuf
 psmisc
 pulseaudio
-pyalpm
 pygobject-devel
 python
 python-aiohttp
@@ -736,7 +730,6 @@ python-pycodestyle
 python-pycparser
 python-pycryptodome
 python-pycryptodomex
-python-pyelftools
 python-pyflakes
 python-pygments
 python-pyhamcrest
@@ -877,13 +870,13 @@ sqlite
 sratom
 srt
 startup-notification
-stoken
-strongswan
 sudo
 suil
 suitesparse
 swaybg
 sysfsutils
+systemd
+systemd-libs
 systemd-sysvcompat
 t1lib
 taglib
@@ -896,6 +889,7 @@ texinfo
 texlive-bin
 thin-provisioning-tools
 tinyxml2
+tor
 tpm2-tss
 tslib
 ttf-dejavu
@@ -915,7 +909,6 @@ vi
 vid.stab
 vkd3d
 volume_key
-vpnc
 vte-common
 vulkan-icd-loader
 wavpack
@@ -955,6 +948,7 @@ xorg-font-utils
 xorg-mkfontscale
 xorg-server-common
 xorg-xauth
+xorg-xhost
 xorg-xkbcomp
 xorg-xmessage
 xorgproto
