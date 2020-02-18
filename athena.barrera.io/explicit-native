@@ -124,7 +124,6 @@ python-poetry
 python-pynvim
 python-tox
 python-virtualenvwrapper
-python2-service-identity
 redshift
 retroarch
 retroarch-assets-xmb
