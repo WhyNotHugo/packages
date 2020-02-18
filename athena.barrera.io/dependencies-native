@@ -9,6 +9,7 @@ alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
 aom
+appstream-glib
 archlinux-keyring
 argon2
 aspell
@@ -582,6 +583,7 @@ openssl
 opera-ffmpeg-codecs
 opus
 orc
+ostree
 p11-kit
 pacman
 pacman-contrib
@@ -938,6 +940,8 @@ xcb-util-renderutil
 xcb-util-wm
 xcb-util-xrm
 xdg-dbus-proxy
+xdg-desktop-portal
+xdg-desktop-portal-gtk
 xdg-utils
 xf86-input-libinput
 xfsprogs
