@@ -103,6 +103,7 @@ pulseaudio-alsa
 pulseaudio-bluetooth
 python-black
 python-botocore
+python-isort
 python-pip
 python-pipenv
 python-poetry
