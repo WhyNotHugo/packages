@@ -17,7 +17,7 @@ clang
 ctags
 cups
 dconf-editor
-deluge
+deluge-gtk
 discord
 docker-compose
 dunst
@@ -33,6 +33,7 @@ flatpak
 fuseiso
 fwupd
 fzf
+gdb
 gimp
 git-crypt
 git-lfs

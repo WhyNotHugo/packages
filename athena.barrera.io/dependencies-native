@@ -67,6 +67,7 @@ db
 dbus
 dbus-glib
 dconf
+deluge
 desktop-file-utils
 device-mapper
 dhcpcd
@@ -112,6 +113,7 @@ gcc
 gcc-libs
 gcr
 gd
+gdb-common
 gdbm
 gdk-pixbuf2
 gegl
@@ -158,6 +160,7 @@ gtk3
 gtkmm3
 gtkspell3
 guile
+guile2.0
 gunicorn
 gupnp
 gupnp-igd
@@ -369,7 +372,6 @@ libffi
 libfontenc
 libgcrypt
 libgexiv2
-libglade
 libglvnd
 libgme
 libgnomekbd
@@ -627,7 +629,6 @@ protobuf
 psmisc
 pulseaudio
 pygobject-devel
-pygtk
 python
 python-aiohttp
 python-aiohttp-socks
@@ -792,7 +793,6 @@ python-yarl
 python-zipp
 python-zope-interface
 python2
-python2-cairo
 python2-dbus
 python2-gobject
 python2-gobject2
@@ -880,6 +880,7 @@ sqlite
 sratom
 srt
 startup-notification
+strace
 sudo
 suil
 suitesparse
