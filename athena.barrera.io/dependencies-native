@@ -674,7 +674,6 @@ python-docopt
 python-docutils
 python-ecdsa
 python-entrypoints
-python-evdev
 python-ewmh
 python-filelock
 python-future
