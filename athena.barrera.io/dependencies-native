@@ -175,6 +175,7 @@ hwloc
 hyphen
 i3lock
 iana-etc
+ibus
 icu
 ijs
 imagemagick
@@ -792,6 +793,8 @@ python-zipp
 python-zope-interface
 python2
 python2-cairo
+python2-dbus
+python2-gobject
 python2-gobject2
 qpdf
 qt5-base
