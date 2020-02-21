@@ -131,7 +131,6 @@ glslang
 glu
 gmp
 gnome-desktop
-gnome-keyring
 gnome-video-effects
 gnupg
 gnutls
@@ -369,6 +368,7 @@ libffi
 libfontenc
 libgcrypt
 libgexiv2
+libglade
 libglvnd
 libgme
 libgnomekbd

@@ -142,6 +142,7 @@ wine-gecko
 wine-mono
 wine-staging
 winetricks
+x11-ssh-askpass
 xdg-user-dirs
 xdotool
 xf86-video-intel
