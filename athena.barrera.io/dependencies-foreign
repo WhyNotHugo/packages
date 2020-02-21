@@ -3,7 +3,6 @@ openrazer-driver-dkms
 python-aspy-refactor-imports
 python-asttokens
 python-notify2
-python-openrazer
 python-txdbus
 ttf-ms-fonts
 vmware-keymaps

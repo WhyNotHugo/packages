@@ -1,4 +1,3 @@
-1password-cli
 alsi
 aws-ecs-cli
 browser-vacuum
@@ -11,7 +10,6 @@ fswebcam
 gconf
 hobarrera-sxiv
 i3pystatus-git
-ibus-uniemoji
 insomnia
 itch
 js-beautify
@@ -26,8 +24,8 @@ popcorntime-bin
 python-flake8-bugbear
 python-flake8-comprehensions
 python-flake8-import-order
+python-openrazer
 python-reorder-python-imports
-razercommander
 skypeforlinux-preview-bin
 spotify
 starship

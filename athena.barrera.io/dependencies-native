@@ -60,6 +60,7 @@ coreutils
 cpio
 cracklib
 cryptsetup
+cups-filters
 curl
 dav1d
 db
@@ -172,15 +173,14 @@ hunspell-en_US
 hwids
 hwloc
 hyphen
+i3lock
 iana-etc
-ibus
 icu
 ijs
 imagemagick
 imlib2
 inetutils
 iniparser
-inotify-tools
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
@@ -197,7 +197,6 @@ jfsutils
 js60
 json-c
 json-glib
-jsoncpp
 kbd
 keyutils
 kmod
@@ -341,6 +340,7 @@ libcddb
 libcdio
 libcdio-paranoia
 libcroco
+libcups
 libcurl-gnutls
 libdaemon
 libdatrie
@@ -377,6 +377,7 @@ libgudev
 libgusb
 libheif
 libibus
+libical
 libice
 libid3tag
 libidn
@@ -386,6 +387,7 @@ libimagequant
 libindicator-gtk2
 libindicator-gtk3
 libinput
+libinstpatch
 libjpeg-turbo
 libkate
 libksba
@@ -395,7 +397,6 @@ liblqr
 liblrdf
 libluv
 libmad
-libmaxminddb
 libmbim
 libmediainfo
 libmfx
@@ -416,6 +417,7 @@ libnftnl
 libnghttp2
 libnice
 libnl
+libnm
 libnma
 libnotify
 libnsl
@@ -432,6 +434,7 @@ libpng
 libproxy
 libpsl
 libpulse
+libqmi
 libraqm
 libraw
 libraw1394
@@ -442,7 +445,6 @@ libseccomp
 libsecret
 libshout
 libsigc++
-libsigsegv
 libsm
 libsmbios
 libsndfile
@@ -504,7 +506,9 @@ libxkbcommon-x11
 libxkbfile
 libxklavier
 libxml2
+libxmlb
 libxmu
+libxpm
 libxrandr
 libxrender
 libxshmfence
@@ -517,7 +521,6 @@ libxvmc
 libxxf86vm
 libyaml
 libzen
-libzip
 licenses
 lilv
 linux
@@ -526,7 +529,6 @@ llvm-libs
 lmdb
 logrotate
 lsb-release
-lua
 lua52
 luajit
 lucene++
@@ -618,13 +620,13 @@ portaudio
 portmidi
 portsmf
 postgresql-libs
-potrace
 ppp
 procps-ng
 protobuf
 psmisc
 pulseaudio
 pygobject-devel
+pygtk
 python
 python-aiohttp
 python-aiohttp-socks
@@ -640,6 +642,7 @@ python-attrs
 python-automat
 python-bcrypt
 python-beaker
+python-botocore
 python-cachecontrol
 python-cached-property
 python-cachy
@@ -699,7 +702,6 @@ python-lockfile
 python-mako
 python-markupsafe
 python-mccabe
-python-more-itertools
 python-msgpack
 python-multidict
 python-numpy
@@ -789,8 +791,7 @@ python-yarl
 python-zipp
 python-zope-interface
 python2
-python2-dbus
-python2-gobject
+python2-cairo
 python2-gobject2
 qpdf
 qt5-base
@@ -811,7 +812,6 @@ re2
 readline
 reiserfsprogs
 rest
-rhash
 rtkit
 rtmpdump
 rubberband
@@ -885,7 +885,6 @@ sysfsutils
 systemd
 systemd-libs
 systemd-sysvcompat
-t1lib
 taglib
 talloc
 tar
@@ -893,10 +892,8 @@ tdb
 termite-terminfo
 tevent
 texinfo
-texlive-bin
 thin-provisioning-tools
 tinyxml2
-tor
 tpm2-tss
 tslib
 ttf-dejavu
@@ -957,7 +954,6 @@ xorg-font-utils
 xorg-mkfontscale
 xorg-server-common
 xorg-xauth
-xorg-xhost
 xorg-xkbcomp
 xorg-xmessage
 xorgproto
@@ -975,4 +971,3 @@ zita-resampler
 zlib
 zstd
 zvbi
-zziplib
