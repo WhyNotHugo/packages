@@ -39,7 +39,6 @@ c-ares
 ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
-cabextract
 cairo
 cairomm
 cantarell-fonts
@@ -481,7 +480,6 @@ libwebp
 libwpe
 libx11
 libxau
-libxaw
 libxcb
 libxcomposite
 libxcursor
@@ -837,6 +835,7 @@ runc
 s-nail
 samba
 sbc
+scdoc
 sdl
 sdl2
 sdl2_ttf
@@ -863,6 +862,7 @@ startup-notification
 sudo
 suil
 swaybg
+swayidle
 sysfsutils
 systemd
 systemd-libs
@@ -936,7 +936,6 @@ xorg-mkfontscale
 xorg-server-common
 xorg-setxkbmap
 xorg-xkbcomp
-xorg-xmessage
 xorg-xprop
 xorg-xset
 xorgproto

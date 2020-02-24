@@ -46,7 +46,7 @@ k9s
 kanshi
 kexec-tools
 khal
-leafpad
+l3afpad
 light
 linux-firmware
 linux-headers
@@ -106,9 +106,7 @@ solaar
 steam
 subdownloader
 sway
-swayidle
 swaylock
-tarsnap
 telegram-desktop
 termite
 the_silver_searcher
@@ -124,7 +122,6 @@ whois
 wine-gecko
 wine-mono
 wine-staging
-winetricks
 x11-ssh-askpass
 xdg-user-dirs
 xorg-server-xwayland
