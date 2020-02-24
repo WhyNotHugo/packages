@@ -1,8 +1,5 @@
-openrazer-daemon
-openrazer-driver-dkms
 python-aspy-refactor-imports
 python-asttokens
-python-notify2
 python-txdbus
 ttf-ms-fonts
 vmware-keymaps

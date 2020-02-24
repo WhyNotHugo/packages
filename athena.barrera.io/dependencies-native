@@ -26,7 +26,6 @@ bash
 bc
 binutils
 bison
-blas
 bluez
 bluez-libs
 boost-libs
@@ -42,7 +41,6 @@ ca-certificates-utils
 cairo
 cairomm
 cantarell-fonts
-cblas
 cdparanoia
 celt
 chromaprint
@@ -203,7 +201,6 @@ krb5
 l-smash
 ladspa
 lame
-lapack
 lcms2
 ldb
 ldns
@@ -649,7 +646,6 @@ python-configobj
 python-constantly
 python-contextlib2
 python-cryptography
-python-daemonize
 python-dateutil
 python-dbus
 python-dbus-common
@@ -690,7 +686,6 @@ python-markupsafe
 python-mccabe
 python-msgpack
 python-multidict
-python-numpy
 python-oauthlib
 python-ordered-set
 python-packaging
@@ -835,7 +830,6 @@ runc
 s-nail
 samba
 sbc
-scdoc
 sdl
 sdl2
 sdl2_ttf
@@ -913,7 +907,6 @@ wxgtk3
 x264
 x265
 xapps
-xautomation
 xcb-proto
 xcb-util
 xcb-util-errors

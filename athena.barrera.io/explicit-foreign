@@ -7,7 +7,6 @@ downgrade
 dxvk-bin
 fswebcam
 gconf
-hobarrera-sxiv
 i3pystatus-git
 insomnia
 itch
@@ -23,17 +22,14 @@ popcorntime
 python-flake8-bugbear
 python-flake8-comprehensions
 python-flake8-import-order
-python-openrazer
 python-reorder-python-imports
 redshift-wlr-gamma-control
 skypeforlinux-preview-bin
-slack-desktop
 starship
 sysconfig
 systemd-lock-handler
 tor-browser
 ttf-symbola
 vmware-workstation
-wev-git
 wofi
 yay
