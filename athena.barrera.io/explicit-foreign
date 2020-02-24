@@ -25,6 +25,7 @@ python-flake8-comprehensions
 python-flake8-import-order
 python-openrazer
 python-reorder-python-imports
+redshift-wlr-gamma-control
 skypeforlinux-preview-bin
 starship
 sysconfig

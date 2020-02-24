@@ -41,6 +41,7 @@ imv
 inotify-tools
 intel-ucode
 ipython
+jq
 k9s
 kanshi
 kexec-tools
@@ -100,6 +101,7 @@ rsync
 ruby-homesick
 ruby-jekyll
 rust
+slurp
 solaar
 steam
 subdownloader

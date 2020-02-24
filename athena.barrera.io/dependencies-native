@@ -565,6 +565,7 @@ npth
 nspr
 nss
 ntfs-3g
+oniguruma
 openal
 opencore-amr
 openexr
