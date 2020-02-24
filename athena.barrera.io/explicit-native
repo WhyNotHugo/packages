@@ -38,9 +38,11 @@ gimp
 git-crypt
 git-lfs
 gparted
+grim
 hunspell-en_GB
 hunspell-es_ar
 i3-wm
+imv
 inotify-tools
 intel-ucode
 ipython
@@ -56,6 +58,7 @@ lm_sensors
 lostfiles
 lsof
 maim
+mako
 mdp
 memtest86+
 mesa
@@ -110,6 +113,7 @@ solaar
 steam
 subdownloader
 sway
+swaylock
 sxhkd
 tarsnap
 telegram-desktop
@@ -134,6 +138,7 @@ xdotool
 xf86-video-intel
 xorg-fonts-encodings
 xorg-server
+xorg-server-xwayland
 xorg-setxkbmap
 xorg-xev
 xorg-xinit

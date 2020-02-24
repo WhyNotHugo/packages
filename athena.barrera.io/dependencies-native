@@ -100,6 +100,7 @@ flac
 flex
 fluidsynth
 fontconfig
+freeimage
 freetype2
 frei0r-plugins
 fribidi
@@ -202,6 +203,7 @@ jfsutils
 js60
 json-c
 json-glib
+jxrlib
 kbd
 keyutils
 kmod
@@ -552,6 +554,7 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
+meson
 metis
 miniupnpc
 minizip
@@ -574,6 +577,7 @@ neon
 netctl
 netpbm
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -865,6 +869,7 @@ samba
 sbc
 sdl
 sdl2
+sdl2_ttf
 sed
 semver
 serd
