@@ -22,7 +22,6 @@ audit
 autoconf
 automake
 avahi
-babl
 bash
 bc
 binutils
@@ -118,7 +117,6 @@ gd
 gdb-common
 gdbm
 gdk-pixbuf2
-gegl
 geoclue
 geocode-glib
 geoip
@@ -127,7 +125,6 @@ gettext
 giflib
 girara
 git
-glew
 glib-networking
 glib2
 glibc
@@ -148,7 +145,6 @@ graphite
 grep
 groff
 gsettings-desktop-schemas
-gsfonts
 gsm
 gssdp
 gst-plugins-bad
@@ -178,9 +174,7 @@ hunspell-en_US
 hwids
 hwloc
 hyphen
-i3lock
 iana-etc
-ibus
 icu
 ijs
 imagemagick
@@ -190,7 +184,6 @@ iniparser
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
-intel-tbb
 iproute2
 iptables
 iputils
@@ -215,7 +208,6 @@ lapack
 lcms2
 ldb
 ldns
-lensfun
 less
 lib32-acl
 lib32-alsa-lib
@@ -367,7 +359,6 @@ libdvdread
 libedit
 libelf
 libepoxy
-libev
 libevdev
 libevent
 libexif
@@ -376,15 +367,12 @@ libfdk-aac
 libffi
 libfontenc
 libgcrypt
-libgexiv2
-libglade
 libglvnd
 libgme
 libgnomekbd
 libgpg-error
 libgudev
 libgusb
-libheif
 libibus
 libical
 libice
@@ -417,7 +405,6 @@ libmodplug
 libmpc
 libmpcdec
 libmpeg2
-libmypaint
 libndp
 libnetfilter_conntrack
 libnewt
@@ -460,7 +447,6 @@ libsndfile
 libsodium
 libsoup
 libsoxr
-libspiro
 libsrtp
 libssh
 libssh2
@@ -493,7 +479,6 @@ libvterm
 libwacom
 libwbclient
 libwebp
-libwmf
 libwpe
 libx11
 libxau
@@ -526,7 +511,6 @@ libxss
 libxt
 libxtst
 libxv
-libxvmc
 libxxf86vm
 libyaml
 libzen
@@ -554,8 +538,6 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
-meson
-metis
 miniupnpc
 minizip
 mjpegtools
@@ -569,7 +551,6 @@ mpg123
 msgpack-c
 mtdev
 mujs
-mypaint-brushes1
 nano
 ncurses
 ndctl
@@ -577,7 +558,6 @@ neon
 netctl
 netpbm
 nettle
-ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -624,7 +604,6 @@ pixman
 pkgconf
 polkit
 poppler
-poppler-data
 poppler-glib
 popt
 portaudio
@@ -637,7 +616,6 @@ protobuf
 psmisc
 pulseaudio
 pygobject-devel
-pygtk
 python
 python-aiohttp
 python-aiohttp-socks
@@ -688,7 +666,6 @@ python-docopt
 python-docutils
 python-ecdsa
 python-entrypoints
-python-ewmh
 python-filelock
 python-future
 python-geoip
@@ -794,18 +771,11 @@ python-virtualenv-clone
 python-wcwidth
 python-webencodings
 python-websocket-client
-python-wheel
 python-xdg
-python-xlib
 python-yaml
 python-yarl
 python-zipp
 python-zope-interface
-python2
-python2-cairo
-python2-dbus
-python2-gobject
-python2-gobject2
 qpdf
 qt5-base
 qt5-declarative
@@ -877,7 +847,6 @@ shaderc
 shadow
 shared-mime-info
 slang
-slop
 smbclient
 snappy
 sord
@@ -891,10 +860,8 @@ sqlite
 sratom
 srt
 startup-notification
-strace
 sudo
 suil
-suitesparse
 swaybg
 sysfsutils
 systemd
@@ -949,7 +916,6 @@ xapps
 xautomation
 xcb-proto
 xcb-util
-xcb-util-cursor
 xcb-util-errors
 xcb-util-image
 xcb-util-keysyms
@@ -960,22 +926,23 @@ xdg-dbus-proxy
 xdg-desktop-portal
 xdg-desktop-portal-gtk
 xdg-utils
-xf86-input-libinput
 xfsprogs
 xkeyboard-config
 xorg-bdftopcf
 xorg-font-util
 xorg-font-utils
+xorg-fonts-encodings
 xorg-mkfontscale
 xorg-server-common
-xorg-xauth
+xorg-setxkbmap
 xorg-xkbcomp
 xorg-xmessage
+xorg-xprop
+xorg-xset
 xorgproto
 xvidcore
 xxhash
 xz
-yajl
 zathura-pdf-poppler
 zbar
 zenity

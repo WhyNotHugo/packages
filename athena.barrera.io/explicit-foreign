@@ -1,7 +1,6 @@
 alsi
 aws-ecs-cli
 browser-vacuum
-caffeine-ng
 chromium-widevine
 ctop
 downgrade
@@ -10,7 +9,6 @@ fswebcam
 gconf
 hobarrera-sxiv
 i3pystatus-git
-ibus-uniemoji
 insomnia
 itch
 js-beautify
@@ -21,7 +19,7 @@ natural-scrolling-forever
 pkgbuild-introspection
 plymouth
 plymouth-theme-monoarch
-popcorntime-bin
+popcorntime
 python-flake8-bugbear
 python-flake8-comprehensions
 python-flake8-import-order
@@ -30,7 +28,6 @@ python-reorder-python-imports
 skypeforlinux-preview-bin
 spotify
 starship
-stepmania
 sysconfig
 systemd-lock-handler
 tarsnap-gui
