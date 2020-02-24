@@ -26,7 +26,6 @@ python-flake8-import-order
 python-openrazer
 python-reorder-python-imports
 skypeforlinux-preview-bin
-spotify
 starship
 sysconfig
 systemd-lock-handler

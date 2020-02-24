@@ -342,7 +342,6 @@ libcdio
 libcdio-paranoia
 libcroco
 libcups
-libcurl-gnutls
 libdaemon
 libdatrie
 libdbusmenu-glib
