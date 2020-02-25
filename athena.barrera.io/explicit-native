@@ -46,6 +46,7 @@ k9s
 kanshi
 kexec-tools
 khal
+kubectl
 l3afpad
 light
 linux-firmware
@@ -118,14 +119,15 @@ tree
 ttf-opensans
 ttf-ubuntu-font-family
 vdirsyncer
+virtualbox
 whois
 wine-gecko
 wine-mono
 wine-staging
+wl-clipboard
 x11-ssh-askpass
 xdg-user-dirs
 xorg-server-xwayland
-xsel
 yapf
 yarn
 youtube-dl
