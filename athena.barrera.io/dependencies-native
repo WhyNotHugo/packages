@@ -131,6 +131,7 @@ gnome-desktop
 gnome-video-effects
 gnupg
 gnutls
+go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -840,6 +841,7 @@ shared-mime-info
 slang
 smbclient
 snappy
+socat
 sord
 sound-theme-freedesktop
 soundtouch
