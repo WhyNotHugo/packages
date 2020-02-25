@@ -53,7 +53,6 @@ colord
 compiler-rt
 containerd
 coreutils
-cpio
 cracklib
 cryptsetup
 cups-filters
@@ -74,7 +73,6 @@ dnssec-anchors
 docker
 dosfstools
 double-conversion
-dracut
 e2fsprogs
 efivar
 enchant
