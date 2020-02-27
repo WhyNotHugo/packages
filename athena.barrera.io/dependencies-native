@@ -148,7 +148,6 @@ gst-plugins-base-libs
 gst-plugins-good
 gstreamer
 gtk-update-icon-cache
-gtk2
 gtk3
 gtkmm3
 gtkspell3

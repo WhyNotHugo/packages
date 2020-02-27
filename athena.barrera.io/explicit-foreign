@@ -9,7 +9,6 @@ fswebcam
 gconf
 i3pystatus-git
 insomnia
-itch
 js-beautify
 kernel-modules-hook
 kubernetes-helm
@@ -32,6 +31,7 @@ systemd-lock-handler
 tor-browser
 ttf-symbola
 vmware-workstation
+wdisplays-git
 wev-git
 wofi
 yay
