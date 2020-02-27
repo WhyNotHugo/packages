@@ -581,7 +581,6 @@ pango
 pangomm
 parted
 patch
-pciutils
 pcre
 pcre2
 pcsclite
@@ -609,7 +608,6 @@ protobuf
 psmisc
 pulseaudio
 pygobject-devel
-python
 python-aiohttp
 python-aiohttp-socks
 python-aiorpcx
