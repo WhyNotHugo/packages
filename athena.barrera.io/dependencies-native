@@ -44,6 +44,7 @@ cantarell-fonts
 cdparanoia
 celt
 chromaprint
+chrono-date
 cifs-utils
 clutter
 clutter-gst
@@ -93,6 +94,7 @@ findutils
 flac
 flex
 fluidsynth
+fmt
 fontconfig
 freeimage
 freetype2
@@ -147,6 +149,7 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
+gtk-layer-shell
 gtk-update-icon-cache
 gtk3
 gtkmm3
@@ -188,6 +191,7 @@ jfsutils
 js60
 json-c
 json-glib
+jsoncpp
 jxrlib
 kbd
 keyutils
@@ -358,6 +362,7 @@ libmnl
 libmodplug
 libmpc
 libmpcdec
+libmpdclient
 libmpeg2
 libndp
 libnetfilter_conntrack
@@ -805,6 +810,7 @@ sord
 sound-theme-freedesktop
 soundtouch
 spandsp
+spdlog
 speex
 speexdsp
 spirv-tools
