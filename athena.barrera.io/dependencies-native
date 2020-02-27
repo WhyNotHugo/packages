@@ -131,7 +131,6 @@ gnome-desktop
 gnome-video-effects
 gnupg
 gnutls
-go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -829,7 +828,6 @@ runc
 s-nail
 samba
 sbc
-scdoc
 sdl
 sdl2
 sdl2_ttf
