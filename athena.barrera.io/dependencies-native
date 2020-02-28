@@ -731,7 +731,6 @@ python-yaml
 python-yarl
 python-zipp
 python-zope-interface
-python2
 qpdf
 qt5-base
 qt5-declarative
@@ -809,6 +808,7 @@ socat
 sord
 sound-theme-freedesktop
 soundtouch
+source-highlight
 spandsp
 spdlog
 speex
