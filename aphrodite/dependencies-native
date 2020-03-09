@@ -24,7 +24,6 @@ automake
 avahi
 bash
 bc
-bind-tools
 binutils
 bison
 bluez
@@ -79,8 +78,6 @@ double-conversion
 dracut
 e2fsprogs
 efivar
-egl-wayland
-eglexternalplatform
 enchant
 exempi
 exfat-utils
@@ -276,7 +273,6 @@ lib32-lz4
 lib32-mesa
 lib32-mpg123
 lib32-ncurses
-lib32-nvidia-utils
 lib32-orc
 lib32-pcre
 lib32-readline
@@ -360,7 +356,6 @@ liblqr
 liblrdf
 libluv
 libmad
-libmaxminddb
 libmbim
 libmediainfo
 libmfx
@@ -467,7 +462,6 @@ libxklavier
 libxml2
 libxmlb
 libxmu
-libxnvctrl
 libxpm
 libxrandr
 libxrender
@@ -531,8 +525,6 @@ npth
 nspr
 nss
 ntfs-3g
-nvidia-settings
-nvidia-utils
 oniguruma
 openal
 opencore-amr
@@ -894,7 +886,6 @@ xdg-dbus-proxy
 xdg-desktop-portal
 xdg-desktop-portal-gtk
 xdg-utils
-xf86-input-libinput
 xfsprogs
 xkeyboard-config
 xorg-bdftopcf
@@ -902,11 +893,8 @@ xorg-font-util
 xorg-font-utils
 xorg-fonts-encodings
 xorg-mkfontscale
-xorg-server
 xorg-server-common
-xorg-server-devel
 xorg-setxkbmap
-xorg-util-macros
 xorg-xkbcomp
 xorg-xprop
 xorg-xset
