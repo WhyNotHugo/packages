@@ -41,11 +41,9 @@ inotify-tools
 intel-ucode
 ipython
 jq
-k9s
 kanshi
 kexec-tools
 khal
-kubectl
 l3afpad
 light
 linux-firmware
@@ -55,9 +53,7 @@ lostfiles
 lsof
 mako
 mdp
-memtest86+
 mesa
-minikube
 mpv
 musescore
 nemo
@@ -124,7 +120,6 @@ x11-ssh-askpass
 xorg-server-xwayland
 yapf
 yarn
-youtube-dl
 zathura
 zsh
 zsh-completions
