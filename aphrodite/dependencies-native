@@ -24,6 +24,7 @@ automake
 avahi
 bash
 bc
+bind-tools
 binutils
 bison
 bluez
@@ -359,6 +360,7 @@ liblqr
 liblrdf
 libluv
 libmad
+libmaxminddb
 libmbim
 libmediainfo
 libmfx
