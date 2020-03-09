@@ -29,7 +29,6 @@ sysconfig
 systemd-lock-handler
 tor-browser
 ttf-symbola
-vmware-workstation
 wdisplays-git
 wev-git
 wofi-hg

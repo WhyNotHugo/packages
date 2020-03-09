@@ -69,7 +69,6 @@ desktop-file-utils
 device-mapper
 dhcpcd
 diffutils
-dkms
 dmraid
 dnssec-anchors
 docker
@@ -551,7 +550,6 @@ patch
 pciutils
 pcre
 pcre2
-pcsclite
 pepper-flash
 perl
 perl-data-dump
