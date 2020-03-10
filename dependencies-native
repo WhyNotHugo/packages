@@ -494,6 +494,7 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
+meson
 miniupnpc
 minizip
 mjpegtools
@@ -512,6 +513,7 @@ ndctl
 neon
 netpbm
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -791,6 +793,7 @@ runc
 s-nail
 samba
 sbc
+scdoc
 scrot
 sdl
 sdl2
