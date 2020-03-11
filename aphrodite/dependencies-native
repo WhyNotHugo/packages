@@ -67,7 +67,6 @@ dconf
 deluge
 desktop-file-utils
 device-mapper
-dhcpcd
 diffutils
 dmraid
 dnssec-anchors
@@ -494,7 +493,6 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
-meson
 miniupnpc
 minizip
 mjpegtools
@@ -513,7 +511,6 @@ ndctl
 neon
 netpbm
 nettle
-ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -790,10 +787,8 @@ ruby-zeitwerk
 rubygems
 run-parts
 runc
-s-nail
 samba
 sbc
-scdoc
 scrot
 sdl
 sdl2
