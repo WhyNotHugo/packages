@@ -12,8 +12,9 @@ i3pystatus-git
 insomnia
 js-beautify
 kernel-modules-hook
-meta-group-base
+mako-git
 meta-group-base-devel
+notify-send.sh
 pkgbuild-introspection
 plymouth
 plymouth-theme-monoarch

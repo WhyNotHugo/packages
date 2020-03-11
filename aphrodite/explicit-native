@@ -37,6 +37,7 @@ grim
 hunspell-en_GB
 hunspell-es_ar
 imv
+inetutils
 inotify-tools
 intel-ucode
 ipython
@@ -51,7 +52,8 @@ linux-headers
 lm_sensors
 lostfiles
 lsof
-mako
+man-db
+man-pages
 mdp
 mesa
 mpv

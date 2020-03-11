@@ -177,7 +177,6 @@ icu
 ijs
 imagemagick
 imlib2
-inetutils
 iniparser
 intel-gmmlib
 intel-media-driver
@@ -491,12 +490,11 @@ lzo
 m4
 mailcap
 make
-man-db
-man-pages
 mariadb-libs
 mbedtls
 md4c
 mdadm
+meson
 miniupnpc
 minizip
 mjpegtools
@@ -510,13 +508,12 @@ mpg123
 msgpack-c
 mtdev
 mujs
-nano
 ncurses
 ndctl
 neon
-netctl
 netpbm
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -532,7 +529,6 @@ openexr
 openjpeg2
 openmpi
 openntpd
-openresolv
 openssl
 opera-ffmpeg-codecs
 opus
@@ -797,6 +793,7 @@ runc
 s-nail
 samba
 sbc
+scdoc
 scrot
 sdl
 sdl2
@@ -855,7 +852,6 @@ usbutils
 util-linux
 v4l-utils
 vamp-plugin-sdk
-vi
 vid.stab
 vkd3d
 volume_key
