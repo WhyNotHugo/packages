@@ -352,7 +352,6 @@ liblouis
 liblqr
 liblrdf
 libluv
-libmad
 libmbim
 libmediainfo
 libmfx
@@ -561,7 +560,6 @@ poppler-glib
 popt
 portaudio
 portmidi
-portsmf
 postgresql-libs
 ppp
 procps-ng
@@ -816,7 +814,6 @@ sratom
 srt
 startup-notification
 sudo
-suil
 swaybg
 sysfsutils
 systemd
