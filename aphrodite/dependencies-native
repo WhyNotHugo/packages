@@ -12,6 +12,7 @@ aom
 appstream-glib
 archlinux-keyring
 argon2
+asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -496,6 +497,7 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
+meson
 miniupnpc
 minizip
 mjpegtools
@@ -514,6 +516,7 @@ ndctl
 neon
 netpbm
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
