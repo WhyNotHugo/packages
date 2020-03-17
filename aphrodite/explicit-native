@@ -7,7 +7,6 @@ blueman
 bluez-utils
 calc
 checkbashisms
-cheese
 chromium
 cinnamon-desktop
 clang
@@ -21,7 +20,6 @@ efibootmgr
 electrum
 encfs
 exiv2
-feh
 firefox
 firefox-i18n-en-gb
 flake8
@@ -118,7 +116,6 @@ wine-gecko
 wine-mono
 wine-staging
 wl-clipboard
-x11-ssh-askpass
 xorg-server-xwayland
 yapf
 yarn
