@@ -12,7 +12,6 @@ aom
 appstream-glib
 archlinux-keyring
 argon2
-asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -44,7 +43,6 @@ cairomm
 cantarell-fonts
 cdparanoia
 celt
-cfitsio
 chromaprint
 chrono-date
 cifs-utils
@@ -334,10 +332,8 @@ libglvnd
 libgme
 libgnomekbd
 libgpg-error
-libgsf
 libgudev
 libgusb
-libheif
 libibus
 libical
 libice
@@ -434,7 +430,6 @@ libutil-linux
 libuv
 libva
 libvdpau
-libvips
 libvisual
 libvoikko
 libvorbis
@@ -497,7 +492,6 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
-meson
 miniupnpc
 minizip
 mjpegtools
@@ -516,7 +510,6 @@ ndctl
 neon
 netpbm
 nettle
-ninja
 nm-connection-editor
 node-gyp
 nodejs
