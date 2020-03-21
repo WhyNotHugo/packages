@@ -72,6 +72,7 @@ double-conversion
 dracut
 e2fsprogs
 efivar
+elfutils
 enchant
 exempi
 exfat-utils
@@ -331,6 +332,7 @@ libluv
 libmbim
 libmediainfo
 libmfx
+libmicrohttpd
 libmm-glib
 libmms
 libmng
@@ -351,6 +353,7 @@ libnotify
 libnsl
 libogg
 libomxil-bellagio
+libp11-kit
 libpaper
 libpcap
 libpciaccess
@@ -768,6 +771,7 @@ shared-mime-info
 slang
 smbclient
 snappy
+sndio
 sound-theme-freedesktop
 source-highlight
 spdlog
