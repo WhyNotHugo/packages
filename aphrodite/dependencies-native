@@ -11,6 +11,7 @@ aom
 appstream-glib
 archlinux-keyring
 argon2
+asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -63,7 +64,6 @@ deluge
 desktop-file-utils
 device-mapper
 diffutils
-dkms
 dmraid
 dnssec-anchors
 docker
@@ -158,7 +158,6 @@ hunspell
 hunspell-en_US
 hwids
 hwloc
-hyphen
 iana-etc
 icu
 ijs
@@ -463,6 +462,7 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
+meson
 miniupnpc
 minizip
 mkinitcpio
@@ -477,9 +477,9 @@ mtdev
 mujs
 ncurses
 ndctl
-net-tools
 netpbm
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -697,7 +697,6 @@ python-yarl
 python-zipp
 python-zope-interface
 python2
-qca
 qpdf
 qt5-base
 qt5-declarative
@@ -705,15 +704,11 @@ qt5-graphicaleffects
 qt5-imageformats
 qt5-location
 qt5-quickcontrols2
-qt5-script
-qt5-sensors
 qt5-svg
 qt5-tools
 qt5-wayland
 qt5-webchannel
 qt5-webengine
-qt5-webkit
-qt5-x11extras
 qt5-xmlpatterns
 re2
 readline
@@ -760,7 +755,7 @@ run-parts
 runc
 samba
 sbc
-sdl
+scdoc
 sdl2
 sdl2_ttf
 sed
@@ -811,8 +806,6 @@ util-linux
 v4l-utils
 vamp-plugin-sdk
 vid.stab
-virtualbox
-virtualbox-host-dkms
 vkd3d
 volume_key
 vte-common
@@ -822,7 +815,6 @@ wayland-protocols
 webrtc-audio-processing
 which
 wlroots
-woff2
 wpa_supplicant
 wxgtk-common
 wxgtk3

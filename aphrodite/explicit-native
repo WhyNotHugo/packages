@@ -88,6 +88,7 @@ python-poetry
 python-pynvim
 python-tox
 python-virtualenvwrapper
+reflector
 retroarch
 retroarch-assets-xmb
 rsync
