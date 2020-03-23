@@ -11,7 +11,6 @@ aom
 appstream-glib
 archlinux-keyring
 argon2
-asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -28,7 +27,6 @@ binutils
 bison
 bluez
 bluez-libs
-boost
 boost-libs
 bridge-utils
 brotli
@@ -45,7 +43,6 @@ cantarell-fonts
 cdparanoia
 chrono-date
 cifs-utils
-cmake
 colord
 compiler-rt
 containerd
@@ -103,7 +100,6 @@ gcc
 gcc-libs
 gcr
 gd
-gdb-common
 gdbm
 gdk-pixbuf2
 geoclue
@@ -118,17 +114,14 @@ glib-networking
 glib2
 glibc
 glibmm
-glm
 glslang
 glu
 gmp
-gn
 gnome-desktop
 gnome-keyring
 gnupg
 gnutls
 gobject-introspection-runtime
-gperf
 gpgme
 gpm
 gptfdisk
@@ -141,14 +134,12 @@ gsm
 gst-plugins-base
 gst-plugins-base-libs
 gstreamer
-gtest
 gtk-layer-shell
 gtk-update-icon-cache
 gtk3
 gtkmm3
 gtkspell3
 guile
-guile2.0
 gunicorn
 gvfs
 gzip
@@ -177,9 +168,8 @@ iw
 jack
 jansson
 jasper
-java-runtime-common
 jfsutils
-jre-openjdk-headless
+jq
 js60
 json-c
 json-glib
@@ -344,7 +334,6 @@ libmodplug
 libmpc
 libmpdclient
 libndp
-libnet
 libnetfilter_conntrack
 libnewt
 libnfnetlink
@@ -450,7 +439,6 @@ libzen
 licenses
 linux
 linux-api-headers
-lld
 llvm
 llvm-libs
 lmdb
@@ -460,7 +448,6 @@ luajit
 lucene++
 lvm2
 lz4
-lzip
 lzo
 m4
 mailcap
@@ -469,7 +456,6 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
-meson
 miniupnpc
 minizip
 mkinitcpio
@@ -486,7 +472,6 @@ ncurses
 ndctl
 netpbm
 nettle
-ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -703,7 +688,6 @@ python-yaml
 python-yarl
 python-zipp
 python-zope-interface
-python2
 qpdf
 qt5-base
 qt5-declarative
@@ -721,7 +705,6 @@ re2
 readline
 reiserfsprogs
 rest
-rhash
 rtkit
 rubberband
 ruby
@@ -762,7 +745,6 @@ run-parts
 runc
 samba
 sbc
-scdoc
 sdl2
 sdl2_ttf
 sed
@@ -775,7 +757,6 @@ smbclient
 snappy
 sndio
 sound-theme-freedesktop
-source-highlight
 spdlog
 speex
 speexdsp
@@ -856,7 +837,6 @@ xsel
 xvidcore
 xxhash
 xz
-yasm
 zathura-pdf-poppler
 zeromq
 zip

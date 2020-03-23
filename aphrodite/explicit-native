@@ -1,4 +1,3 @@
-arc-gtk-theme
 arc-icon-theme
 astyle
 aws-cli
@@ -27,7 +26,6 @@ flatpak
 fuseiso
 fwupd
 fzf
-gdb
 git-crypt
 gparted
 grim
@@ -39,11 +37,9 @@ inetutils
 inotify-tools
 intel-ucode
 ipython
-jq
 kanshi
 kexec-tools
 khal
-l3afpad
 light
 linux-firmware
 linux-headers
@@ -71,7 +67,6 @@ otf-font-awesome
 paprefs
 parity-ethereum
 pavucontrol
-perl-image-exiftool
 pkgfile
 pkgstats
 poedit
@@ -92,7 +87,6 @@ reflector
 retroarch
 retroarch-assets-xmb
 rsync
-ruby-bundler
 ruby-homesick
 ruby-jekyll
 slurp
