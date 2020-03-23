@@ -122,11 +122,13 @@ glm
 glslang
 glu
 gmp
+gn
 gnome-desktop
 gnome-keyring
 gnupg
 gnutls
 gobject-introspection-runtime
+gperf
 gpgme
 gpm
 gptfdisk
@@ -175,7 +177,9 @@ iw
 jack
 jansson
 jasper
+java-runtime-common
 jfsutils
+jre-openjdk-headless
 js60
 json-c
 json-glib
@@ -340,6 +344,7 @@ libmodplug
 libmpc
 libmpdclient
 libndp
+libnet
 libnetfilter_conntrack
 libnewt
 libnfnetlink
@@ -358,6 +363,7 @@ libpcap
 libpciaccess
 libpgm
 libpipeline
+libpipewire02
 libplacebo
 libpng
 libproxy
@@ -444,6 +450,7 @@ libzen
 licenses
 linux
 linux-api-headers
+lld
 llvm
 llvm-libs
 lmdb
@@ -849,6 +856,7 @@ xsel
 xvidcore
 xxhash
 xz
+yasm
 zathura-pdf-poppler
 zeromq
 zip
