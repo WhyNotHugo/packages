@@ -27,7 +27,6 @@ starship
 sysconfig
 systemd-lock-handler
 tor-browser
-ttf-symbola
 wdisplays-git
 wev-git
 wofi-hg
