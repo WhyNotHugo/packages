@@ -322,6 +322,7 @@ libldap
 liblouis
 liblqr
 libluv
+libmaxminddb
 libmbim
 libmediainfo
 libmfx
