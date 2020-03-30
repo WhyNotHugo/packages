@@ -552,6 +552,7 @@ python-cachy
 python-cairo
 python-certifi
 python-cffi
+python-cfgv
 python-chardet
 python-cleo
 python-click
@@ -587,6 +588,7 @@ python-html5lib
 python-humanize
 python-hyperlink
 python-icalendar
+python-identify
 python-idna
 python-importlib-metadata
 python-incremental
@@ -604,6 +606,7 @@ python-markupsafe
 python-mccabe
 python-msgpack
 python-multidict
+python-nodeenv
 python-oauthlib
 python-ordered-set
 python-packaging

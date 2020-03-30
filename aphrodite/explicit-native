@@ -83,6 +83,7 @@ python-isort
 python-pip
 python-pipenv
 python-poetry
+python-pre-commit
 python-pynvim
 python-tox
 python-virtualenvwrapper
