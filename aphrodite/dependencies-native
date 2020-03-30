@@ -699,6 +699,7 @@ qt5-tools
 qt5-wayland
 qt5-webchannel
 qt5-webengine
+qt5-x11extras
 qt5-xmlpatterns
 re2
 readline
@@ -744,6 +745,7 @@ run-parts
 runc
 samba
 sbc
+sdl
 sdl2
 sdl2_ttf
 sed
