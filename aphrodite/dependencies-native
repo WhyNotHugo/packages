@@ -47,7 +47,6 @@ colord
 compiler-rt
 containerd
 coreutils
-cpio
 cracklib
 cryptsetup
 cups-filters
@@ -66,7 +65,6 @@ dnssec-anchors
 docker
 dosfstools
 double-conversion
-dracut
 e2fsprogs
 efivar
 elfutils
@@ -438,7 +436,6 @@ libxxf86vm
 libyaml
 libzen
 licenses
-linux
 linux-api-headers
 llvm
 llvm-libs
@@ -702,7 +699,6 @@ qt5-tools
 qt5-wayland
 qt5-webchannel
 qt5-webengine
-qt5-x11extras
 qt5-xmlpatterns
 re2
 readline
@@ -748,7 +744,6 @@ run-parts
 runc
 samba
 sbc
-sdl
 sdl2
 sdl2_ttf
 sed

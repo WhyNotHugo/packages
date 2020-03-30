@@ -43,6 +43,7 @@ kanshi
 kexec-tools
 khal
 light
+linux
 linux-firmware
 linux-headers
 lm_sensors
@@ -111,8 +112,6 @@ tree
 ttf-opensans
 ttf-ubuntu-font-family
 vdirsyncer
-virtualbox
-virtualbox-host-modules-arch
 waybar
 whois
 wine-gecko
