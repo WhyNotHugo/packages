@@ -154,7 +154,6 @@ icu
 ijs
 imagemagick
 imlib2
-iniparser
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
@@ -507,7 +506,6 @@ pepper-flash
 perl
 perl-error
 perl-mailtools
-perl-parse-yapp
 perl-timedate
 pinentry
 pipewire
@@ -717,6 +715,7 @@ ruby-ffi
 ruby-forwardable-extended
 ruby-http_parser.rb
 ruby-i18n
+ruby-irb
 ruby-jekyll-sass-converter
 ruby-jekyll-watch
 ruby-json
@@ -731,6 +730,7 @@ ruby-public_suffix
 ruby-rb-fsevent
 ruby-rb-inotify
 ruby-rdoc
+ruby-reline
 ruby-rouge
 ruby-safe_yaml
 ruby-sassc
@@ -742,7 +742,6 @@ ruby-zeitwerk
 rubygems
 run-parts
 runc
-samba
 sbc
 sdl2
 sdl2_ttf
