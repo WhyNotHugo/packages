@@ -19,7 +19,6 @@ docker-compose
 efibootmgr
 electrum
 encfs
-exiv2
 firefox
 firefox-developer-edition
 firefox-i18n-en-gb
@@ -72,6 +71,7 @@ otf-font-awesome
 paprefs
 parity-ethereum
 pavucontrol
+perl-image-exiftool
 pkgfile
 pkgstats
 poedit
