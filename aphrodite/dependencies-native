@@ -680,7 +680,6 @@ python-virtualenv-clone
 python-wcwidth
 python-webencodings
 python-websocket-client
-python-xdg
 python-yaml
 python-yarl
 python-zipp
