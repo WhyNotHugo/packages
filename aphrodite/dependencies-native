@@ -647,6 +647,7 @@ python-pysocks
 python-pytoml
 python-pytz
 python-pyudev
+python-pyxdg
 python-qrcode
 python-regex
 python-rencode
@@ -752,7 +753,6 @@ shared-mime-info
 slang
 smbclient
 snappy
-sndio
 sound-theme-freedesktop
 spdlog
 speex
