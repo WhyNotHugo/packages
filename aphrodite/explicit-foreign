@@ -10,6 +10,7 @@ kernel-modules-hook
 mako-git
 meta-group-base-devel
 notify-send.sh
+ovpnsplit
 pkgbuild-introspection
 plymouth
 plymouth-theme-monoarch
