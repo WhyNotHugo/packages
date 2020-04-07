@@ -184,6 +184,7 @@ ldns
 less
 lib32-acl
 lib32-alsa-lib
+lib32-alsa-plugins
 lib32-attr
 lib32-bzip2
 lib32-dbus
@@ -212,6 +213,7 @@ lib32-libglvnd
 lib32-libgpg-error
 lib32-libice
 lib32-libjpeg-turbo
+lib32-libldap
 lib32-libltdl
 lib32-libnl
 lib32-libogg
@@ -247,6 +249,7 @@ lib32-lz4
 lib32-mesa
 lib32-mpg123
 lib32-ncurses
+lib32-openssl
 lib32-orc
 lib32-pcre
 lib32-readline
