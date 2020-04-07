@@ -41,6 +41,7 @@ ipython
 kanshi
 kexec-tools
 khal
+libretro-ppsspp
 light
 linux
 linux-firmware
@@ -69,6 +70,7 @@ noto-fonts-emoji
 nss-mdns
 openssh
 otf-font-awesome
+p7zip
 paprefs
 parity-ethereum
 pavucontrol

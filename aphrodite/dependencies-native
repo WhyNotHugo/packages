@@ -108,6 +108,7 @@ gettext
 giflib
 girara
 git
+glew
 glib-networking
 glib2
 glibc
