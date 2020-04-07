@@ -115,7 +115,6 @@ ttf-opensans
 ttf-ubuntu-font-family
 vdirsyncer
 waybar
-whois
 wine-gecko
 wine-mono
 wine-staging
@@ -123,7 +122,6 @@ wl-clipboard
 xorg-server-xwayland
 xorg-xeyes
 yapf
-yarn
 zathura
 zsh
 zsh-completions
