@@ -139,7 +139,6 @@ gst-plugins-base-libs
 gstreamer
 gtk-layer-shell
 gtk-update-icon-cache
-gtk2
 gtk3
 gtkmm3
 gtkspell3
@@ -271,7 +270,6 @@ libcdio
 libcdio-paranoia
 libcroco
 libcups
-libcurl-gnutls
 libdaemon
 libdatrie
 libdbusmenu-glib
