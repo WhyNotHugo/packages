@@ -25,6 +25,7 @@ bash
 bc
 binutils
 bison
+blas
 bluez
 bluez-libs
 boost-libs
@@ -40,6 +41,7 @@ ca-certificates-utils
 cairo
 cairomm
 cantarell-fonts
+cblas
 cdparanoia
 chrono-date
 cifs-utils
@@ -61,6 +63,7 @@ deluge
 desktop-file-utils
 device-mapper
 diffutils
+dkms
 dmraid
 dnssec-anchors
 docker
@@ -180,6 +183,7 @@ kmod
 krb5
 l-smash
 lame
+lapack
 lcms2
 ldb
 ldns
@@ -439,6 +443,7 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
+meson
 miniupnpc
 minizip
 mkinitcpio
@@ -455,6 +460,7 @@ ncurses
 ndctl
 netpbm
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -548,6 +554,7 @@ python-configobj
 python-constantly
 python-contextlib2
 python-cryptography
+python-daemonize
 python-dateutil
 python-dbus
 python-dbus-common
@@ -590,6 +597,7 @@ python-mccabe
 python-msgpack
 python-multidict
 python-nodeenv
+python-numpy
 python-oauthlib
 python-ordered-set
 python-packaging
@@ -794,6 +802,7 @@ wxgtk3
 x264
 x265
 xapps
+xautomation
 xcb-proto
 xcb-util
 xcb-util-errors
