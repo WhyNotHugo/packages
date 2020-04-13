@@ -15,6 +15,7 @@ dconf-editor
 deluge-gtk
 discord
 docker-compose
+dracut
 efibootmgr
 electrum
 encfs
@@ -104,10 +105,9 @@ swaylock
 telegram-desktop
 termite
 the_silver_searcher
-tlp
 tmux
 todoman
-tor
+torbrowser-launcher
 trash-cli
 tree
 ttf-opensans
