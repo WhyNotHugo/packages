@@ -10,6 +10,7 @@ libretro-fbneo-git
 mako-git
 meta-group-base-devel
 notify-send.sh
+oh-my-zsh-git
 ovpnsplit
 pkgbuild-introspection
 plymouth
