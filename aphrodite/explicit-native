@@ -18,6 +18,7 @@ docker-compose
 efibootmgr
 electrum
 encfs
+expac
 firefox
 firefox-i18n-en-gb
 flake8
@@ -38,7 +39,6 @@ intel-ucode
 ipython
 kexec-tools
 khal
-libretro-ppsspp
 light
 linux
 linux-firmware

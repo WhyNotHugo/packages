@@ -111,7 +111,6 @@ gettext
 giflib
 girara
 git
-glew
 glib-networking
 glib2
 glibc
@@ -442,6 +441,7 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
+meson
 miniupnpc
 minizip
 mkinitcpio
@@ -458,6 +458,7 @@ ncurses
 ndctl
 netpbm
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -735,6 +736,7 @@ rubygems
 run-parts
 runc
 sbc
+scdoc
 sdl2
 sdl2_ttf
 sed
