@@ -63,7 +63,6 @@ deluge
 desktop-file-utils
 device-mapper
 diffutils
-dkms
 dmraid
 dnssec-anchors
 docker
@@ -443,7 +442,6 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
-meson
 miniupnpc
 minizip
 mkinitcpio
@@ -460,7 +458,6 @@ ncurses
 ndctl
 netpbm
 nettle
-ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -554,7 +551,6 @@ python-configobj
 python-constantly
 python-contextlib2
 python-cryptography
-python-daemonize
 python-dateutil
 python-dbus
 python-dbus-common
@@ -802,7 +798,6 @@ wxgtk3
 x264
 x265
 xapps
-xautomation
 xcb-proto
 xcb-util
 xcb-util-errors
