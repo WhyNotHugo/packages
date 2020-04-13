@@ -19,7 +19,7 @@ python-flake8-bugbear
 python-flake8-comprehensions
 python-flake8-import-order
 python-reorder-python-imports
-redshift-wlr-gamma-control
+redshift-wlr-gamma-control-git
 skypeforlinux-preview-bin
 starship
 sysconfig
