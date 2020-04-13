@@ -26,6 +26,7 @@ sysconfig
 systemd-lock-handler
 wdisplays-git
 wev-git
+wf-recorder
 wofi-hg
 yay
 zoom

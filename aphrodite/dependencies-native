@@ -47,6 +47,9 @@ cdparanoia
 chrono-date
 cifs-utils
 cinnamon-desktop
+clutter
+clutter-gtk
+cogl
 colord
 compiler-rt
 containerd
@@ -76,6 +79,7 @@ e2fsprogs
 efivar
 elfutils
 enchant
+evolution-data-server
 exempi
 exfat-utils
 expat
@@ -91,6 +95,7 @@ findutils
 flac
 flex
 fmt
+folks
 fontconfig
 freeimage
 freetype2
@@ -112,9 +117,11 @@ geocode-glib
 geoip
 geoip-database
 gettext
+gfbgraph
 giflib
 girara
 git
+gjs
 glib-networking
 glib2
 glibc
@@ -124,6 +131,7 @@ glu
 gmp
 gnome-desktop
 gnome-keyring
+gnome-online-accounts
 gnupg
 gnutls
 gobject-introspection-runtime
@@ -153,12 +161,14 @@ gunicorn
 gvfs
 gzip
 harfbuzz
+harfbuzz-icu
 hicolor-icon-theme
 hspell
 hunspell
 hunspell-en_US
 hwids
 hwloc
+hyphen
 iana-etc
 icu
 ijs
@@ -179,6 +189,7 @@ jasper
 jfsutils
 jq
 js60
+js68
 json-c
 json-glib
 jsoncpp
@@ -275,6 +286,7 @@ libcddb
 libcdio
 libcdio-paranoia
 libcdr
+libchamplain
 libcroco
 libcups
 libdaemon
@@ -295,11 +307,14 @@ libfbclient
 libffi
 libfontenc
 libgcrypt
+libgdata
+libgee
 libglvnd
 libgnomekbd
 libgpg-error
 libgudev
 libgusb
+libgweather
 libibus
 libical
 libice
@@ -346,6 +361,7 @@ libpaper
 libpcap
 libpciaccess
 libpgm
+libphonenumber
 libpipeline
 libpipewire02
 libplacebo
@@ -403,6 +419,7 @@ libwacom
 libwbclient
 libwebp
 libwpd
+libwpe
 libx11
 libxau
 libxcb
@@ -479,8 +496,10 @@ npth
 nspr
 nss
 ntfs-3g
+ocl-icd
 oniguruma
 openal
+opencl-headers
 opencore-amr
 openexr
 openjpeg2
@@ -799,6 +818,7 @@ systemd-sysvcompat
 talloc
 tar
 tdb
+telepathy-glib
 termite-terminfo
 tevent
 texinfo
@@ -826,10 +846,13 @@ vte-common
 vulkan-icd-loader
 wayland
 wayland-protocols
+webkit2gtk
 webrtc-audio-processing
 which
 wlroots
+woff2
 wpa_supplicant
+wpebackend-fdo
 wxgtk-common
 wxgtk3
 x264
