@@ -471,6 +471,7 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
+mercurial
 meson
 miniupnpc
 minizip
@@ -742,6 +743,7 @@ qt5-tools
 qt5-wayland
 qt5-webchannel
 qt5-webengine
+qt5-x11extras
 qt5-xmlpatterns
 re2
 readline
