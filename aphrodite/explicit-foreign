@@ -9,6 +9,7 @@ kernel-modules-hook
 libretro-fbneo-git
 mako-git
 meta-group-base-devel
+nextdns
 notify-send.sh
 oh-my-zsh-git
 ovpnsplit
