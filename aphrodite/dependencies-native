@@ -306,6 +306,7 @@ libgpg-error
 libgudev
 libgusb
 libgweather
+libhandy
 libibus
 libical
 libice
@@ -359,6 +360,7 @@ libpng
 libproxy
 libpsl
 libpulse
+libpwquality
 libqmi
 libraqm
 libraw
