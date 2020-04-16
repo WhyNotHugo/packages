@@ -43,6 +43,7 @@ cairomm
 cantarell-fonts
 cblas
 cdparanoia
+celt
 chrono-date
 cifs-utils
 cinnamon-desktop
@@ -67,6 +68,7 @@ deluge
 desktop-file-utils
 device-mapper
 diffutils
+dkms
 dmraid
 dnssec-anchors
 docker
@@ -131,7 +133,6 @@ gnome-keyring
 gnome-online-accounts
 gnupg
 gnutls
-go-pie
 gobject-introspection-runtime
 gpgme
 gpm
@@ -175,7 +176,7 @@ iproute2
 iptables
 iputils
 iso-codes
-jack
+jack2
 jansson
 jasper
 jfsutils
@@ -373,7 +374,6 @@ libseccomp
 libsecret
 libsigc++
 libsm
-libsmbios
 libsndfile
 libsodium
 libsoup
@@ -427,7 +427,6 @@ libxkbcommon-x11
 libxkbfile
 libxklavier
 libxml2
-libxmlb
 libxmu
 libxpm
 libxrandr
@@ -460,6 +459,7 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
+meson
 miniupnpc
 minizip
 mkinitcpio
@@ -475,6 +475,7 @@ ncurses
 ndctl
 netpbm
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -569,6 +570,7 @@ python-configobj
 python-constantly
 python-contextlib2
 python-cryptography
+python-daemonize
 python-dateutil
 python-dbus
 python-dbus-common
@@ -789,7 +791,6 @@ texinfo
 thin-provisioning-tools
 tinyxml2
 tor
-tpm2-tss
 tslib
 ttf-dejavu
 ttf-liberation
@@ -822,6 +823,7 @@ wxgtk3
 x264
 x265
 xapps
+xautomation
 xcb-proto
 xcb-util
 xcb-util-errors
@@ -853,7 +855,5 @@ xz
 zathura-pdf-poppler
 zeromq
 zip
-zita-alsa-pcmi
-zita-resampler
 zlib
 zstd
