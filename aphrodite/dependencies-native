@@ -142,14 +142,18 @@ graphite
 grep
 groff
 gsettings-desktop-schemas
+gsl
 gsm
 gst-plugins-base
 gst-plugins-base-libs
 gstreamer
 gtk-layer-shell
 gtk-update-icon-cache
+gtk2
 gtk3
+gtkmm
 gtkmm3
+gtkspell
 gtkspell3
 guile
 gunicorn
@@ -169,6 +173,7 @@ icu
 ijs
 imagemagick
 imlib2
+inkscape
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
@@ -278,6 +283,7 @@ libcap-ng
 libcddb
 libcdio
 libcdio-paranoia
+libcdr
 libchamplain
 libcroco
 libcups
@@ -323,6 +329,7 @@ libldap
 liblouis
 liblqr
 libluv
+libmagick6
 libmaxminddb
 libmbim
 libmediainfo
@@ -367,9 +374,11 @@ libraqm
 libraw
 libraw1394
 libretro-core-info
+librevenge
 librsvg
 libsamplerate
 libsasl
+libsass
 libseccomp
 libsecret
 libsigc++
@@ -408,6 +417,7 @@ libvterm
 libwacom
 libwbclient
 libwebp
+libwpd
 libwpe
 libx11
 libxau
@@ -495,6 +505,7 @@ openntpd
 openssl
 openvpn
 opera-ffmpeg-codecs
+optipng
 opus
 orc
 ostree
@@ -528,6 +539,7 @@ popt
 portaudio
 portmidi
 postgresql-libs
+potrace
 ppp
 procps-ng
 protobuf
@@ -698,6 +710,7 @@ python-yaml
 python-yarl
 python-zipp
 python-zope-interface
+python2
 qpdf
 qt5-base
 qt5-declarative
@@ -756,6 +769,7 @@ ruby-zeitwerk
 rubygems
 run-parts
 runc
+sassc
 sbc
 sdl2
 sdl2_ttf
@@ -852,6 +866,7 @@ xsel
 xvidcore
 xxhash
 xz
+yarn
 youtube-dl
 zathura-pdf-poppler
 zeromq
