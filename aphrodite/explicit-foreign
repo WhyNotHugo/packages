@@ -1,3 +1,4 @@
+amazon-ecr-credential-helper
 arc-gtk-theme-jnsh-git
 browser-vacuum
 docker-credential-secretservice
@@ -36,4 +37,3 @@ wf-recorder
 wlrobs-hg
 wofi-hg
 yay
-zoom

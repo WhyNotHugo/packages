@@ -135,6 +135,7 @@ gnome-keyring
 gnome-online-accounts
 gnupg
 gnutls
+go
 gobject-introspection-runtime
 gpgme
 gpm
