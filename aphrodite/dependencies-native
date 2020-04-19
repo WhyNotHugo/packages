@@ -44,6 +44,7 @@ cantarell-fonts
 cblas
 cdparanoia
 celt
+cfitsio
 chrono-date
 cifs-utils
 cinnamon-desktop
@@ -76,6 +77,7 @@ dosfstools
 double-conversion
 e2fsprogs
 efivar
+electron
 elfutils
 enchant
 evolution-data-server
@@ -163,6 +165,7 @@ harfbuzz
 harfbuzz-icu
 hicolor-icon-theme
 hspell
+http-parser
 hunspell
 hunspell-en_US
 hwids
@@ -292,6 +295,7 @@ libdatrie
 libdbusmenu-glib
 libdbusmenu-gtk3
 libdbusmenu-qt5
+libde265
 libdrm
 libdvdnav
 libdvdread
@@ -310,10 +314,12 @@ libgee
 libglvnd
 libgnomekbd
 libgpg-error
+libgsf
 libgudev
 libgusb
 libgweather
 libhandy
+libheif
 libibus
 libical
 libice
@@ -409,6 +415,7 @@ libutil-linux
 libuv
 libva
 libvdpau
+libvips
 libvisual
 libvoikko
 libvorbis
