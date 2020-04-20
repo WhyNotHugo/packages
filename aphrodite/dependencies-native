@@ -11,6 +11,7 @@ aom
 appstream-glib
 archlinux-keyring
 argon2
+asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -45,6 +46,7 @@ cblas
 cdparanoia
 celt
 cfitsio
+check
 chrono-date
 cifs-utils
 cinnamon-desktop
@@ -53,6 +55,7 @@ clutter-gtk
 cogl
 colord
 compiler-rt
+confuse
 containerd
 coreutils
 cpio
@@ -309,6 +312,7 @@ libexif
 libfbclient
 libffi
 libfontenc
+libftdi
 libgcrypt
 libgdata
 libgee
@@ -411,6 +415,7 @@ libtorrent-rasterbar
 libunistring
 libunwind
 libusb
+libusb-compat
 libutempter
 libutil-linux
 libuv
@@ -459,6 +464,7 @@ libyaml
 libzen
 licenses
 linux-api-headers
+lirc
 llvm
 llvm-libs
 lmdb
@@ -531,9 +537,26 @@ pcre
 pcre2
 pepper-flash
 perl
+perl-encode-locale
 perl-error
+perl-file-listing
+perl-html-parser
+perl-html-tagset
+perl-http-cookies
+perl-http-daemon
+perl-http-date
+perl-http-message
+perl-http-negotiate
+perl-io-html
+perl-libwww
+perl-lwp-mediatypes
 perl-mailtools
+perl-net-http
 perl-timedate
+perl-try-tiny
+perl-uri
+perl-www-robotrules
+perl-xml-parser
 pinentry
 pipewire
 pixman
@@ -778,6 +801,7 @@ run-parts
 runc
 sassc
 sbc
+scdoc
 sdl2
 sdl2_ttf
 sed
@@ -858,6 +882,7 @@ xdg-desktop-portal-gtk
 xdg-utils
 xfsprogs
 xkeyboard-config
+xmltoman
 xorg-bdftopcf
 xorg-font-util
 xorg-font-utils
