@@ -20,6 +20,7 @@ dracut
 efibootmgr
 electrum
 encfs
+exa
 expac
 firefox
 firefox-i18n-en-gb
@@ -41,12 +42,14 @@ intel-ucode
 ipython
 kexec-tools
 khal
+l3afpad
 light
 linux
 linux-firmware
 linux-headers
 lm_sensors
 lostfiles
+lsd
 lsof
 man-db
 man-pages
