@@ -11,7 +11,6 @@ aom
 appstream-glib
 archlinux-keyring
 argon2
-asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -46,7 +45,6 @@ cblas
 cdparanoia
 celt
 cfitsio
-check
 chrono-date
 cifs-utils
 cinnamon-desktop
@@ -55,7 +53,6 @@ clutter-gtk
 cogl
 colord
 compiler-rt
-confuse
 containerd
 coreutils
 cpio
@@ -138,7 +135,6 @@ gnome-keyring
 gnome-online-accounts
 gnupg
 gnutls
-go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -148,18 +144,14 @@ graphite
 grep
 groff
 gsettings-desktop-schemas
-gsl
 gsm
 gst-plugins-base
 gst-plugins-base-libs
 gstreamer
 gtk-layer-shell
 gtk-update-icon-cache
-gtk2
 gtk3
-gtkmm
 gtkmm3
-gtkspell
 gtkspell3
 guile
 gunicorn
@@ -180,7 +172,6 @@ icu
 ijs
 imagemagick
 imlib2
-inkscape
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
@@ -192,7 +183,6 @@ jack2
 jansson
 jasper
 jfsutils
-jq
 js60
 js68
 json-c
@@ -290,7 +280,6 @@ libcap-ng
 libcddb
 libcdio
 libcdio-paranoia
-libcdr
 libchamplain
 libcroco
 libcups
@@ -312,7 +301,6 @@ libexif
 libfbclient
 libffi
 libfontenc
-libftdi
 libgcrypt
 libgdata
 libgee
@@ -340,7 +328,6 @@ libldap
 liblouis
 liblqr
 libluv
-libmagick6
 libmaxminddb
 libmbim
 libmediainfo
@@ -385,11 +372,9 @@ libraqm
 libraw
 libraw1394
 libretro-core-info
-librevenge
 librsvg
 libsamplerate
 libsasl
-libsass
 libseccomp
 libsecret
 libsigc++
@@ -415,7 +400,6 @@ libtorrent-rasterbar
 libunistring
 libunwind
 libusb
-libusb-compat
 libutempter
 libutil-linux
 libuv
@@ -429,7 +413,6 @@ libvpx
 libvterm
 libwacom
 libwebp
-libwpd
 libwpe
 libx11
 libxau
@@ -464,7 +447,6 @@ libyaml
 libzen
 licenses
 linux-api-headers
-lirc
 llvm
 llvm-libs
 lmdb
@@ -482,7 +464,6 @@ mariadb-libs
 mbedtls
 md4c
 mdadm
-meson
 miniupnpc
 minizip
 mkinitcpio
@@ -498,7 +479,6 @@ ncurses
 ndctl
 netpbm
 nettle
-ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -518,7 +498,6 @@ openntpd
 openssl
 openvpn
 opera-ffmpeg-codecs
-optipng
 opus
 orc
 ostree
@@ -537,26 +516,9 @@ pcre
 pcre2
 pepper-flash
 perl
-perl-encode-locale
 perl-error
-perl-file-listing
-perl-html-parser
-perl-html-tagset
-perl-http-cookies
-perl-http-daemon
-perl-http-date
-perl-http-message
-perl-http-negotiate
-perl-io-html
-perl-libwww
-perl-lwp-mediatypes
 perl-mailtools
-perl-net-http
 perl-timedate
-perl-try-tiny
-perl-uri
-perl-www-robotrules
-perl-xml-parser
 pinentry
 pipewire
 pixman
@@ -569,7 +531,6 @@ popt
 portaudio
 portmidi
 postgresql-libs
-potrace
 ppp
 procps-ng
 protobuf
@@ -740,7 +701,6 @@ python-yaml
 python-yarl
 python-zipp
 python-zope-interface
-python2
 qpdf
 qt5-base
 qt5-declarative
@@ -753,7 +713,6 @@ qt5-tools
 qt5-wayland
 qt5-webchannel
 qt5-webengine
-qt5-x11extras
 qt5-xmlpatterns
 re2
 readline
@@ -799,9 +758,7 @@ ruby-zeitwerk
 rubygems
 run-parts
 runc
-sassc
 sbc
-scdoc
 sdl2
 sdl2_ttf
 sed
@@ -882,7 +839,6 @@ xdg-desktop-portal-gtk
 xdg-utils
 xfsprogs
 xkeyboard-config
-xmltoman
 xorg-bdftopcf
 xorg-font-util
 xorg-font-utils
@@ -898,7 +854,6 @@ xsel
 xvidcore
 xxhash
 xz
-yarn
 youtube-dl
 zathura-pdf-poppler
 zeromq

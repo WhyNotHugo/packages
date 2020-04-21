@@ -12,7 +12,6 @@ mako-git
 meta-group-base-devel
 nextdns
 notify-send.sh
-oh-my-zsh-git
 openrazer-meta-git
 otf-operator-mono-nerd
 ovpnsplit
@@ -34,6 +33,5 @@ systemd-lock-handler
 wdisplays-git
 wev-git
 wf-recorder
-wlrobs-hg
 wofi-hg
 yay

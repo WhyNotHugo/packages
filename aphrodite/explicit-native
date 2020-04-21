@@ -5,7 +5,6 @@ base
 bind-tools
 blueman
 bluez-utils
-calc
 checkbashisms
 chromium
 clang
@@ -40,6 +39,7 @@ imv
 inotify-tools
 intel-ucode
 ipython
+jq
 kexec-tools
 khal
 l3afpad
@@ -70,7 +70,6 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 nss-mdns
-obs-studio
 openssh
 otf-font-awesome
 p7zip
