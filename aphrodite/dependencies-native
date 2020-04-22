@@ -21,6 +21,7 @@ audit
 autoconf
 automake
 avahi
+awesome-terminal-fonts
 bash
 bc
 binutils
@@ -758,6 +759,7 @@ ruby-zeitwerk
 rubygems
 run-parts
 runc
+rust
 sbc
 sdl2
 sdl2_ttf
