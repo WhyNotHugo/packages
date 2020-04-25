@@ -759,7 +759,6 @@ ruby-zeitwerk
 rubygems
 run-parts
 runc
-rust
 sbc
 sdl2
 sdl2_ttf

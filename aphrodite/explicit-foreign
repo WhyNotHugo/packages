@@ -24,6 +24,7 @@ python-flake8-comprehensions
 python-flake8-import-order
 python-openrazer-git
 python-reorder-python-imports
+python-schedule
 razercommander
 redshift-wlr-gamma-control-git
 skypeforlinux-preview-bin
