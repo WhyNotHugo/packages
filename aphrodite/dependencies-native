@@ -309,6 +309,7 @@ libglvnd
 libgnomekbd
 libgpg-error
 libgsf
+libgtop
 libgudev
 libgusb
 libgweather
@@ -465,6 +466,7 @@ m4
 mailcap
 make
 mariadb-libs
+mate-desktop
 mbedtls
 md4c
 mdadm
