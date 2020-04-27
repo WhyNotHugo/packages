@@ -791,7 +791,6 @@ talloc
 tar
 tdb
 telepathy-glib
-termite-terminfo
 tevent
 texinfo
 thin-provisioning-tools
@@ -813,7 +812,6 @@ vamp-plugin-sdk
 vid.stab
 vkd3d
 volume_key
-vte-common
 vulkan-icd-loader
 wayland
 wayland-protocols
