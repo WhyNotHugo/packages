@@ -1,5 +1,7 @@
+anbox-image
 openrazer-daemon-git
 openrazer-driver-dkms-git
+properties-cpp
 python-aspy-refactor-imports
 python-asttokens
 python-notify2
