@@ -11,7 +11,6 @@ aom
 appstream-glib
 archlinux-keyring
 argon2
-asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -29,7 +28,6 @@ bison
 blas
 bluez
 bluez-libs
-boost
 boost-libs
 bridge-utils
 brotli
@@ -52,7 +50,6 @@ cifs-utils
 cinnamon-desktop
 clutter
 clutter-gtk
-cmake
 cogl
 colord
 compiler-rt
@@ -130,7 +127,6 @@ glib-networking
 glib2
 glibc
 glibmm
-glm
 glslang
 glu
 gmp
@@ -139,7 +135,6 @@ gnome-keyring
 gnome-online-accounts
 gnupg
 gnutls
-go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -153,7 +148,6 @@ gsm
 gst-plugins-base
 gst-plugins-base-libs
 gstreamer
-gtest
 gtk-layer-shell
 gtk-update-icon-cache
 gtk3
@@ -188,12 +182,7 @@ iso-codes
 jack2
 jansson
 jasper
-java-environment-common
-java-runtime-common
-jdk10-openjdk
 jfsutils
-jre10-openjdk
-jre10-openjdk-headless
 js60
 js68
 json-c
@@ -353,7 +342,6 @@ libmodplug
 libmpc
 libmpdclient
 libndp
-libnet
 libnetfilter_conntrack
 libnewt
 libnfnetlink
@@ -469,7 +457,6 @@ lua52
 luajit
 lucene++
 lvm2
-lxc
 lz4
 lzo
 m4
@@ -493,7 +480,6 @@ mtdev
 mujs
 ncurses
 ndctl
-net-tools
 netpbm
 nettle
 nm-connection-editor
@@ -719,7 +705,6 @@ python-yarl
 python-zipp
 python-zope-interface
 python2
-qca
 qpdf
 qt5-base
 qt5-declarative
@@ -727,21 +712,16 @@ qt5-graphicaleffects
 qt5-imageformats
 qt5-location
 qt5-quickcontrols2
-qt5-script
-qt5-sensors
 qt5-svg
 qt5-tools
 qt5-wayland
 qt5-webchannel
 qt5-webengine
-qt5-webkit
-qt5-x11extras
 qt5-xmlpatterns
 re2
 readline
 reiserfsprogs
 rest
-rhash
 rtkit
 rubberband
 ruby
@@ -783,9 +763,7 @@ rubygems
 run-parts
 runc
 sbc
-sdl
 sdl2
-sdl2_image
 sdl2_ttf
 sed
 semver
@@ -833,8 +811,6 @@ util-linux
 v4l-utils
 vamp-plugin-sdk
 vid.stab
-virtualbox
-virtualbox-host-dkms
 vkd3d
 volume_key
 vulkan-icd-loader
@@ -842,7 +818,6 @@ wayland
 wayland-protocols
 webkit2gtk
 webrtc-audio-processing
-wget
 which
 wlroots
 woff2

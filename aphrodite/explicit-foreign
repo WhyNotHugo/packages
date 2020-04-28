@@ -1,11 +1,8 @@
-anbox-git
-anbox-modules-dkms-git
 arc-gtk-theme-jnsh-git
 browser-vacuum
 docker-credential-secretservice
 downgrade
 fswebcam
-genymotion
 heroku-cli
 insomnia
 js-beautify
