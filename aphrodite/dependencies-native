@@ -11,7 +11,6 @@ aom
 appstream-glib
 archlinux-keyring
 argon2
-asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -756,7 +755,6 @@ ruby-zeitwerk
 rubygems
 run-parts
 runc
-rust
 sbc
 scdoc
 sdl2
