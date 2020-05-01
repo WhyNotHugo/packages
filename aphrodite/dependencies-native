@@ -140,6 +140,7 @@ gptfdisk
 graphene
 graphite
 grep
+grim
 groff
 gsettings-desktop-schemas
 gsm
@@ -180,6 +181,7 @@ jack2
 jansson
 jasper
 jfsutils
+jq
 js60
 js68
 json-c
@@ -765,6 +767,7 @@ shaderc
 shadow
 shared-mime-info
 slang
+slurp
 smbclient
 snappy
 sound-theme-freedesktop
