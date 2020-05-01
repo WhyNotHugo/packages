@@ -836,6 +836,7 @@ xcb-util-wm
 xdg-dbus-proxy
 xdg-desktop-portal
 xdg-desktop-portal-gtk
+xdg-user-dirs
 xdg-utils
 xfsprogs
 xkeyboard-config
