@@ -470,6 +470,7 @@ mkinitcpio
 mkinitcpio-busybox
 mobile-broadband-provider-info
 modemmanager
+mozilla-common
 mpfr
 mpg123
 msgpack-c
