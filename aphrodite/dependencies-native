@@ -44,6 +44,7 @@ cantarell-fonts
 cblas
 cdparanoia
 celt
+check
 chrono-date
 cifs-utils
 cinnamon-desktop
@@ -462,6 +463,7 @@ mate-desktop
 mbedtls
 md4c
 mdadm
+meson
 miniupnpc
 minizip
 mkinitcpio
@@ -477,6 +479,7 @@ ncurses
 ndctl
 netpbm
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -514,9 +517,26 @@ pcre
 pcre2
 pepper-flash
 perl
+perl-encode-locale
 perl-error
+perl-file-listing
+perl-html-parser
+perl-html-tagset
+perl-http-cookies
+perl-http-daemon
+perl-http-date
+perl-http-message
+perl-http-negotiate
+perl-io-html
+perl-libwww
+perl-lwp-mediatypes
 perl-mailtools
+perl-net-http
 perl-timedate
+perl-try-tiny
+perl-uri
+perl-www-robotrules
+perl-xml-parser
 pinentry
 pipewire
 pixman
@@ -757,6 +777,7 @@ ruby-zeitwerk
 rubygems
 run-parts
 runc
+rust
 sbc
 scdoc
 sdl2
@@ -840,6 +861,7 @@ xdg-user-dirs
 xdg-utils
 xfsprogs
 xkeyboard-config
+xmltoman
 xorg-bdftopcf
 xorg-font-util
 xorg-font-utils
