@@ -469,7 +469,6 @@ minizip
 mkinitcpio
 mkinitcpio-busybox
 mobile-broadband-provider-info
-modemmanager
 mozilla-common
 mpfr
 mpg123
@@ -550,7 +549,6 @@ popt
 portaudio
 portmidi
 postgresql-libs
-ppp
 procps-ng
 protobuf
 psmisc
