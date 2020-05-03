@@ -74,6 +74,9 @@ dmraid
 dnssec-anchors
 docker
 dosfstools
+dotnet-host
+dotnet-runtime
+dotnet-sdk
 double-conversion
 e2fsprogs
 efivar
@@ -631,6 +634,7 @@ python-lockfile
 python-mako
 python-markupsafe
 python-mccabe
+python-more-itertools
 python-msgpack
 python-multidict
 python-nodeenv
@@ -677,6 +681,7 @@ python-pyqt5
 python-pyqt5-sip
 python-pyrsistent
 python-pysocks
+python-pytest
 python-pytoml
 python-pytz
 python-pyudev

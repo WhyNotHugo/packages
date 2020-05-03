@@ -11,6 +11,7 @@ kernel-modules-hook
 libretro-fbneo-git
 mako-git
 meta-group-base-devel
+microsoft-python-language-server
 nextdns
 notify-send.sh
 otf-operator-mono-nerd
