@@ -115,6 +115,7 @@ gcr
 gd
 gdbm
 gdk-pixbuf2
+gdl
 geoclue
 geocode-glib
 geoip
@@ -137,6 +138,7 @@ gnome-keyring
 gnome-online-accounts
 gnupg
 gnutls
+go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -147,6 +149,7 @@ grep
 grim
 groff
 gsettings-desktop-schemas
+gsl
 gsm
 gst-plugins-base
 gst-plugins-base-libs
@@ -174,6 +177,7 @@ icu
 ijs
 imagemagick
 imlib2
+inkscape
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
@@ -283,6 +287,7 @@ libcap-ng
 libcddb
 libcdio
 libcdio-paranoia
+libcdr
 libchamplain
 libcroco
 libcups
@@ -329,6 +334,7 @@ libldap
 liblouis
 liblqr
 libluv
+libmagick6
 libmaxminddb
 libmbim
 libmediainfo
@@ -374,9 +380,11 @@ libraqm
 libraw
 libraw1394
 libretro-core-info
+librevenge
 librsvg
 libsamplerate
 libsasl
+libsass
 libseccomp
 libsecret
 libsigc++
@@ -407,6 +415,7 @@ libutil-linux
 libuv
 libva
 libvdpau
+libvisio
 libvisual
 libvoikko
 libvorbis
@@ -414,7 +423,9 @@ libvpx
 libvterm
 libwacom
 libwebp
+libwpd
 libwpe
+libwpg
 libx11
 libxau
 libxcb
@@ -502,6 +513,7 @@ openntpd
 openssl
 openvpn
 opera-ffmpeg-codecs
+optipng
 opus
 orc
 ostree
@@ -552,6 +564,7 @@ popt
 portaudio
 portmidi
 postgresql-libs
+potrace
 procps-ng
 protobuf
 psmisc
@@ -782,6 +795,7 @@ rubygems
 run-parts
 runc
 rust
+sassc
 sbc
 scdoc
 sdl2
