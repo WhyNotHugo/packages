@@ -788,6 +788,7 @@ sdl2
 sdl2_ttf
 sed
 semver
+setconf
 shaderc
 shadow
 shared-mime-info
