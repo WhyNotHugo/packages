@@ -520,7 +520,6 @@ ostree
 p11-kit
 pacman
 pacman-contrib
-pacman-mirrorlist
 pam
 pambase
 pango
