@@ -3,7 +3,7 @@ browser-vacuum
 docker-credential-secretservice
 downgrade
 fswebcam
-grimshot
+grimshot-git
 heroku-cli
 insomnia
 js-beautify
@@ -31,7 +31,6 @@ razercommander
 redshift-wlr-gamma-control-git
 skypeforlinux-preview-bin
 starship
-swaygrab
 sysconfig
 systemd-lock-handler
 wdisplays-git
