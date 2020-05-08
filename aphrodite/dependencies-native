@@ -11,7 +11,6 @@ aom
 appstream-glib
 archlinux-keyring
 argon2
-asciidoc
 aspell
 at-spi2-atk
 at-spi2-core
@@ -45,13 +44,11 @@ cantarell-fonts
 cblas
 cdparanoia
 celt
-check
 chrono-date
 cifs-utils
 cinnamon-desktop
 clutter
 clutter-gtk
-cmocka
 cogl
 colord
 compiler-rt
@@ -74,13 +71,10 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
-docbook-xml
-docbook-xsl
 docker
 dosfstools
 dotnet-host
 dotnet-runtime
-dotnet-sdk
 double-conversion
 e2fsprogs
 efivar
@@ -119,7 +113,6 @@ gcr
 gd
 gdbm
 gdk-pixbuf2
-gdl
 geoclue
 geocode-glib
 geoip
@@ -142,7 +135,6 @@ gnome-keyring
 gnome-online-accounts
 gnupg
 gnutls
-go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -153,7 +145,6 @@ grep
 grim
 groff
 gsettings-desktop-schemas
-gsl
 gsm
 gst-plugins-base
 gst-plugins-base-libs
@@ -181,7 +172,6 @@ icu
 ijs
 imagemagick
 imlib2
-inkscape
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
@@ -291,7 +281,6 @@ libcap-ng
 libcddb
 libcdio
 libcdio-paranoia
-libcdr
 libchamplain
 libcroco
 libcups
@@ -338,9 +327,7 @@ libldap
 liblouis
 liblqr
 libluv
-libmagick6
 libmaxminddb
-libmbim
 libmediainfo
 libmfx
 libmicrohttpd
@@ -379,16 +366,13 @@ libproxy
 libpsl
 libpulse
 libpwquality
-libqmi
 libraqm
 libraw
 libraw1394
 libretro-core-info
-librevenge
 librsvg
 libsamplerate
 libsasl
-libsass
 libseccomp
 libsecret
 libsigc++
@@ -419,7 +403,6 @@ libutil-linux
 libuv
 libva
 libvdpau
-libvisio
 libvisual
 libvoikko
 libvorbis
@@ -427,9 +410,7 @@ libvpx
 libvterm
 libwacom
 libwebp
-libwpd
 libwpe
-libwpg
 libx11
 libxau
 libxcb
@@ -481,7 +462,6 @@ mate-desktop
 mbedtls
 md4c
 mdadm
-meson
 miniupnpc
 minizip
 mkinitcpio
@@ -497,7 +477,6 @@ ncurses
 ndctl
 netpbm
 nettle
-ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -517,7 +496,6 @@ openntpd
 openssl
 openvpn
 opera-ffmpeg-codecs
-optipng
 opus
 orc
 ostree
@@ -535,26 +513,9 @@ pcre
 pcre2
 pepper-flash
 perl
-perl-encode-locale
 perl-error
-perl-file-listing
-perl-html-parser
-perl-html-tagset
-perl-http-cookies
-perl-http-daemon
-perl-http-date
-perl-http-message
-perl-http-negotiate
-perl-io-html
-perl-libwww
-perl-lwp-mediatypes
 perl-mailtools
-perl-net-http
 perl-timedate
-perl-try-tiny
-perl-uri
-perl-www-robotrules
-perl-xml-parser
 pinentry
 pipewire
 pixman
@@ -567,7 +528,6 @@ popt
 portaudio
 portmidi
 postgresql-libs
-potrace
 procps-ng
 protobuf
 psmisc
@@ -650,7 +610,6 @@ python-lockfile
 python-mako
 python-markupsafe
 python-mccabe
-python-more-itertools
 python-msgpack
 python-multidict
 python-nodeenv
@@ -697,7 +656,6 @@ python-pyqt5
 python-pyqt5-sip
 python-pyrsistent
 python-pysocks
-python-pytest
 python-pytoml
 python-pytz
 python-pyudev
@@ -739,7 +697,6 @@ python-yaml
 python-yarl
 python-zipp
 python-zope-interface
-python2
 qpdf
 qt5-base
 qt5-declarative
@@ -797,15 +754,10 @@ ruby-zeitwerk
 rubygems
 run-parts
 runc
-rust
-sassc
 sbc
-scdoc
 sdl2
-sdl2_ttf
 sed
 semver
-setconf
 shaderc
 shadow
 shared-mime-info
@@ -883,7 +835,6 @@ xdg-user-dirs
 xdg-utils
 xfsprogs
 xkeyboard-config
-xmltoman
 xorg-bdftopcf
 xorg-font-util
 xorg-font-utils
