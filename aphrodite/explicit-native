@@ -124,7 +124,6 @@ wine-mono
 wine-staging
 wl-clipboard
 xorg-server-xwayland
-xorg-xeyes
 yapf
 zathura
 zsh
