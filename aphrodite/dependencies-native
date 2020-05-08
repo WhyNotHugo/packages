@@ -774,6 +774,7 @@ sqlite
 squashfs-tools
 srt
 startup-notification
+strace
 sudo
 swaybg
 sysfsutils
