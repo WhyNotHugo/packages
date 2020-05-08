@@ -97,6 +97,7 @@ python-virtualenvwrapper
 reflector
 retroarch
 retroarch-assets-xmb
+ripgrep
 rsync
 ruby-homesick
 ruby-jekyll
