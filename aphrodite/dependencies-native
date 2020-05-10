@@ -495,7 +495,6 @@ openmpi
 openntpd
 openssl
 openvpn
-opera-ffmpeg-codecs
 opus
 orc
 ostree
@@ -774,7 +773,6 @@ sqlite
 squashfs-tools
 srt
 startup-notification
-strace
 sudo
 swaybg
 sysfsutils
