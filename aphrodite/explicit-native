@@ -123,7 +123,6 @@ wine-mono
 wine-staging
 wl-clipboard
 xorg-server-xwayland
-yapf
 zathura
 zsh
 zsh-completions
