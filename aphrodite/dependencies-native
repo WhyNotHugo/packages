@@ -29,6 +29,7 @@ blas
 bluez
 bluez-libs
 boost-libs
+breezy
 bridge-utils
 brotli
 btrfs-progs
@@ -94,6 +95,7 @@ file-roller
 filesystem
 findutils
 flac
+flatpak-builder
 flex
 fmt
 folks
@@ -462,6 +464,7 @@ mate-desktop
 mbedtls
 md4c
 mdadm
+meson
 miniupnpc
 minizip
 mkinitcpio
@@ -477,6 +480,7 @@ ncurses
 ndctl
 netpbm
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -581,8 +585,10 @@ python-docker-pycreds
 python-dockerpty
 python-docopt
 python-docutils
+python-dulwich
 python-ecdsa
 python-entrypoints
+python-fastimport
 python-filelock
 python-future
 python-geoip
@@ -621,6 +627,7 @@ python-parsedatetime
 python-parso
 python-pastel
 python-pathspec
+python-patiencediff
 python-pbkdf2
 python-pep517
 python-pew
@@ -713,6 +720,7 @@ re2
 readline
 reiserfsprogs
 rest
+rpmextract
 rtkit
 rubberband
 ruby
