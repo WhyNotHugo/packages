@@ -3,6 +3,7 @@ browser-vacuum
 ddcutil
 docker-credential-secretservice
 downgrade
+flatseal
 fswebcam
 grimshot-git
 heroku-cli
