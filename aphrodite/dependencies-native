@@ -611,6 +611,7 @@ python-markupsafe
 python-mccabe
 python-msgpack
 python-multidict
+python-mypy_extensions
 python-nodeenv
 python-numpy
 python-oauthlib
@@ -634,6 +635,7 @@ python-progress
 python-progressbar
 python-prompt_toolkit
 python-protobuf
+python-psutil
 python-ptyprocess
 python-py
 python-pyaes
@@ -683,6 +685,7 @@ python-tomlkit
 python-traitlets
 python-twisted
 python-typed-ast
+python-typing_extensions
 python-tzlocal
 python-urllib3
 python-urwid
