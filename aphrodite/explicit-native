@@ -124,6 +124,7 @@ wine-mono
 wine-staging
 wl-clipboard
 xorg-server-xwayland
+xorg-xeyes
 zathura
 zsh
 zsh-completions
