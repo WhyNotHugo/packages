@@ -806,6 +806,7 @@ v4l-utils
 vamp-plugin-sdk
 vid.stab
 vkd3d
+vmaf
 volume_key
 vulkan-icd-loader
 wayland
