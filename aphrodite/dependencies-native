@@ -757,6 +757,7 @@ run-parts
 runc
 sbc
 sdl2
+sdl2_ttf
 sed
 semver
 shaderc

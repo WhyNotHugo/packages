@@ -7,9 +7,7 @@ flatseal
 fswebcam
 grimshot-git
 heroku-cli
-imv-git
 insomnia
-js-beautify
 kernel-modules-hook
 libretro-fbneo-git
 mako-git
@@ -38,7 +36,7 @@ starship
 sysconfig
 systemd-lock-handler
 wdisplays-git
-wev-git
+wev
 wf-recorder
 wofi-hg
 xdg-desktop-portal-wlr
