@@ -5,6 +5,7 @@ docker-credential-secretservice
 downgrade
 flatseal
 fswebcam
+go-pie
 grimshot-git
 heroku-cli
 insomnia
