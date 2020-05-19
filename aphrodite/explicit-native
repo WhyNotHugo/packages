@@ -129,6 +129,7 @@ wine-staging
 wl-clipboard
 xorg-server-xwayland
 xorg-xeyes
+xorg-xrandr
 zathura
 zsh
 zsh-completions
