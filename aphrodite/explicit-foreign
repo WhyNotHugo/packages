@@ -3,6 +3,7 @@ browser-vacuum
 ddcutil
 docker-credential-secretservice
 downgrade
+eslint-plugin-vue
 flatseal
 fswebcam
 grimshot-git
