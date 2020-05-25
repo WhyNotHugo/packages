@@ -462,6 +462,7 @@ mate-desktop
 mbedtls
 md4c
 mdadm
+meson
 miniupnpc
 minizip
 mkinitcpio
@@ -476,6 +477,7 @@ ncurses
 ndctl
 netpbm
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -487,6 +489,7 @@ ntfs-3g
 ocl-icd
 oniguruma
 openal
+opencl-headers
 opencore-amr
 openexr
 openjpeg2
@@ -756,6 +759,7 @@ rubygems
 run-parts
 runc
 sbc
+scdoc
 sdl2
 sdl2_ttf
 sed

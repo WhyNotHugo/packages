@@ -38,7 +38,7 @@ sysconfig
 systemd-lock-handler
 wdisplays-git
 wev
-wf-recorder
+wf-recorder-git
 wofi-hg
 xdg-desktop-portal-wlr
 yay
