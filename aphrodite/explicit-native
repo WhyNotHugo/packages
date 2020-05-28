@@ -31,7 +31,6 @@ flatpak
 fuseiso
 fzf
 git-crypt
-gnome-maps
 go
 gparted
 hunspell-de
@@ -83,7 +82,6 @@ parity-ethereum
 perl-image-exiftool
 pkgfile
 pkgstats
-poedit
 ponymix
 powertop
 prettier

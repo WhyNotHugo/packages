@@ -12,7 +12,6 @@ aom
 appstream-glib
 archlinux-keyring
 argon2
-aspell
 at-spi2-atk
 at-spi2-core
 atk
@@ -48,9 +47,6 @@ celt
 chrono-date
 cifs-utils
 cinnamon-desktop
-clutter
-clutter-gtk
-cogl
 colord
 compiler-rt
 containerd
@@ -80,8 +76,6 @@ double-conversion
 e2fsprogs
 efivar
 elfutils
-enchant
-evolution-data-server
 exempi
 exfat-utils
 expat
@@ -97,7 +91,6 @@ findutils
 flac
 flex
 fmt
-folks
 fontconfig
 freeimage
 freetype2
@@ -119,7 +112,6 @@ geocode-glib
 geoip
 geoip-database
 gettext
-gfbgraph
 giflib
 girara
 git
@@ -133,7 +125,6 @@ glu
 gmp
 gnome-desktop
 gnome-keyring
-gnome-online-accounts
 gnupg
 gnutls
 gobject-introspection-runtime
@@ -154,19 +145,15 @@ gtk-layer-shell
 gtk-update-icon-cache
 gtk3
 gtkmm3
-gtkspell3
 guile
 gunicorn
 gvfs
 gzip
 harfbuzz
-harfbuzz-icu
 hicolor-icon-theme
-hspell
 hunspell
 hwids
 hwloc
-hyphen
 iana-etc
 icu
 ijs
@@ -281,7 +268,6 @@ libcap-ng
 libcddb
 libcdio
 libcdio-paranoia
-libchamplain
 libcroco
 libcups
 libdaemon
@@ -302,15 +288,12 @@ libfbclient
 libffi
 libfontenc
 libgcrypt
-libgdata
-libgee
 libglvnd
 libgnomekbd
 libgpg-error
 libgtop
 libgudev
 libgusb
-libgweather
 libhandy
 libibus
 libical
@@ -357,7 +340,6 @@ libpcap
 libpciaccess
 libpeas
 libpgm
-libphonenumber
 libpipeline
 libpipewire02
 libplacebo
@@ -410,7 +392,6 @@ libvpx
 libvterm
 libwacom
 libwebp
-libwpe
 libx11
 libxau
 libxcb
@@ -450,7 +431,6 @@ lmdb
 logrotate
 lua52
 luajit
-lucene++
 lvm2
 lz4
 lzo
@@ -791,7 +771,6 @@ systemd-sysvcompat
 talloc
 tar
 tdb
-telepathy-glib
 tevent
 texinfo
 thin-provisioning-tools
@@ -817,15 +796,10 @@ volume_key
 vulkan-icd-loader
 wayland
 wayland-protocols
-webkit2gtk
 webrtc-audio-processing
 which
 wlroots
-woff2
 wpa_supplicant
-wpebackend-fdo
-wxgtk-common
-wxgtk3
 x264
 x265
 xapps
