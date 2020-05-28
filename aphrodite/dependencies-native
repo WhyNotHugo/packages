@@ -594,6 +594,7 @@ python-greenlet
 python-html5lib
 python-humanize
 python-hyperlink
+python-hypothesis
 python-icalendar
 python-identify
 python-idna
@@ -679,6 +680,7 @@ python-setuptools
 python-shellingham
 python-sip
 python-six
+python-sortedcontainers
 python-stevedore
 python-tabulate
 python-texttable
