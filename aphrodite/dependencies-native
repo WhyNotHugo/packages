@@ -302,7 +302,6 @@ libid3tag
 libidn2
 libiec61883
 libimagequant
-libimobiledevice
 libindicator-gtk3
 libinput
 libjpeg-turbo
@@ -344,7 +343,6 @@ libpgm
 libpipeline
 libpipewire02
 libplacebo
-libplist
 libpng
 libproxy
 libpsl
@@ -382,14 +380,12 @@ libtorrent-rasterbar
 libunistring
 libunwind
 libusb
-libusbmuxd
 libutempter
 libutil-linux
 libuv
 libva
 libvdpau
 libvisual
-libvoikko
 libvorbis
 libvpx
 libvterm
@@ -445,7 +441,6 @@ mate-desktop
 mbedtls
 md4c
 mdadm
-meson
 miniupnpc
 minizip
 mkinitcpio
@@ -460,7 +455,6 @@ ncurses
 ndctl
 netpbm
 nettle
-ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -577,7 +571,6 @@ python-greenlet
 python-html5lib
 python-humanize
 python-hyperlink
-python-hypothesis
 python-icalendar
 python-identify
 python-idna
@@ -663,7 +656,6 @@ python-setuptools
 python-shellingham
 python-sip
 python-six
-python-sortedcontainers
 python-stevedore
 python-tabulate
 python-texttable
@@ -745,7 +737,6 @@ rubygems
 run-parts
 runc
 sbc
-scdoc
 sdl2
 sdl2_ttf
 sed
@@ -766,7 +757,6 @@ sqlite
 squashfs-tools
 srt
 startup-notification
-strace
 sudo
 swaybg
 sysfsutils
@@ -791,8 +781,6 @@ unibilium
 unixodbc
 unrar
 unzip
-upower
-usbmuxd
 util-linux
 v4l-utils
 vamp-plugin-sdk
