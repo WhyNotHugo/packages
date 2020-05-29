@@ -302,6 +302,7 @@ libid3tag
 libidn2
 libiec61883
 libimagequant
+libimobiledevice
 libindicator-gtk3
 libinput
 libjpeg-turbo
@@ -343,6 +344,7 @@ libpgm
 libpipeline
 libpipewire02
 libplacebo
+libplist
 libpng
 libproxy
 libpsl
@@ -380,6 +382,7 @@ libtorrent-rasterbar
 libunistring
 libunwind
 libusb
+libusbmuxd
 libutempter
 libutil-linux
 libuv
@@ -763,6 +766,7 @@ sqlite
 squashfs-tools
 srt
 startup-notification
+strace
 sudo
 swaybg
 sysfsutils
@@ -787,6 +791,8 @@ unibilium
 unixodbc
 unrar
 unzip
+upower
+usbmuxd
 util-linux
 v4l-utils
 vamp-plugin-sdk
