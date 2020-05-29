@@ -788,6 +788,8 @@ vid.stab
 vkd3d
 vmaf
 volume_key
+vte-common
+vte3
 vulkan-icd-loader
 wayland
 wayland-protocols
