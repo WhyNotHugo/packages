@@ -92,7 +92,6 @@ python-pip
 python-pipenv
 python-poetry
 python-pre-commit
-python-pylint
 python-pynvim
 python-tox
 python-virtualenvwrapper
