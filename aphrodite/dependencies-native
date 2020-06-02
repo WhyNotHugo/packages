@@ -520,6 +520,7 @@ python-appdirs
 python-argcomplete
 python-argparse
 python-asn1crypto
+python-astroid
 python-async-timeout
 python-atomicwrites
 python-attrs
@@ -584,6 +585,7 @@ python-jsonrpclib-pelix
 python-jsonschema
 python-keyring
 python-langdetect
+python-lazy-object-proxy
 python-lockfile
 python-mako
 python-markupsafe
@@ -674,6 +676,7 @@ python-virtualenv-clone
 python-wcwidth
 python-webencodings
 python-websocket-client
+python-wrapt
 python-yaml
 python-yarl
 python-zipp
