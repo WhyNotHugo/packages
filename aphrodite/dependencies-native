@@ -219,6 +219,7 @@ lib32-libpciaccess
 lib32-libpng
 lib32-libsm
 lib32-libtiff
+lib32-libunwind
 lib32-libusb
 lib32-libx11
 lib32-libxau
@@ -603,7 +604,6 @@ python-pastel
 python-pathspec
 python-pbkdf2
 python-pep517
-python-pew
 python-pexpect
 python-pickleshare
 python-pillow
@@ -717,7 +717,7 @@ ruby-kramdown
 ruby-kramdown-parser-gfm
 ruby-liquid
 ruby-listen
-ruby-mercenary-0.3
+ruby-mercenary
 ruby-mocha
 ruby-pathutil
 ruby-public_suffix
@@ -737,7 +737,6 @@ rubygems
 run-parts
 runc
 sbc
-scdoc
 sdl2
 sdl2_ttf
 sed
