@@ -76,6 +76,7 @@ double-conversion
 e2fsprogs
 efivar
 elfutils
+enchant
 exempi
 exfat-utils
 expat
@@ -145,6 +146,7 @@ gtk-layer-shell
 gtk-update-icon-cache
 gtk3
 gtkmm3
+gtkspell3
 guile
 gunicorn
 gvfs
@@ -431,6 +433,7 @@ lmdb
 logrotate
 lua52
 luajit
+lucene++
 lvm2
 lz4
 lzo
@@ -794,6 +797,8 @@ webrtc-audio-processing
 which
 wlroots
 wpa_supplicant
+wxgtk-common
+wxgtk3
 x264
 x265
 xapps
