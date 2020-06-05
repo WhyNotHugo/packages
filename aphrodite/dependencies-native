@@ -164,6 +164,7 @@ imlib2
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
+intltool
 iproute2
 iptables
 iputils
@@ -302,6 +303,7 @@ libibus
 libical
 libice
 libid3tag
+libidn
 libidn2
 libiec61883
 libimagequant
@@ -435,6 +437,7 @@ lua52
 luajit
 lucene++
 lvm2
+lynx
 lz4
 lzo
 m4
@@ -445,6 +448,7 @@ mate-desktop
 mbedtls
 md4c
 mdadm
+meson
 miniupnpc
 minizip
 mkinitcpio
@@ -459,6 +463,7 @@ ncurses
 ndctl
 netpbm
 nettle
+ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -495,9 +500,27 @@ pcre
 pcre2
 pepper-flash
 perl
+perl-clone
+perl-encode-locale
 perl-error
+perl-file-listing
+perl-html-parser
+perl-html-tagset
+perl-http-cookies
+perl-http-daemon
+perl-http-date
+perl-http-message
+perl-http-negotiate
+perl-io-html
+perl-libwww
+perl-lwp-mediatypes
 perl-mailtools
+perl-net-http
 perl-timedate
+perl-try-tiny
+perl-uri
+perl-www-robotrules
+perl-xml-parser
 pinentry
 pipewire
 pixman
@@ -740,6 +763,7 @@ rubygems
 run-parts
 runc
 sbc
+scdoc
 sdl2
 sdl2_ttf
 sed
