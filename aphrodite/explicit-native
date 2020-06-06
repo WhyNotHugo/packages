@@ -59,6 +59,7 @@ man-pages
 mate-utils
 mdp
 mesa
+meson
 mpv
 musescore
 mypy
@@ -77,6 +78,7 @@ openethereum
 openssh
 otf-font-awesome
 p7zip
+pantheon-camera
 paprefs
 perl-image-exiftool
 pkgfile
@@ -108,6 +110,7 @@ rust
 seahorse
 solaar
 speedtest-cli
+strace
 subdownloader
 sway
 swayidle
