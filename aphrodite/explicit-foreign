@@ -29,6 +29,7 @@ python-flake8-import-order
 python-openrazer-git
 python-reorder-python-imports
 python-schedule
+pyupgrade
 razercommander
 redshift-wlr-gamma-control-git
 reflector-mirrorlist
