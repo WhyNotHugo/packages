@@ -27,6 +27,7 @@ expac
 fcitx
 fcitx-configtool
 fcitx-hangul
+fcitx-libpinyin
 fcitx-qt5
 firefox
 firefox-i18n-en-gb
@@ -62,6 +63,7 @@ man-db
 man-pages
 mate-utils
 mdp
+meld
 mesa
 meson
 mpv

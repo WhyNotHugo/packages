@@ -151,6 +151,7 @@ gtk-layer-shell
 gtk-update-icon-cache
 gtk3
 gtkmm3
+gtksourceview3
 gtkspell3
 guile
 gunicorn
@@ -188,6 +189,7 @@ kbd
 keyutils
 kmod
 krb5
+kyotocabinet
 l-smash
 lame
 lapack
@@ -350,6 +352,7 @@ libpcap
 libpciaccess
 libpeas
 libpgm
+libpinyin
 libpipeline
 libpipewire02
 libplacebo
