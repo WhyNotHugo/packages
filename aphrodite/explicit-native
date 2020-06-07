@@ -24,6 +24,10 @@ eog
 eslint
 exa
 expac
+fcitx
+fcitx-configtool
+fcitx-hangul
+fcitx-qt5
 firefox
 firefox-i18n-en-gb
 flake8
