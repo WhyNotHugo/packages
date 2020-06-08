@@ -575,6 +575,7 @@ python-docker-pycreds
 python-dockerpty
 python-docopt
 python-docutils
+python-dotenv
 python-ecdsa
 python-entrypoints
 python-filelock
