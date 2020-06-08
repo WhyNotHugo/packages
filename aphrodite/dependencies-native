@@ -1,3 +1,4 @@
+aalib
 accountsservice
 acl
 acorn
@@ -146,6 +147,7 @@ gsettings-desktop-schemas
 gsm
 gst-plugins-base
 gst-plugins-base-libs
+gst-plugins-good
 gstreamer
 gtk-layer-shell
 gtk-update-icon-cache
@@ -286,6 +288,7 @@ libdbusmenu-glib
 libdbusmenu-gtk3
 libdbusmenu-qt5
 libdrm
+libdv
 libdvdnav
 libdvdread
 libedit
@@ -370,6 +373,7 @@ libsamplerate
 libsasl
 libseccomp
 libsecret
+libshout
 libsigc++
 libsm
 libsndfile
@@ -778,6 +782,7 @@ sysfsutils
 systemd
 systemd-libs
 systemd-sysvcompat
+taglib
 talloc
 tar
 tdb
@@ -788,6 +793,7 @@ tinyxml2
 tor
 tslib
 ttf-liberation
+twolame
 tzdata
 uchardet
 udisks2
@@ -803,6 +809,7 @@ vkd3d
 vmaf
 volume_key
 vulkan-icd-loader
+wavpack
 wayland
 wayland-protocols
 webrtc-audio-processing
