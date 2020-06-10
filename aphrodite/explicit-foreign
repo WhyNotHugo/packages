@@ -4,7 +4,7 @@ ddcutil
 docker-credential-secretservice
 downgrade
 eslint-plugin-vue
-flatseal
+flatseal-git
 fswebcam
 grimshot-git
 heroku-cli

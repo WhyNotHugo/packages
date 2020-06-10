@@ -30,6 +30,7 @@ blas
 bluez
 bluez-libs
 boost-libs
+breezy
 bridge-utils
 brotli
 btrfs-progs
@@ -95,6 +96,7 @@ file-roller
 filesystem
 findutils
 flac
+flatpak-builder
 flex
 fmt
 fontconfig
@@ -580,8 +582,10 @@ python-dockerpty
 python-docopt
 python-docutils
 python-dotenv
+python-dulwich
 python-ecdsa
 python-entrypoints
+python-fastimport
 python-filelock
 python-future
 python-geoip
@@ -621,6 +625,7 @@ python-parsedatetime
 python-parso
 python-pastel
 python-pathspec
+python-patiencediff
 python-pbkdf2
 python-pep517
 python-pexpect
@@ -715,6 +720,7 @@ readline
 recode
 reiserfsprogs
 rest
+rpmextract
 rtkit
 rubberband
 ruby
