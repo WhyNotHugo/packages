@@ -145,4 +145,5 @@ xorg-xrandr
 zathura
 zsh
 zsh-completions
+zsh-doc
 zsh-syntax-highlighting
