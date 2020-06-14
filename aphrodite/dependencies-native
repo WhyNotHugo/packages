@@ -365,6 +365,7 @@ libpsl
 libpulse
 libpwquality
 libraqm
+libratbag
 libraw
 libraw1394
 libretro-core-info
@@ -582,6 +583,7 @@ python-docutils
 python-dotenv
 python-ecdsa
 python-entrypoints
+python-evdev
 python-filelock
 python-future
 python-geoip
@@ -605,6 +607,7 @@ python-jsonschema
 python-keyring
 python-langdetect
 python-lockfile
+python-lxml
 python-mako
 python-markupsafe
 python-mccabe
