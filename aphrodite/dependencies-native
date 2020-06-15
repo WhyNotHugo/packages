@@ -762,6 +762,7 @@ rubygems
 run-parts
 runc
 sbc
+scdoc
 sdl2
 sdl2_ttf
 sed
