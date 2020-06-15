@@ -11,6 +11,7 @@ bluez-utils
 checkbashisms
 chromium
 clang
+code
 ctags
 cups
 d-feet
@@ -93,6 +94,7 @@ piper
 pkgfile
 pkgstats
 poedit
+polkit-gnome
 ponymix
 powertop
 prettier

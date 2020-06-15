@@ -80,6 +80,7 @@ dotnet-runtime
 double-conversion
 e2fsprogs
 efivar
+electron7
 elfutils
 enchant
 exempi
@@ -161,6 +162,7 @@ gvfs
 gzip
 harfbuzz
 hicolor-icon-theme
+http-parser
 hunspell
 hwids
 hwloc
@@ -718,6 +720,7 @@ readline
 recode
 reiserfsprogs
 rest
+ripgrep
 rtkit
 rubberband
 ruby
