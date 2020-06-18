@@ -54,6 +54,7 @@ intel-ucode
 ipython
 kexec-tools
 khal
+kolourpaint
 l3afpad
 libfaketime
 light
@@ -119,6 +120,7 @@ rsync
 ruby-homesick
 ruby-jekyll
 rust
+scdoc
 seahorse
 solaar
 speedtest-cli
