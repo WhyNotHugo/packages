@@ -1,7 +1,6 @@
 adguardhome
 amazon-ecr-credential-helper
 browser-vacuum
-ddcutil
 docker-credential-secretservice
 downgrade
 eslint-plugin-vue
