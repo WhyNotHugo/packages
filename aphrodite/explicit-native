@@ -147,6 +147,7 @@ wine-staging
 wl-clipboard
 xorg-server-xwayland
 xorg-xeyes
+xorg-xhost
 xorg-xrandr
 zathura
 zsh
