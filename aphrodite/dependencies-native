@@ -131,7 +131,6 @@ glibmm
 glslang
 glu
 gmp
-gnome-desktop
 gnome-keyring
 gnupg
 gnutls
@@ -385,7 +384,6 @@ libp11-kit
 libpaper
 libpcap
 libpciaccess
-libpeas
 libpgm
 libpinyin
 libpipeline
