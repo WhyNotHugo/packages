@@ -76,8 +76,6 @@ dmraid
 dnssec-anchors
 docker
 dosfstools
-dotnet-host
-dotnet-runtime
 double-conversion
 e2fsprogs
 efivar
