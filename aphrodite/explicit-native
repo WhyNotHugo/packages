@@ -33,6 +33,7 @@ fcitx-qt5
 figlet
 firefox
 firefox-i18n-en-gb
+firejail
 flake8
 flameshot
 flatpak
@@ -124,6 +125,7 @@ scdoc
 seahorse
 solaar
 speedtest-cli
+steam
 strace
 subdownloader
 sway
