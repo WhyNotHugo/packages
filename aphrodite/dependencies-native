@@ -99,6 +99,7 @@ flac
 flex
 fmt
 fontconfig
+fontforge
 freeimage
 freetype2
 fribidi
@@ -426,6 +427,7 @@ libsndfile
 libsodium
 libsoup
 libsoxr
+libspiro
 libssh
 libssh2
 libstemmer
@@ -440,6 +442,7 @@ libtirpc
 libtommath
 libtool
 libtorrent-rasterbar
+libuninameslist
 libunistring
 libunwind
 libusb
@@ -597,6 +600,7 @@ popt
 portaudio
 portmidi
 postgresql-libs
+potrace
 procps-ng
 protobuf
 psmisc
