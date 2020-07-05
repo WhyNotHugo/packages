@@ -14,6 +14,7 @@ kernel-modules-hook
 libretro-fbneo-git
 mako-git
 meta-group-base-devel
+networkmanager-dispatcher-openntpd
 nextdns
 notify-send.sh
 otf-operator-mono-nerd
