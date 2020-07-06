@@ -164,6 +164,7 @@ gzip
 harfbuzz
 harfbuzz-icu
 hicolor-icon-theme
+hidapi
 hunspell
 hwids
 hwloc
@@ -623,6 +624,7 @@ python-babel
 python-backcall
 python-bcrypt
 python-beaker
+python-boto3
 python-botocore
 python-cachecontrol
 python-cached-property
@@ -775,6 +777,7 @@ python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
 python-stevedore
 python-tabulate
+python-termcolor
 python-texttable
 python-toml
 python-tomlkit
@@ -792,6 +795,7 @@ python-wcwidth
 python-webencodings
 python-websocket-client
 python-werkzeug
+python-wheel
 python-yaml
 python-yarl
 python-zipp
