@@ -150,6 +150,7 @@ xorg-server-xwayland
 xorg-xeyes
 xorg-xhost
 xorg-xrandr
+yarn
 zathura
 zsh
 zsh-completions
