@@ -52,11 +52,9 @@ cinnamon-desktop
 clutter
 clutter-gst
 clutter-gtk
-cni-plugins
 cogl
 colord
 compiler-rt
-conmon
 containerd
 coreutils
 cpio
@@ -103,7 +101,6 @@ freeimage
 freetype2
 fribidi
 fuse-common
-fuse-overlayfs
 fuse2
 fuse3
 gawk
@@ -422,7 +419,6 @@ libsecp256k1
 libsecret
 libshout
 libsigc++
-libslirp
 libsm
 libsndfile
 libsodium
@@ -571,7 +567,6 @@ pipewire
 pixman
 pkcs11-helper
 pkgconf
-podman
 polkit
 polkit-qt5
 poppler
@@ -773,6 +768,7 @@ qt5-webchannel
 qt5-webengine
 qt5-x11extras
 qt5-xmlpatterns
+rav1e
 re2
 readline
 recode
@@ -827,9 +823,7 @@ semver
 shaderc
 shadow
 shared-mime-info
-skopeo
 slang
-slirp4netns
 slurp
 smbclient
 snappy
