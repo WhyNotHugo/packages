@@ -2,6 +2,7 @@ adguardhome
 amazon-ecr-credential-helper
 aws-ecs-cli
 awslogs
+bind-tools
 browser-vacuum
 docker-credential-secretservice
 downgrade
