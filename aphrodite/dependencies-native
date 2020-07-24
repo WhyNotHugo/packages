@@ -71,6 +71,7 @@ deluge
 desktop-file-utils
 device-mapper
 diffutils
+djvulibre
 dkms
 dmraid
 dnssec-anchors
@@ -117,6 +118,7 @@ geocode-glib
 geoip
 geoip-database
 gettext
+ghostscript
 giflib
 girara
 git
@@ -128,6 +130,7 @@ glibmm
 glslang
 glu
 gmp
+gnome-desktop
 gnome-keyring
 gnupg
 gnutls
@@ -142,8 +145,10 @@ grep
 grim
 groff
 gsettings-desktop-schemas
+gsfonts
 gsl
 gsm
+gspell
 gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
@@ -182,6 +187,7 @@ iso-codes
 jack2
 jansson
 jasper
+jbig2dec
 jfsutils
 jq
 js60
@@ -347,12 +353,14 @@ libgphoto2
 libgtop
 libgudev
 libgusb
+libgxps
 libhandy
 libhangul
 libibus
 libical
 libice
 libid3tag
+libidn
 libidn2
 libiec61883
 libieee1284
@@ -424,6 +432,7 @@ libsndfile
 libsodium
 libsoup
 libsoxr
+libspectre
 libssh
 libssh2
 libstemmer
@@ -456,6 +465,7 @@ libwebp
 libwpe
 libx11
 libxau
+libxaw
 libxcb
 libxcomposite
 libxcursor
@@ -844,6 +854,7 @@ sysfsutils
 systemd
 systemd-libs
 systemd-sysvcompat
+t1lib
 taglib
 talloc
 tar
