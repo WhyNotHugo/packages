@@ -144,6 +144,7 @@ groff
 gsettings-desktop-schemas
 gsl
 gsm
+gst-libav
 gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
