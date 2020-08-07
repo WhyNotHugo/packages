@@ -76,6 +76,7 @@ mdp
 meld
 mesa
 meson
+mingw-w64-gcc
 mpv
 musescore
 mypy
@@ -121,7 +122,7 @@ retroarch-assets-xmb
 rsync
 ruby-homesick
 ruby-jekyll
-rust
+rustup
 scdoc
 seahorse
 solaar

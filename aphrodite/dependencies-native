@@ -507,6 +507,10 @@ mbedtls
 md4c
 mdadm
 media-player-info
+mingw-w64-binutils
+mingw-w64-crt
+mingw-w64-headers
+mingw-w64-winpthreads
 miniupnpc
 minizip
 mkinitcpio
