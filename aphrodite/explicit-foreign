@@ -20,6 +20,7 @@ notify-send.sh
 otf-operator-mono-nerd
 ovpnsplit
 pavucontrol-git
+pgformatter-git
 pkgbuild-introspection
 plymouth
 plymouth-theme-monoarch
