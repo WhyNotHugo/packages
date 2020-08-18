@@ -656,7 +656,6 @@ python-idna
 python-importlib-metadata
 python-incremental
 python-iniconfig
-python-jedi
 python-jeepney
 python-jmespath
 python-jsonrpclib-pelix
@@ -668,6 +667,7 @@ python-lxml
 python-mako
 python-markupsafe
 python-mccabe
+python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -715,6 +715,7 @@ python-pyqt5
 python-pyqt5-sip
 python-pyrsistent
 python-pysocks
+python-pytest
 python-pytz
 python-pyudev
 python-pyxdg
