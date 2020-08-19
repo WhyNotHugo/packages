@@ -28,7 +28,6 @@ popcorntime
 python-flake8-bugbear
 python-flake8-comprehensions
 python-flake8-import-order
-python-jedi-git
 python-openrazer-git
 python-reorder-python-imports
 python-schedule
