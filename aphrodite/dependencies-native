@@ -130,10 +130,12 @@ glibmm
 glslang
 glu
 gmp
+gn
 gnome-keyring
 gnupg
 gnutls
 gobject-introspection-runtime
+gperf
 gpgme
 gpm
 gptfdisk
@@ -166,6 +168,7 @@ harfbuzz
 harfbuzz-icu
 hicolor-icon-theme
 hidapi
+http-parser
 hunspell
 hwids
 hwloc
@@ -185,8 +188,10 @@ iso-codes
 jack2
 jansson
 jasper
+java-runtime-common
 jfsutils
 jq
+jre-openjdk-headless
 js68
 json-c
 json-glib
@@ -381,6 +386,7 @@ libmodplug
 libmpc
 libmpdclient
 libndp
+libnet
 libnetfilter_conntrack
 libnewt
 libnfnetlink
@@ -489,6 +495,7 @@ libyaml
 libzen
 licenses
 linux-api-headers
+lld
 llvm
 llvm-libs
 lmdb
@@ -523,6 +530,7 @@ mpg123
 msgpack-c
 mtdev
 mujs
+nasm
 ncurses
 ndctl
 net-snmp
@@ -759,6 +767,13 @@ python-yaml
 python-yarl
 python-zipp
 python-zope-interface
+python2
+python2-appdirs
+python2-ordered-set
+python2-packaging
+python2-pyparsing
+python2-setuptools
+python2-six
 qpdf
 qt5-base
 qt5-declarative
@@ -886,6 +901,7 @@ wayland
 wayland-protocols
 webkit2gtk
 webrtc-audio-processing
+wget
 which
 wlroots
 woff2
@@ -920,6 +936,7 @@ xorgproto
 xvidcore
 xxhash
 xz
+yasm
 youtube-dl
 zathura-pdf-poppler
 zenity
