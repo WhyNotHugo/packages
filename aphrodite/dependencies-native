@@ -60,6 +60,7 @@ coreutils
 cpio
 cracklib
 cryptsetup
+ctemplate
 cups-filters
 curl
 dav1d
@@ -873,6 +874,7 @@ tdb
 tevent
 texinfo
 thin-provisioning-tools
+tidy
 tinyxml2
 tor
 tslib
