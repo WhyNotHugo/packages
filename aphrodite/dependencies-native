@@ -75,8 +75,6 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
-docbook-xml
-docbook-xsl
 docker
 dosfstools
 double-conversion
@@ -131,12 +129,10 @@ glibmm
 glslang
 glu
 gmp
-gn
 gnome-keyring
 gnupg
 gnutls
 gobject-introspection-runtime
-gperf
 gpgme
 gpm
 gptfdisk
@@ -169,7 +165,6 @@ harfbuzz
 harfbuzz-icu
 hicolor-icon-theme
 hidapi
-http-parser
 hunspell
 hwids
 hwloc
@@ -189,10 +184,8 @@ iso-codes
 jack2
 jansson
 jasper
-java-runtime-common
 jfsutils
 jq
-jre-openjdk-headless
 js68
 json-c
 json-glib
@@ -387,7 +380,6 @@ libmodplug
 libmpc
 libmpdclient
 libndp
-libnet
 libnetfilter_conntrack
 libnewt
 libnfnetlink
@@ -467,6 +459,7 @@ libx11
 libxau
 libxcb
 libxcomposite
+libxcrypt
 libxcursor
 libxdamage
 libxdmcp
@@ -496,7 +489,6 @@ libyaml
 libzen
 licenses
 linux-api-headers
-lld
 llvm
 llvm-libs
 lmdb
@@ -531,7 +523,6 @@ mpg123
 msgpack-c
 mtdev
 mujs
-nasm
 ncurses
 ndctl
 net-snmp
@@ -676,7 +667,6 @@ python-lxml
 python-mako
 python-markupsafe
 python-mccabe
-python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -724,7 +714,6 @@ python-pyqt5
 python-pyqt5-sip
 python-pyrsistent
 python-pysocks
-python-pytest
 python-pytz
 python-pyudev
 python-pyxdg
@@ -903,7 +892,6 @@ wayland
 wayland-protocols
 webkit2gtk
 webrtc-audio-processing
-wget
 which
 wlroots
 woff2
@@ -938,7 +926,6 @@ xorgproto
 xvidcore
 xxhash
 xz
-yasm
 youtube-dl
 zathura-pdf-poppler
 zenity
