@@ -267,6 +267,7 @@ lib32-libusb
 lib32-libx11
 lib32-libxau
 lib32-libxcb
+lib32-libxcrypt
 lib32-libxcursor
 lib32-libxdamage
 lib32-libxdmcp
