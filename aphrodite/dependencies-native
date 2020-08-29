@@ -75,6 +75,8 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
+docbook-xml
+docbook-xsl
 docker
 dosfstools
 double-conversion
