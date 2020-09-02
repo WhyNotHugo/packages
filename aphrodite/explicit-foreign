@@ -19,6 +19,7 @@ mako-git
 meta-group-base-devel
 networkmanager-dispatcher-openntpd
 notify-send.sh
+nvm
 otf-operator-mono-nerd
 ovpnsplit
 pavucontrol-git
