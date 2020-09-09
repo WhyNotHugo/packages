@@ -110,7 +110,6 @@ pulseaudio-alsa
 pulseaudio-bluetooth
 pv
 python-black
-python-jedi
 python-pip
 python-pipenv
 python-poetry
