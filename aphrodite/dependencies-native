@@ -563,7 +563,6 @@ patch
 pciutils
 pcre
 pcre2
-pepper-flash
 perl
 perl-error
 perl-mailtools
@@ -677,7 +676,6 @@ python-ordered-set
 python-packaging
 python-paramiko
 python-parsedatetime
-python-parso
 python-pastel
 python-pathspec
 python-pbkdf2
@@ -757,13 +755,6 @@ python-yaml
 python-yarl
 python-zipp
 python-zope-interface
-python2
-python2-appdirs
-python2-ordered-set
-python2-packaging
-python2-pyparsing
-python2-setuptools
-python2-six
 qpdf
 qt5-base
 qt5-declarative
@@ -879,6 +870,7 @@ unzip
 upower
 usbmuxd
 util-linux
+util-linux-libs
 v4l-utils
 vamp-plugin-sdk
 vid.stab
