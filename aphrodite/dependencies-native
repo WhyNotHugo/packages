@@ -598,6 +598,7 @@ python-async-timeout
 python-atomicwrites
 python-attrs
 python-automat
+python-babel
 python-backcall
 python-bcrypt
 python-beaker
@@ -652,10 +653,12 @@ python-hyperlink
 python-icalendar
 python-identify
 python-idna
+python-imagesize
 python-importlib-metadata
 python-incremental
 python-iniconfig
 python-jeepney
+python-jinja
 python-jmespath
 python-jsonrpclib-pelix
 python-jsonschema
@@ -666,6 +669,7 @@ python-lxml
 python-mako
 python-markupsafe
 python-mccabe
+python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -712,6 +716,7 @@ python-pyqt5
 python-pyqt5-sip
 python-pyrsistent
 python-pysocks
+python-pytest
 python-pytz
 python-pyudev
 python-pyxdg
@@ -732,6 +737,15 @@ python-setuptools
 python-shellingham
 python-sip
 python-six
+python-snowballstemmer
+python-sphinx
+python-sphinx-alabaster-theme
+python-sphinxcontrib-applehelp
+python-sphinxcontrib-devhelp
+python-sphinxcontrib-htmlhelp
+python-sphinxcontrib-jsmath
+python-sphinxcontrib-qthelp
+python-sphinxcontrib-serializinghtml
 python-stevedore
 python-tabulate
 python-termcolor
