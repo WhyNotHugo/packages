@@ -152,6 +152,7 @@ gst-plugins-good
 gstreamer
 gtk-layer-shell
 gtk-update-icon-cache
+gtk2
 gtk3
 gtkmm3
 gtksourceview3
@@ -184,8 +185,11 @@ iso-codes
 jack2
 jansson
 jasper
+java-runtime-common
 jfsutils
 jq
+jre-openjdk
+jre-openjdk-headless
 js68
 json-c
 json-glib
@@ -381,6 +385,7 @@ libmodplug
 libmpc
 libmpdclient
 libndp
+libnet
 libnetfilter_conntrack
 libnewt
 libnfnetlink
