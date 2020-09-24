@@ -118,6 +118,7 @@ geocode-glib
 geoip
 geoip-database
 gettext
+ghostscript
 giflib
 girara
 git
@@ -143,6 +144,7 @@ grep
 grim
 groff
 gsettings-desktop-schemas
+gsfonts
 gsl
 gsm
 gst-libav
@@ -157,6 +159,7 @@ gtk3
 gtkmm3
 gtksourceview3
 gtkspell3
+gts
 guile
 gunicorn
 guvcview-common
@@ -186,6 +189,7 @@ jack2
 jansson
 jasper
 java-runtime-common
+jbig2dec
 jfsutils
 jq
 jre-openjdk
@@ -359,6 +363,7 @@ libibus
 libical
 libice
 libid3tag
+libidn
 libidn2
 libiec61883
 libieee1284
