@@ -426,6 +426,7 @@ libsecp256k1
 libsecret
 libshout
 libsigc++
+libsigsegv
 libsm
 libsndfile
 libsodium
@@ -462,6 +463,7 @@ libwebp
 libwpe
 libx11
 libxau
+libxaw
 libxcb
 libxcomposite
 libxcrypt
@@ -492,6 +494,7 @@ libxv
 libxxf86vm
 libyaml
 libzen
+libzip
 licenses
 linux-api-headers
 llvm
@@ -499,6 +502,7 @@ llvm-libs
 lmdb
 logrotate
 lsb-release
+lua
 lua52
 luajit
 lucene++
@@ -585,6 +589,7 @@ popt
 portaudio
 portmidi
 postgresql-libs
+potrace
 procps-ng
 protobuf
 psmisc
@@ -852,12 +857,14 @@ sysfsutils
 systemd
 systemd-libs
 systemd-sysvcompat
+t1lib
 taglib
 talloc
 tar
 tdb
 tevent
 texinfo
+texlive-bin
 thin-provisioning-tools
 tidy
 tinyxml2
@@ -930,3 +937,4 @@ zeromq
 zip
 zlib
 zstd
+zziplib
