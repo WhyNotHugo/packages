@@ -153,6 +153,7 @@ wine-gecko
 wine-mono
 wine-staging
 wl-clipboard
+xdg-desktop-portal-wlr
 xorg-server-xwayland
 xorg-xeyes
 xorg-xhost
