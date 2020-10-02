@@ -685,6 +685,7 @@ python-msgpack
 python-multidict
 python-mypy_extensions
 python-nodeenv
+python-notify2
 python-numpy
 python-oauthlib
 python-ordered-set
