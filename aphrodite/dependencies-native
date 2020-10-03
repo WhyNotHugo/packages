@@ -328,6 +328,7 @@ libcap-ng
 libcddb
 libcdio
 libcdio-paranoia
+libcloudproviders
 libcroco
 libcups
 libdaemon
@@ -358,6 +359,7 @@ libgtop
 libgudev
 libgusb
 libhandy
+libhandy0
 libhangul
 libibus
 libical
@@ -599,7 +601,6 @@ procps-ng
 protobuf
 psmisc
 pulseaudio
-pygobject-devel
 python
 python-aiohttp
 python-aiohttp-socks
@@ -874,6 +875,7 @@ texlive-bin
 thin-provisioning-tools
 tinyxml2
 tor
+tracker3
 tslib
 ttf-liberation
 twolame
