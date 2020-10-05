@@ -32,6 +32,7 @@ bluez
 bluez-libs
 boost-libs
 bridge-utils
+brltty
 brotli
 btrfs-progs
 bubblewrap
@@ -76,6 +77,7 @@ dmraid
 dnssec-anchors
 docker
 dosfstools
+dotconf
 double-conversion
 e2fsprogs
 efivar
@@ -309,6 +311,7 @@ lib32-xz
 lib32-zlib
 lib32-zstd
 libaio
+libao
 libappindicator-gtk3
 libarchive
 libass
@@ -439,6 +442,7 @@ libsndfile
 libsodium
 libsoup
 libsoxr
+libspeechd
 libssh
 libssh2
 libstemmer
@@ -612,6 +616,7 @@ python-argparse
 python-asn1crypto
 python-async-timeout
 python-atomicwrites
+python-atspi
 python-attrs
 python-automat
 python-backcall
@@ -851,6 +856,7 @@ solid
 sonnet
 sound-theme-freedesktop
 spdlog
+speech-dispatcher
 speex
 speexdsp
 spirv-tools
@@ -868,6 +874,7 @@ t1lib
 taglib
 talloc
 tar
+tcl
 tdb
 tevent
 texinfo
@@ -931,6 +938,7 @@ xorg-fonts-encodings
 xorg-server-common
 xorg-setxkbmap
 xorg-xkbcomp
+xorg-xmodmap
 xorg-xprop
 xorg-xset
 xorgproto

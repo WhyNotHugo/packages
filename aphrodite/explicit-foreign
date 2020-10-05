@@ -19,6 +19,7 @@ meta-group-base-devel
 minecraft-launcher
 networkmanager-dispatcher-openntpd
 notify-send.sh
+orca-git
 otf-operator-mono-nerd
 ovpnsplit
 pavucontrol-git
