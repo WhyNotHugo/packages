@@ -18,6 +18,7 @@ mako-git
 meta-group-base-devel
 minecraft-launcher
 networkmanager-dispatcher-openntpd
+ngrok
 notify-send.sh
 orca-git
 otf-operator-mono-nerd
