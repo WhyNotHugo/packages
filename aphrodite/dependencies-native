@@ -194,7 +194,6 @@ jfsutils
 jq
 jre-openjdk
 jre-openjdk-headless
-js68
 js78
 json-c
 json-glib
@@ -359,7 +358,6 @@ libgphoto2
 libgtop
 libgudev
 libgusb
-libhandy
 libhandy0
 libhangul
 libibus
