@@ -20,7 +20,6 @@ minecraft-launcher
 ngrok
 notify-send.sh
 otf-operator-mono-nerd
-ovpnsplit
 pavucontrol-git
 pgformatter-git
 pkgbuild-introspection
@@ -33,10 +32,8 @@ python-flake8-import-order
 python-jedi-git
 python-openrazer-git
 python-reorder-python-imports
-python-schedule
 pyupgrade
 razercommander
-safety
 skypeforlinux-preview-bin
 starship
 sysconfig
