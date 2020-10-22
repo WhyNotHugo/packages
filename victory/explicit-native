@@ -163,6 +163,8 @@ xorg-xhost
 xorg-xrandr
 xournalpp
 yarn
+yubikey-manager
+yubioath-desktop
 zathura
 zsh
 zsh-completions

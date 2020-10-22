@@ -45,6 +45,7 @@ cairo
 cairomm
 cantarell-fonts
 cblas
+ccid
 cdparanoia
 celt
 chrono-date
@@ -606,6 +607,7 @@ patch
 pciutils
 pcre
 pcre2
+pcsclite
 perl
 perl-error
 perl-mailtools
@@ -683,6 +685,7 @@ python-dotenv
 python-ecdsa
 python-entrypoints
 python-evdev
+python-fido2
 python-filelock
 python-future
 python-geoip
@@ -751,13 +754,16 @@ python-pylev
 python-pymediainfo
 python-pynacl
 python-pyopenssl
+python-pyotherside
 python-pyparsing
 python-pyqt5
 python-pyqt5-sip
 python-pyrsistent
+python-pyscard
 python-pysocks
 python-pytz
 python-pyudev
+python-pyusb
 python-pyxdg
 python-qrcode
 python-regex
@@ -969,6 +975,9 @@ xvidcore
 xxhash
 xz
 youtube-dl
+yubico-c
+yubico-c-client
+yubikey-personalization
 zathura-pdf-poppler
 zenity
 zeromq
