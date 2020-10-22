@@ -18,6 +18,7 @@ mako-git
 meta-group-base-devel
 minecraft-launcher
 ngrok
+nodejs-serverless
 notify-send.sh
 otf-operator-mono-nerd
 pavucontrol-git
