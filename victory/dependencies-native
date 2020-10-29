@@ -715,6 +715,7 @@ python-lxml
 python-mako
 python-markupsafe
 python-mccabe
+python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -764,6 +765,8 @@ python-pyqt5-sip
 python-pyrsistent
 python-pyscard
 python-pysocks
+python-pytest
+python-pytest-runner
 python-pytz
 python-pyudev
 python-pyusb
