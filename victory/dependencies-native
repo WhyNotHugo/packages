@@ -381,6 +381,7 @@ libgphoto2
 libgtop
 libgudev
 libgusb
+libhandy
 libhandy0
 libhangul
 libibus
@@ -877,6 +878,7 @@ ruby-rouge
 ruby-safe_yaml
 ruby-sassc
 ruby-terminal-table
+ruby-terminal-table-1
 ruby-thor
 ruby-tzinfo
 ruby-unicode-display_width
