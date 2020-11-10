@@ -382,7 +382,6 @@ libgtop
 libgudev
 libgusb
 libhandy
-libhandy0
 libhangul
 libibus
 libical
@@ -398,7 +397,6 @@ libindicator-gtk3
 libinput
 libixion
 libjpeg-turbo
-libjpeg6-turbo
 libksane
 libksba
 liblangtag
@@ -575,7 +573,6 @@ minizip
 mkinitcpio
 mkinitcpio-busybox
 mobile-broadband-provider-info
-mozilla-common
 mpfr
 mpg123
 msgpack-c
@@ -877,7 +874,6 @@ ruby-reline
 ruby-rouge
 ruby-safe_yaml
 ruby-sassc
-ruby-terminal-table
 ruby-terminal-table-1
 ruby-thor
 ruby-tzinfo
