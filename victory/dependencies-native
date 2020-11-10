@@ -55,9 +55,11 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
+cni-plugins
 cogl
 colord
 compiler-rt
+conmon
 containerd
 coreutils
 cpio
@@ -105,6 +107,7 @@ freeimage
 freetype2
 fribidi
 fuse-common
+fuse-overlayfs
 fuse2
 fuse3
 gawk
@@ -466,6 +469,7 @@ libsecret
 libshout
 libsigc++
 libsigsegv
+libslirp
 libsm
 libsndfile
 libsodium
@@ -891,7 +895,9 @@ semver
 shaderc
 shadow
 shared-mime-info
+skopeo
 slang
+slirp4netns
 slurp
 smbclient
 snappy
