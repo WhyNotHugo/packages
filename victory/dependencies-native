@@ -160,10 +160,12 @@ gst-plugins-good
 gstreamer
 gtk-layer-shell
 gtk-update-icon-cache
+gtk-vnc
 gtk2
 gtk3
 gtkmm3
 gtksourceview3
+gtksourceview4
 gtkspell3
 gts
 guile
@@ -340,6 +342,7 @@ libbluray
 libbsd
 libbytesize
 libcaca
+libcacard
 libcanberra
 libcanberra-pulse
 libcap
@@ -437,6 +440,7 @@ libodfgen
 libogg
 libomxil-bellagio
 liborcus
+libosinfo
 libp11-kit
 libpagemaker
 libpaper
@@ -498,6 +502,9 @@ libutempter
 libuv
 libva
 libvdpau
+libvirt
+libvirt-glib
+libvirt-python
 libvisio
 libvisual
 libvorbis
@@ -597,6 +604,7 @@ npth
 nspr
 nss
 ntfs-3g
+numactl
 ocl-icd
 oniguruma
 openal
@@ -609,6 +617,7 @@ openssl
 openvpn
 opus
 orc
+osinfo-db
 ostree
 p11-kit
 pacman
@@ -627,6 +636,7 @@ perl
 perl-error
 perl-mailtools
 perl-timedate
+phodav
 pinentry
 pipewire
 pixman
@@ -907,6 +917,7 @@ sound-theme-freedesktop
 spdlog
 speex
 speexdsp
+spice-gtk
 spirv-tools
 sqlite
 squashfs-tools
@@ -942,14 +953,18 @@ unrar
 unzip
 upower
 usbmuxd
+usbredir
 util-linux
 util-linux-libs
 v4l-utils
 vamp-plugin-sdk
 vid.stab
+virt-install
 vkd3d
 vmaf
 volume_key
+vte-common
+vte3
 vulkan-icd-loader
 vulkan-intel
 wavpack
@@ -992,6 +1007,7 @@ xorgproto
 xvidcore
 xxhash
 xz
+yajl
 youtube-dl
 yubico-c
 yubico-c-client
