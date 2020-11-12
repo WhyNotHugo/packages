@@ -191,6 +191,7 @@ imlib2
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
+intltool
 iproute2
 iptables
 iputils
@@ -280,6 +281,7 @@ lib32-libidn2
 lib32-libjpeg-turbo
 lib32-libldap
 lib32-libnl
+lib32-libnsl
 lib32-libpcap
 lib32-libpciaccess
 lib32-libpng
@@ -288,6 +290,7 @@ lib32-libsm
 lib32-libssh2
 lib32-libtasn1
 lib32-libtiff
+lib32-libtirpc
 lib32-libunistring
 lib32-libunwind
 lib32-libx11
@@ -315,6 +318,7 @@ lib32-nspr
 lib32-nss
 lib32-openssl
 lib32-p11-kit
+lib32-pam
 lib32-pcre
 lib32-readline
 lib32-sdl2
@@ -564,6 +568,7 @@ lua52
 luajit
 lucene++
 lvm2
+lynx
 lz4
 lzo
 m4
@@ -633,9 +638,27 @@ pcre
 pcre2
 pcsclite
 perl
+perl-clone
+perl-encode-locale
 perl-error
+perl-file-listing
+perl-html-parser
+perl-html-tagset
+perl-http-cookies
+perl-http-daemon
+perl-http-date
+perl-http-message
+perl-http-negotiate
+perl-io-html
+perl-libwww
+perl-lwp-mediatypes
 perl-mailtools
+perl-net-http
 perl-timedate
+perl-try-tiny
+perl-uri
+perl-www-robotrules
+perl-xml-parser
 phodav
 pinentry
 pipewire
