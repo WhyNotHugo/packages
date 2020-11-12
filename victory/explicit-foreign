@@ -20,6 +20,8 @@ minecraft-launcher
 ngrok
 nodejs-serverless
 notify-send.sh
+nvm
+openrazer-meta-git
 otf-operator-mono-nerd
 pavucontrol-git
 pgformatter-git
@@ -45,4 +47,5 @@ vue-cli
 wdisplays-git
 wev
 wf-recorder-git
+wofi-hg
 yay
