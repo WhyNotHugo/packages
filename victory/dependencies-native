@@ -85,6 +85,7 @@ double-conversion
 e2fsprogs
 efivar
 electron
+electron9
 elfutils
 enchant
 exempi
@@ -859,6 +860,7 @@ recode
 redland
 reiserfsprogs
 rest
+ripgrep
 rtkit
 rubberband
 ruby
