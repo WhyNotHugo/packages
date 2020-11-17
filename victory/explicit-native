@@ -97,6 +97,7 @@ networkmanager-openvpn
 noto-fonts
 noto-fonts-cjk
 nss-mdns
+openbsd-netcat
 openethereum
 openssh
 otf-font-awesome
