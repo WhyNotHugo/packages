@@ -2,6 +2,7 @@ amazon-ecr-credential-helper
 aws-ecs-cli
 awslogs
 browser-vacuum
+chromium-snapshot-bin
 docker-credential-secretservice
 downgrade
 emoji-cli
