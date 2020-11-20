@@ -55,6 +55,7 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
+cmake
 cni-plugins
 cogl
 colord
@@ -921,6 +922,7 @@ recode
 redland
 reiserfsprogs
 rest
+rhash
 ripgrep
 rtkit
 rubberband
@@ -991,6 +993,7 @@ srt
 startup-notification
 sudo
 swaybg
+swig
 sysfsutils
 systemd
 systemd-libs
