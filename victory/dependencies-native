@@ -517,6 +517,7 @@ libvirt-glib
 libvirt-python
 libvisio
 libvisual
+libvncserver
 libvorbis
 libvpx
 libvterm
