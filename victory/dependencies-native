@@ -32,6 +32,7 @@ blas
 bluez
 bluez-libs
 boost-libs
+breezy
 bridge-utils
 brotli
 btrfs-progs
@@ -102,6 +103,7 @@ file-roller
 filesystem
 findutils
 flac
+flatpak-builder
 flex
 fmt
 fontconfig
@@ -788,6 +790,7 @@ python-parsedatetime
 python-pastel
 python-pathspec
 python-pathtools
+python-patiencediff
 python-pbkdf2
 python-pep517
 python-pexpect
