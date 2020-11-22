@@ -32,7 +32,6 @@ blas
 bluez
 bluez-libs
 boost-libs
-breezy
 bridge-utils
 brotli
 btrfs-progs
@@ -56,7 +55,6 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
-cmake
 cni-plugins
 cogl
 colord
@@ -87,7 +85,6 @@ double-conversion
 e2fsprogs
 efivar
 electron
-electron9
 elfutils
 enchant
 exempi
@@ -103,7 +100,6 @@ file-roller
 filesystem
 findutils
 flac
-flatpak-builder
 flex
 fmt
 fontconfig
@@ -643,7 +639,6 @@ pango
 pangomm
 parted
 patch
-patchelf
 pciutils
 pcre
 pcre2
@@ -790,7 +785,6 @@ python-parsedatetime
 python-pastel
 python-pathspec
 python-pathtools
-python-patiencediff
 python-pbkdf2
 python-pep517
 python-pexpect
@@ -927,9 +921,6 @@ recode
 redland
 reiserfsprogs
 rest
-rhash
-ripgrep
-rpmextract
 rtkit
 rubberband
 ruby
@@ -999,7 +990,6 @@ srt
 startup-notification
 sudo
 swaybg
-swig
 sysfsutils
 systemd
 systemd-libs
