@@ -166,7 +166,6 @@ gtk-vnc
 gtk2
 gtk3
 gtkmm3
-gtksourceview3
 gtksourceview4
 gtkspell3
 gts
@@ -470,7 +469,6 @@ libpulse
 libpwquality
 libqxp
 libraqm
-libratbag
 libraw
 libraw1394
 libretro-core-info
@@ -730,7 +728,6 @@ python-docutils
 python-dotenv
 python-ecdsa
 python-entrypoints
-python-evdev
 python-fido2
 python-filelock
 python-future
@@ -766,7 +763,6 @@ python-langdetect
 python-language-server
 python-lazy-object-proxy
 python-lockfile
-python-lxml
 python-mako
 python-markupsafe
 python-mccabe
@@ -972,7 +968,6 @@ semver
 shaderc
 shadow
 shared-mime-info
-skopeo
 slang
 slirp4netns
 slurp
@@ -990,6 +985,7 @@ sqlite
 squashfs-tools
 srt
 startup-notification
+strace
 sudo
 swaybg
 sysfsutils
