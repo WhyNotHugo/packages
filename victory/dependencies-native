@@ -770,6 +770,7 @@ python-mako
 python-markupsafe
 python-mccabe
 python-mistune
+python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -825,6 +826,8 @@ python-pyqtwebengine
 python-pyrsistent
 python-pyscard
 python-pysocks
+python-pytest
+python-pytest-runner
 python-pytz
 python-pyudev
 python-pyusb
@@ -835,6 +838,7 @@ python-qrcode
 python-qtawesome
 python-qtconsole
 python-qtpy
+python-re-assert
 python-regex
 python-rencode
 python-requests
