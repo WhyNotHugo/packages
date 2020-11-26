@@ -784,6 +784,7 @@ python-packaging
 python-pandocfilters
 python-paramiko
 python-parsedatetime
+python-parso
 python-pastel
 python-pathspec
 python-pathtools
@@ -892,6 +893,7 @@ python-watchdog
 python-wcwidth
 python-webencodings
 python-websocket-client
+python-wheel
 python-wrapt
 python-wurlitzer
 python-yaml

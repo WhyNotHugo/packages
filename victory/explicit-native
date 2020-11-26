@@ -19,6 +19,7 @@ ddcutil
 deluge-gtk
 docker-compose
 dracut
+earlyoom
 efibootmgr
 electrum
 encfs
@@ -114,7 +115,6 @@ pulseaudio-alsa
 pulseaudio-bluetooth
 pv
 python-black
-python-parso
 python-pip
 python-pipenv
 python-poetry
