@@ -680,7 +680,6 @@ python-argon2_cffi
 python-argparse
 python-asn1crypto
 python-astroid
-python-asttokens
 python-async-timeout
 python-atomicwrites
 python-attrs
@@ -1013,7 +1012,6 @@ tor
 tracker3
 tslib
 ttf-liberation
-ttf-ms-fonts
 twolame
 tzdata
 uchardet
