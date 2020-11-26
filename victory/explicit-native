@@ -18,6 +18,7 @@ dconf-editor
 ddcutil
 deluge-gtk
 docker-compose
+downgrade
 dracut
 efibootmgr
 electrum
@@ -35,6 +36,7 @@ firefox-i18n-en-gb
 flake8
 flameshot
 flatpak
+flatseal-git
 foliate
 fortune-mod
 fuseiso
@@ -46,12 +48,14 @@ go
 gparted
 graphviz
 guvcview
+heroku-cli
 hey
 htop
 hunspell-de
 hunspell-en_GB
 hunspell-es_ar
 hunspell-nl
+hunspell-pt-br
 imv
 inotify-tools
 intel-ucode
@@ -78,6 +82,7 @@ mate-utils
 mdp
 mesa
 meson
+minecraft-launcher
 mingw-w64-gcc
 minikube
 mpv
@@ -103,10 +108,13 @@ paprefs
 perl-image-exiftool
 pkgfile
 pkgstats
+plymouth
 podman
+podman-compose-git
 poedit
 polkit-gnome
 ponymix
+popcorntime
 powertop
 prettier
 pulseaudio-alsa
@@ -131,6 +139,7 @@ ruby-jekyll
 rustup
 scdoc
 seahorse
+skypeforlinux-preview-bin
 solaar
 speedtest-cli
 spyder
@@ -140,6 +149,7 @@ subdownloader
 sway
 swayidle
 swaylock
+swift-bin
 syncthing
 telegram-desktop
 terraform
@@ -156,10 +166,13 @@ v4l2loopback-dkms
 vdirsyncer
 virt-manager
 waybar
+wdisplays-git
+wf-recorder-git
 wine-gecko
 wine-mono
 wine-staging
 wl-clipboard
+wofi-hg
 xdg-desktop-portal-wlr
 xorg-server-xwayland
 xorg-xeyes
@@ -167,6 +180,7 @@ xorg-xhost
 xorg-xrandr
 xournalpp
 yarn
+yay
 yubioath-desktop
 zathura
 zsh
