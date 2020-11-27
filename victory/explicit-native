@@ -44,6 +44,7 @@ fzf
 gammastep
 git-crypt
 gnome-disk-utility
+gnome-settings-daemon
 go
 gparted
 graphviz

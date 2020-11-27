@@ -139,6 +139,7 @@ glibmm
 glslang
 glu
 gmp
+gnome-desktop
 gnome-keyring
 gnupg
 gnutls
@@ -398,6 +399,7 @@ libgphoto2
 libgtop
 libgudev
 libgusb
+libgweather
 libhandy
 libhangul
 libibus
