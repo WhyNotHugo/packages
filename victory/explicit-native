@@ -44,7 +44,6 @@ fzf
 gammastep
 git-crypt
 gnome-disk-utility
-gnome-settings-daemon
 go
 gparted
 graphviz
@@ -146,7 +145,6 @@ syncthing
 telegram-desktop
 terraform
 the_silver_searcher
-thunderbird
 tmux
 todoman
 torbrowser-launcher

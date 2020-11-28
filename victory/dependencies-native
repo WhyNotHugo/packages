@@ -32,7 +32,6 @@ blas
 bluez
 bluez-libs
 boost-libs
-botan
 breezy
 bridge-utils
 brotli
@@ -399,7 +398,6 @@ libgphoto2
 libgtop
 libgudev
 libgusb
-libgweather
 libhandy
 libhangul
 libibus
