@@ -2,7 +2,6 @@
 amazon-ecr-credential-helper
 aws-ecs-cli
 awslogs
-blueman-git
 browser-vacuum
 chromium-snapshot-bin
 docker-credential-secretservice
