@@ -22,7 +22,6 @@ attica
 attr
 audit
 autoconf
-autoconf-archive
 automake
 avahi
 bash
@@ -83,8 +82,6 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
-docbook-xml
-docbook-xsl
 docker
 dosfstools
 double-conversion
@@ -137,18 +134,15 @@ git
 gjs
 glib-networking
 glib2
-glib2-docs
 glibc
 glibmm
 glslang
 glu
 gmp
-gnome-common
 gnome-desktop
 gnome-keyring
 gnupg
 gnutls
-gobject-introspection
 gobject-introspection-runtime
 gpgme
 gpm
@@ -168,7 +162,6 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
-gtk-doc
 gtk-layer-shell
 gtk-update-icon-cache
 gtk-vnc
@@ -206,7 +199,6 @@ iproute2
 iptables
 iputils
 iso-codes
-itstool
 jack2
 jansson
 jasper
@@ -378,7 +370,6 @@ libcroco
 libcups
 libdaemon
 libdatrie
-libdazzle
 libdbusmenu-glib
 libdbusmenu-gtk3
 libdbusmenu-qt5
@@ -425,7 +416,6 @@ libindicator-gtk3
 libinput
 libixion
 libjpeg-turbo
-libjpeg6-turbo
 libksane
 libksba
 liblangtag
@@ -476,7 +466,6 @@ libpipewire02
 libplacebo
 libplist
 libpng
-libportal
 libproxy
 libpsl
 libpulse
@@ -588,12 +577,12 @@ lua52
 luajit
 lucene++
 lvm2
+lynx
 lz4
 lzo
 m4
 mailcap
 make
-mallard-ducktype
 mariadb-libs
 mate-desktop
 mathjax2
@@ -610,7 +599,6 @@ minizip
 mkinitcpio
 mkinitcpio-busybox
 mobile-broadband-provider-info
-mozilla-common
 mpfr
 mpg123
 msgpack-c
@@ -656,6 +644,7 @@ pango
 pangomm
 parted
 patch
+patchelf
 pciutils
 pcre
 pcre2
@@ -705,7 +694,6 @@ python
 python-aiohttp
 python-aiohttp-socks
 python-aiorpcx
-python-anytree
 python-apipkg
 python-appdirs
 python-argcomplete
@@ -799,13 +787,10 @@ python-langdetect
 python-language-server
 python-lazy-object-proxy
 python-lockfile
-python-lxml
 python-mako
-python-markdown
 python-markupsafe
 python-mccabe
 python-mistune
-python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -864,8 +849,6 @@ python-pyqtwebengine
 python-pyrsistent
 python-pyscard
 python-pysocks
-python-pytest
-python-pytest-runner
 python-pytz
 python-pyudev
 python-pyusb
@@ -876,7 +859,6 @@ python-qrcode
 python-qtawesome
 python-qtconsole
 python-qtpy
-python-re-assert
 python-regex
 python-rencode
 python-requests
@@ -929,7 +911,6 @@ python-watchdog
 python-wcwidth
 python-webencodings
 python-websocket-client
-python-wheel
 python-wrapt
 python-wurlitzer
 python-yaml
@@ -988,6 +969,7 @@ ruby-kramdown-parser-gfm
 ruby-liquid
 ruby-listen
 ruby-mercenary
+ruby-minitest
 ruby-mocha
 ruby-pathutil
 ruby-public_suffix
@@ -1118,8 +1100,6 @@ xvidcore
 xxhash
 xz
 yajl
-yelp-tools
-yelp-xsl
 youtube-dl
 yubico-c
 yubico-c-client

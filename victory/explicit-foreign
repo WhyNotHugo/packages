@@ -31,7 +31,6 @@ pgformatter-git
 pkgbuild-introspection
 plymouth
 plymouth-theme-monoarch
-podman-compose-git
 popcorntime
 python-flake8-bugbear
 python-flake8-comprehensions

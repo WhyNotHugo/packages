@@ -22,7 +22,6 @@ earlyoom
 efibootmgr
 electrum
 encfs
-epiphany
 eslint
 expac
 fcitx
@@ -106,6 +105,7 @@ perl-image-exiftool
 pkgfile
 pkgstats
 podman
+podman-compose
 poedit
 polkit-gnome
 ponymix
