@@ -160,10 +160,10 @@ wine-staging
 wl-clipboard
 xdg-desktop-portal-gtk
 xdg-desktop-portal-wlr
-xorg-server-xwayland
 xorg-xeyes
 xorg-xhost
 xorg-xrandr
+xorg-xwayland
 xournalpp
 yarn
 yubioath-desktop
