@@ -416,7 +416,6 @@ libindicator-gtk3
 libinput
 libixion
 libjpeg-turbo
-libkeybinder3
 libksane
 libksba
 liblangtag
@@ -785,7 +784,6 @@ python-keyring
 python-langdetect
 python-language-server
 python-lazy-object-proxy
-python-levenshtein
 python-lockfile
 python-mako
 python-markupsafe
@@ -836,7 +834,6 @@ python-pycryptodomex
 python-pyflakes
 python-pygments
 python-pyhamcrest
-python-pyinotify
 python-pylev
 python-pylint
 python-pymediainfo
@@ -921,6 +918,7 @@ python-zope-interface
 python2
 qpdf
 qt5-base
+qt5-charts
 qt5-declarative
 qt5-graphicaleffects
 qt5-location
