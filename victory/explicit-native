@@ -122,6 +122,7 @@ python-pre-commit
 python-pynvim
 python-tox
 python-virtualenvwrapper
+python-wheel
 reflector
 remmina
 retroarch
