@@ -165,7 +165,6 @@ gstreamer
 gtk-layer-shell
 gtk-update-icon-cache
 gtk-vnc
-gtk2
 gtk3
 gtkmm3
 gtksourceview4
@@ -202,12 +201,9 @@ iso-codes
 jack2
 jansson
 jasper
-java-runtime-common
 jbig2dec
 jfsutils
 jq
-jre-openjdk
-jre-openjdk-headless
 js78
 json-c
 json-glib
@@ -416,6 +412,7 @@ libindicator-gtk3
 libinput
 libixion
 libjpeg-turbo
+libkeybinder3
 libksane
 libksba
 liblangtag
@@ -436,7 +433,6 @@ libmpdclient
 libmspub
 libmwaw
 libndp
-libnet
 libnetfilter_conntrack
 libnewt
 libnfnetlink
@@ -784,6 +780,7 @@ python-keyring
 python-langdetect
 python-language-server
 python-lazy-object-proxy
+python-levenshtein
 python-lockfile
 python-mako
 python-markupsafe
@@ -834,6 +831,7 @@ python-pycryptodomex
 python-pyflakes
 python-pygments
 python-pyhamcrest
+python-pyinotify
 python-pylev
 python-pylint
 python-pymediainfo

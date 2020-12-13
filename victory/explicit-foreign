@@ -20,7 +20,6 @@ libretro-fbneo-git
 mailspring-libre
 mako-git
 meta-group-base-devel
-minecraft-launcher
 ngrok
 nodejs-serverless
 notify-send.sh
@@ -41,11 +40,13 @@ pyupgrade
 qview
 razercommander
 starship
+swappy
 swift-bin
 sysconfig
 systemd-lock-handler
 tint-tetris
 ttf-twemoji
+ulauncher
 vue-cli
 waylock
 wdisplays-git
