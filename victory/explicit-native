@@ -162,6 +162,7 @@ xdg-desktop-portal-gtk
 xdg-desktop-portal-wlr
 xorg-xeyes
 xorg-xhost
+xorg-xkbcomp
 xorg-xrandr
 xorg-xwayland
 xournalpp
