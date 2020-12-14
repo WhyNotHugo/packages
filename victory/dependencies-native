@@ -915,6 +915,7 @@ qt5-x11extras
 qt5-xmlpatterns
 qt6-base
 qt6-declarative
+qt6-svg
 qt6-wayland
 raptor
 rasqal
