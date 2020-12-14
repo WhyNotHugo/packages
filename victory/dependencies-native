@@ -38,7 +38,6 @@ brotli
 btrfs-progs
 bubblewrap
 bzip2
-c-ares
 ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
@@ -87,7 +86,6 @@ dosfstools
 double-conversion
 e2fsprogs
 efivar
-electron
 elfutils
 enchant
 exempi
@@ -179,7 +177,6 @@ harfbuzz
 harfbuzz-icu
 hicolor-icon-theme
 hidapi
-http-parser
 hunspell
 hunspell-en_US
 hwids
@@ -217,29 +214,21 @@ jxrlib
 karchive
 kauth
 kbd
-kbookmarks
 kcodecs
-kcompletion
 kconfig
 kconfigwidgets
 kcoreaddons
 kcrash
 kdbusaddons
-kded
 keyutils
 kglobalaccel
 kguiaddons
 ki18n
 kiconthemes
-kio
 kitemviews
-kjobwidgets
 kmod
 knotifications
 krb5
-kservice
-ktextwidgets
-kwallet
 kwidgetsaddons
 kwindowsystem
 kxmlgui
@@ -392,7 +381,6 @@ libgee
 libglvnd
 libgnomekbd
 libgpg-error
-libgphoto2
 libgtop
 libgudev
 libgusb
@@ -405,7 +393,6 @@ libid3tag
 libidn
 libidn2
 libiec61883
-libieee1284
 libimagequant
 libimobiledevice
 libindicator-gtk3
@@ -413,7 +400,6 @@ libinput
 libixion
 libjpeg-turbo
 libkeybinder3
-libksane
 libksba
 liblangtag
 libldap
@@ -583,7 +569,6 @@ mathjax2
 mbedtls
 md4c
 mdadm
-media-player-info
 mingw-w64-binutils
 mingw-w64-crt
 mingw-w64-headers
@@ -601,7 +586,6 @@ mujs
 ncurses
 ndctl
 neon
-net-snmp
 netpbm
 nettle
 ninja
@@ -908,6 +892,7 @@ qt5-sensors
 qt5-speech
 qt5-svg
 qt5-tools
+qt5-wayland
 qt5-webchannel
 qt5-webengine
 qt5-webkit
@@ -968,7 +953,6 @@ ruby-zeitwerk
 rubygems
 run-parts
 runc
-sane
 sbc
 sdl2
 sdl2_ttf
@@ -983,8 +967,6 @@ slirp4netns
 slurp
 smbclient
 snappy
-solid
-sonnet
 sound-theme-freedesktop
 spdlog
 speex
@@ -1024,7 +1006,6 @@ unibilium
 unixodbc
 unrar
 unzip
-upower
 usbmuxd
 usbredir
 util-linux
@@ -1072,6 +1053,8 @@ xfsprogs
 xkeyboard-config
 xmlsec
 xorg-fonts-encodings
+xorg-server-common
+xorg-setxkbmap
 xorg-xprop
 xorg-xset
 xorgproto
