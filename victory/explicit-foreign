@@ -6,6 +6,7 @@ awslogs
 blueman-git
 browser-vacuum
 chromium-snapshot-bin
+darkman
 docker-credential-secretservice
 downgrade
 emoji-cli
