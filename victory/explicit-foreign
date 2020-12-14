@@ -1,5 +1,6 @@
 1password
 amazon-ecr-credential-helper
+automathemely
 aws-ecs-cli
 awslogs
 blueman-git
@@ -42,7 +43,6 @@ razercommander
 shotman
 starship
 swappy
-swift-bin
 sysconfig
 systemd-lock-handler
 tint-tetris

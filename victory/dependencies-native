@@ -661,6 +661,7 @@ python-argh
 python-argon2_cffi
 python-argparse
 python-asn1crypto
+python-astral
 python-astroid
 python-async-timeout
 python-atomicwrites
@@ -752,6 +753,8 @@ python-mako
 python-markupsafe
 python-mccabe
 python-mistune
+python-mock
+python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -771,6 +774,7 @@ python-pathspec
 python-pathtools
 python-patiencediff
 python-pbkdf2
+python-pbr
 python-pep517
 python-pexpect
 python-pickleshare
@@ -811,6 +815,7 @@ python-pyqtwebengine
 python-pyrsistent
 python-pyscard
 python-pysocks
+python-pytest
 python-pytz
 python-pyudev
 python-pyusb
@@ -879,7 +884,6 @@ python-yaml
 python-yarl
 python-zipp
 python-zope-interface
-python2
 qpdf
 qt5-base
 qt5-declarative
