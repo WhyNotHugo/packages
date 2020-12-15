@@ -241,8 +241,6 @@ ldb
 ldns
 less
 lib32-acl
-lib32-alsa-lib
-lib32-alsa-plugins
 lib32-attr
 lib32-bzip2
 lib32-curl
@@ -281,7 +279,6 @@ lib32-libpng
 lib32-libpsl
 lib32-libsm
 lib32-libssh2
-lib32-libtasn1
 lib32-libtiff
 lib32-libtirpc
 lib32-libunistring
@@ -300,26 +297,19 @@ lib32-libxml2
 lib32-libxrandr
 lib32-libxrender
 lib32-libxshmfence
-lib32-libxss
 lib32-libxxf86vm
 lib32-llvm-libs
 lib32-lm_sensors
 lib32-lz4
 lib32-mesa
 lib32-ncurses
-lib32-nspr
-lib32-nss
 lib32-openssl
-lib32-p11-kit
 lib32-pam
 lib32-pcre
 lib32-readline
 lib32-sdl2
-lib32-sqlite
 lib32-systemd
 lib32-util-linux
-lib32-vulkan-icd-loader
-lib32-vulkan-intel
 lib32-wayland
 lib32-xz
 lib32-zlib
@@ -552,7 +542,6 @@ llvm-libs
 lmdb
 logrotate
 lpsolve
-lsb-release
 lua
 lua52
 luajit
@@ -753,8 +742,6 @@ python-mako
 python-markupsafe
 python-mccabe
 python-mistune
-python-mock
-python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -774,7 +761,6 @@ python-pathspec
 python-pathtools
 python-patiencediff
 python-pbkdf2
-python-pbr
 python-pep517
 python-pexpect
 python-pickleshare
@@ -815,7 +801,6 @@ python-pyqtwebengine
 python-pyrsistent
 python-pyscard
 python-pysocks
-python-pytest
 python-pytz
 python-pyudev
 python-pyusb
@@ -949,7 +934,7 @@ ruby-reline
 ruby-rouge
 ruby-safe_yaml
 ruby-sassc
-ruby-terminal-table-1
+ruby-terminal-table
 ruby-thor
 ruby-tzinfo
 ruby-unicode-display_width
@@ -1024,7 +1009,6 @@ volume_key
 vte-common
 vte3
 vulkan-icd-loader
-vulkan-intel
 wavpack
 wayland
 wayland-protocols
@@ -1072,7 +1056,6 @@ yubico-c-client
 yubikey-manager
 yubikey-personalization
 zathura-pdf-poppler
-zenity
 zeromq
 zip
 zlib
