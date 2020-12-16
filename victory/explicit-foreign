@@ -8,6 +8,7 @@ browser-vacuum
 chromium-snapshot-bin
 darkman
 docker-credential-secretservice
+docker-rootless-bin
 downgrade
 emoji-cli
 eslint-plugin-vue
