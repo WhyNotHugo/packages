@@ -20,6 +20,7 @@ docker-compose
 dracut
 earlyoom
 efibootmgr
+efitools
 electrum
 encfs
 eslint
@@ -130,6 +131,7 @@ rsync
 ruby-homesick
 ruby-jekyll
 rustup
+sbsigntools
 scdoc
 seahorse
 solaar
