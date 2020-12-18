@@ -9,7 +9,7 @@ caffeine-ng-git
 chromium-snapshot-bin
 darkman
 docker-credential-secretservice
-docker-rootless-bin
+docker-rootless-extras-bin
 downgrade
 emoji-cli
 eslint-plugin-vue
