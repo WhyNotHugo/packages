@@ -5,6 +5,7 @@ aws-ecs-cli
 awslogs
 blueman-git
 browser-vacuum
+caffeine-ng-git
 chromium-snapshot-bin
 darkman
 docker-credential-secretservice

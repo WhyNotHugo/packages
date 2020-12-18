@@ -791,6 +791,7 @@ python-docutils
 python-dotenv
 python-ecdsa
 python-entrypoints
+python-ewmh
 python-fido2
 python-filelock
 python-future
@@ -954,10 +955,18 @@ python-webencodings
 python-websocket-client
 python-wrapt
 python-wurlitzer
+python-xlib
 python-yaml
 python-yarl
 python-zipp
 python-zope-interface
+python2
+python2-appdirs
+python2-ordered-set
+python2-packaging
+python2-pyparsing
+python2-setuptools
+python2-six
 qpdf
 qt5-base
 qt5-declarative
