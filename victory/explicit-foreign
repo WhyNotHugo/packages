@@ -39,7 +39,6 @@ python-flake8-import-order
 python-jedi-git
 python-reorder-python-imports
 pyupgrade
-qview
 razercommander
 shotman
 starship
