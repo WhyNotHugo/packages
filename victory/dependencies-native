@@ -407,6 +407,7 @@ libdatrie
 libdbusmenu-glib
 libdbusmenu-gtk3
 libdbusmenu-qt5
+libde265
 libdrm
 libdv
 libdvdnav
@@ -436,6 +437,7 @@ libgudev
 libgusb
 libhandy
 libhangul
+libheif
 libibus
 libical
 libice
@@ -447,6 +449,7 @@ libieee1284
 libimagequant
 libimobiledevice
 libindicator-gtk3
+libinih
 libinput
 libixion
 libjpeg-turbo
@@ -480,6 +483,7 @@ libnl
 libnm
 libnma
 libnotify
+libnsgif
 libnsl
 libnumbertext
 libodfgen
