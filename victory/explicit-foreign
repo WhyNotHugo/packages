@@ -1,6 +1,5 @@
 1password
 amazon-ecr-credential-helper
-automathemely
 aws-ecs-cli
 awslogs
 blueman-git
@@ -14,7 +13,6 @@ downgrade
 emoji-cli
 eslint-plugin-vue
 fswebcam
-grimshot
 gsettings-xsettings-schemas
 hunspell-pt-br
 insomnia-bin
@@ -41,7 +39,6 @@ pyupgrade
 razercommander
 shotman
 starship
-swappy
 sysconfig
 systemd-lock-handler
 tint-tetris
@@ -54,3 +51,4 @@ wev
 wf-recorder-git
 wofi-hg
 yay
+yofi

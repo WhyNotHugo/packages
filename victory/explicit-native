@@ -38,7 +38,6 @@ flatpak
 flatpak-builder
 foliate
 fortune-mod
-fuseiso
 fzf
 gammastep
 git-crypt
@@ -108,7 +107,6 @@ polkit-gnome
 ponymix
 powertop
 prettier
-pulseaudio-alsa
 pulseaudio-bluetooth
 pv
 python-black
@@ -163,11 +161,9 @@ xdg-desktop-portal-wlr
 xorg-xeyes
 xorg-xhost
 xorg-xkbcomp
-xorg-xrandr
 xorg-xwayland
 xournalpp
 yarn
-yubioath-desktop
 zathura
 zsh
 zsh-completions

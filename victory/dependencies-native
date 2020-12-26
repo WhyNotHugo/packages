@@ -7,7 +7,6 @@ adwaita-icon-theme
 alacritty
 alsa-card-profiles
 alsa-lib
-alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
 aom
@@ -45,7 +44,6 @@ cairo
 cairomm
 cantarell-fonts
 cblas
-ccid
 cdparanoia
 celt
 ceph-libs
@@ -683,7 +681,6 @@ patch
 pciutils
 pcre
 pcre2
-pcsclite
 perl
 perl-encode-locale
 perl-error
@@ -779,7 +776,6 @@ python-dotenv
 python-ecdsa
 python-entrypoints
 python-ewmh
-python-fido2
 python-filelock
 python-future
 python-geoip
@@ -790,8 +786,6 @@ python-helpdev
 python-html5lib
 python-humanize
 python-hyperlink
-python-hypothesis
-python-hypothesmith
 python-icalendar
 python-identify
 python-idna
@@ -815,10 +809,8 @@ python-jupyter_core
 python-keyring
 python-langdetect
 python-language-server
-python-lark-parser
 python-lazy-object-proxy
 python-levenshtein
-python-libcst
 python-lockfile
 python-mako
 python-markupsafe
@@ -877,17 +869,14 @@ python-pyls-spyder
 python-pymediainfo
 python-pynacl
 python-pyopenssl
-python-pyotherside
 python-pyparsing
 python-pyqt5
 python-pyqt5-sip
 python-pyqtwebengine
 python-pyrsistent
-python-pyscard
 python-pysocks
 python-pytz
 python-pyudev
-python-pyusb
 python-pyxdameraulevenshtein
 python-pyxdg
 python-pyzmq
@@ -939,7 +928,6 @@ python-traitlets
 python-twisted
 python-typed-ast
 python-typing_extensions
-python-typing_inspect
 python-tzlocal
 python-ujson
 python-urllib3
@@ -1135,6 +1123,7 @@ xorg-fonts-encodings
 xorg-server-common
 xorg-setxkbmap
 xorg-xprop
+xorg-xrandr
 xorg-xset
 xorgproto
 xvidcore
@@ -1142,10 +1131,6 @@ xxhash
 xz
 yajl
 youtube-dl
-yubico-c
-yubico-c-client
-yubikey-manager
-yubikey-personalization
 zathura-pdf-poppler
 zeromq
 zip
