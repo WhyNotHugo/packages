@@ -36,7 +36,6 @@ popcorntime
 python-flake8-bugbear
 python-flake8-comprehensions
 python-flake8-import-order
-python-jedi-git
 python-reorder-python-imports
 pyupgrade
 razercommander
