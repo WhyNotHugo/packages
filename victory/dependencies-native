@@ -816,6 +816,7 @@ python-mako
 python-markupsafe
 python-mccabe
 python-mistune
+python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -875,6 +876,7 @@ python-pyqt5-sip
 python-pyqtwebengine
 python-pyrsistent
 python-pysocks
+python-pytest
 python-pytz
 python-pyudev
 python-pyxdameraulevenshtein
@@ -906,6 +908,7 @@ python-snowballstemmer
 python-sortedcontainers
 python-sphinx
 python-sphinx-alabaster-theme
+python-sphinx_rtd_theme
 python-sphinxcontrib-applehelp
 python-sphinxcontrib-devhelp
 python-sphinxcontrib-htmlhelp
