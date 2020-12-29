@@ -1125,6 +1125,7 @@ xmlsec
 xorg-fonts-encodings
 xorg-server-common
 xorg-setxkbmap
+xorg-xkbcomp
 xorg-xprop
 xorg-xrandr
 xorg-xset
