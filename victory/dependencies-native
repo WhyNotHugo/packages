@@ -202,6 +202,7 @@ json-c
 json-glib
 jsoncpp
 jupyter
+jupyter-nbclient
 jupyter-nbconvert
 jupyter-nbformat
 jupyter-notebook
@@ -726,6 +727,7 @@ python-asn1crypto
 python-astral
 python-astroid
 python-async-timeout
+python-async_generator
 python-atomicwrites
 python-attrs
 python-automat
@@ -820,6 +822,7 @@ python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
+python-nest_asyncio
 python-nodeenv
 python-notify2
 python-numpy
