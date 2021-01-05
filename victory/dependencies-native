@@ -905,7 +905,6 @@ python-service-identity
 python-setproctitle
 python-setuptools
 python-shellingham
-python-sip
 python-six
 python-snowballstemmer
 python-sortedcontainers
