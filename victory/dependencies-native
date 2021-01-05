@@ -876,7 +876,6 @@ python-pyopenssl
 python-pyparsing
 python-pyqt5
 python-pyqt5-sip
-python-pyqtwebengine
 python-pyrsistent
 python-pysocks
 python-pytest
