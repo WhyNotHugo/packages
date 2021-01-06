@@ -208,6 +208,7 @@ jupyter-nbformat
 jupyter-notebook
 jupyter-widgetsnbextension
 jupyter_console
+jupyterlab_pygments
 jxrlib
 karchive
 kauth
@@ -421,6 +422,7 @@ libevent
 libexif
 libexttextcat
 libfbclient
+libfdk-aac
 libffi
 libfontenc
 libfreehand
@@ -701,6 +703,7 @@ pkgconf
 polkit
 polkit-qt5
 poppler
+poppler-data
 poppler-glib
 popt
 portaudio
@@ -876,6 +879,7 @@ python-pyopenssl
 python-pyparsing
 python-pyqt5
 python-pyqt5-sip
+python-pyqt5-webengine
 python-pyrsistent
 python-pysocks
 python-pytest
@@ -904,6 +908,7 @@ python-service-identity
 python-setproctitle
 python-setuptools
 python-shellingham
+python-sip4
 python-six
 python-snowballstemmer
 python-sortedcontainers
@@ -1019,6 +1024,7 @@ ruby-terminal-table
 ruby-thor
 ruby-tzinfo
 ruby-unicode-display_width
+ruby-unicode-display_width-1
 ruby-zeitwerk
 rubygems
 run-parts
