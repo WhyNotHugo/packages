@@ -23,6 +23,7 @@ meta-group-base-devel
 ngrok
 nodejs-serverless
 notify-send.sh
+nvm
 openrazer-meta-git
 otf-operator-mono-nerd
 pavucontrol-git
