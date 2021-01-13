@@ -26,6 +26,7 @@ notify-send.sh
 nvm
 openrazer-meta-git
 otf-operator-mono-nerd
+paru
 pavucontrol-git
 pgformatter-git
 pkgbuild-introspection
@@ -52,5 +53,4 @@ wdisplays-git
 wev
 wf-recorder-git
 wofi-hg
-yay
 yofi

@@ -24,6 +24,7 @@ autoconf
 automake
 avahi
 bash
+bat
 bc
 binutils
 bison
@@ -821,7 +822,6 @@ python-mako
 python-markupsafe
 python-mccabe
 python-mistune
-python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -882,7 +882,6 @@ python-pyqt5-sip
 python-pyqt5-webengine
 python-pyrsistent
 python-pysocks
-python-pytest
 python-pytz
 python-pyudev
 python-pyxdameraulevenshtein
@@ -908,13 +907,11 @@ python-service-identity
 python-setproctitle
 python-setuptools
 python-shellingham
-python-sip4
 python-six
 python-snowballstemmer
 python-sortedcontainers
 python-sphinx
 python-sphinx-alabaster-theme
-python-sphinx_rtd_theme
 python-sphinxcontrib-applehelp
 python-sphinxcontrib-devhelp
 python-sphinxcontrib-htmlhelp
@@ -1023,7 +1020,6 @@ ruby-sassc
 ruby-terminal-table
 ruby-thor
 ruby-tzinfo
-ruby-unicode-display_width
 ruby-unicode-display_width-1
 ruby-zeitwerk
 rubygems
