@@ -20,6 +20,7 @@ atkmm
 attica
 attr
 audit
+augeas
 autoconf
 automake
 avahi
@@ -644,6 +645,7 @@ ncurses
 ndctl
 neon
 net-snmp
+netcf
 netpbm
 nettle
 ninja
