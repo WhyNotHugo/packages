@@ -905,6 +905,7 @@ python-send2trash
 python-service-identity
 python-setproctitle
 python-setuptools
+python-setuptools-scm
 python-shellingham
 python-six
 python-snowballstemmer

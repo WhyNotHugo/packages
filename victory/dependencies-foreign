@@ -5,7 +5,6 @@ openrazer-driver-dkms-git
 python-aspy-refactor-imports
 python-asttokens
 python-openrazer-git
-python-pulse-control
 python-tokenize-rt
 python-txdbus
 ttf-ms-fonts
