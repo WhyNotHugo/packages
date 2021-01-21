@@ -122,6 +122,7 @@ python-virtualenvwrapper
 python-wheel
 reflector
 remmina
+restic
 retroarch
 retroarch-assets-xmb
 rsync
