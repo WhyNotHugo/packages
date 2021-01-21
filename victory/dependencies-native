@@ -902,6 +902,8 @@ python-requests-toolbelt
 python-resolvelib
 python-retrying
 python-rsa
+python-ruamel-yaml
+python-ruamel.yaml.clib
 python-s3transfer
 python-secretstorage
 python-send2trash
