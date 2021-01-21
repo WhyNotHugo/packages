@@ -395,6 +395,7 @@ libcanberra
 libcanberra-pulse
 libcap
 libcap-ng
+libcbor
 libcddb
 libcdio
 libcdio-paranoia
@@ -426,6 +427,7 @@ libexttextcat
 libfbclient
 libfdk-aac
 libffi
+libfido2
 libfontenc
 libfreehand
 libgcrypt
