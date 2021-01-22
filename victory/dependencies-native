@@ -1011,6 +1011,7 @@ ruby-json
 ruby-kramdown
 ruby-kramdown-parser-gfm
 ruby-liquid
+ruby-liquid-4
 ruby-listen
 ruby-mercenary
 ruby-minitest
