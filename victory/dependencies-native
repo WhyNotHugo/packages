@@ -1026,6 +1026,7 @@ ruby-rouge
 ruby-safe_yaml
 ruby-sassc
 ruby-terminal-table
+ruby-terminal-table-2
 ruby-thor
 ruby-tzinfo
 ruby-unicode-display_width-1
