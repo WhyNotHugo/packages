@@ -33,6 +33,7 @@ bison
 blas
 bluez
 bluez-libs
+boost
 boost-libs
 breezy
 bridge-utils
@@ -103,6 +104,7 @@ flac
 flex
 fmt
 fontconfig
+freeglut
 freeimage
 freetype2
 fribidi
@@ -162,6 +164,7 @@ gstreamer
 gtk-layer-shell
 gtk-update-icon-cache
 gtk-vnc
+gtk2
 gtk3
 gtkmm3
 gtksourceview4
@@ -615,6 +618,7 @@ lmdb
 logrotate
 lpsolve
 lua
+lua51
 lua52
 luajit
 lucene++
@@ -1076,6 +1080,7 @@ tevent
 texinfo
 texlive-bin
 thin-provisioning-tools
+tinyxml
 tinyxml2
 tor
 tracker3
@@ -1114,6 +1119,7 @@ woff2
 wpa_supplicant
 wpebackend-fdo
 wxgtk-common
+wxgtk2
 wxgtk3
 x264
 x265
