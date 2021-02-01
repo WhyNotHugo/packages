@@ -20,7 +20,6 @@ kernel-modules-hook
 libretro-fbneo
 mako-git
 meta-group-base-devel
-ngrok
 nodejs-serverless
 notify-send.sh
 nvm
