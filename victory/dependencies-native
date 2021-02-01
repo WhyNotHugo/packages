@@ -58,6 +58,7 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
+cmake
 cogl
 colord
 compiler-rt
@@ -142,6 +143,7 @@ gnome-keyring
 gnupg
 gnutls
 gobject-introspection-runtime
+gperf
 gpgme
 gpm
 gptfdisk
@@ -474,6 +476,7 @@ libmm-glib
 libmms
 libmnl
 libmodplug
+libmpack
 libmpc
 libmpdclient
 libmspub
@@ -555,6 +558,7 @@ liburing
 libusb
 libusbmuxd
 libutempter
+libutf8proc
 libuv
 libva
 libvdpau
@@ -616,6 +620,9 @@ lmdb
 logrotate
 lpsolve
 lua
+lua51
+lua51-lpeg
+lua51-mpack
 lua52
 luajit
 lucene++
@@ -991,6 +998,7 @@ recode
 redland
 reiserfsprogs
 rest
+rhash
 rpmextract
 rtkit
 rubberband
@@ -1081,6 +1089,7 @@ tinyxml
 tinyxml2
 tor
 tracker3
+tree-sitter
 tslib
 ttf-liberation
 twolame
