@@ -38,6 +38,7 @@ bluez
 bluez-libs
 boost
 boost-libs
+box2d
 breezy
 bridge-utils
 brotli
@@ -778,6 +779,7 @@ python-commonmark
 python-configobj
 python-constantly
 python-contextlib2
+python-crashtest
 python-cryptography
 python-daemonize
 python-dateutil
@@ -831,6 +833,7 @@ python-jupyter_core
 python-keyring
 python-langdetect
 python-language-server
+python-lark-parser
 python-lazy-object-proxy
 python-levenshtein
 python-lockfile
@@ -865,6 +868,7 @@ python-pillow
 python-pkginfo
 python-pluggy
 python-ply
+python-poetry-core
 python-progress
 python-progressbar
 python-prometheus_client
