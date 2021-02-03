@@ -43,6 +43,7 @@ starship
 sway-launcher-desktop
 sysconfig
 systemd-lock-handler
+ticker
 tint-tetris
 ttf-twemoji
 ulauncher
