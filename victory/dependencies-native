@@ -11,6 +11,9 @@ alsa-topology-conf
 alsa-ucm-conf
 aom
 appstream-glib
+apr
+apr-util
+arch-install-scripts
 archlinux-keyring
 argon2
 asp
@@ -638,6 +641,7 @@ mathjax2
 mbedtls
 md4c
 mdadm
+mercurial
 mingw-w64-binutils
 mingw-w64-crt
 mingw-w64-headers
@@ -1049,6 +1053,7 @@ sbc
 sdl2
 sed
 semver
+serf
 shaderc
 shadow
 shared-mime-info
@@ -1070,6 +1075,7 @@ squashfs-tools
 srt
 startup-notification
 strace
+subversion
 sudo
 swaybg
 sysfsutils

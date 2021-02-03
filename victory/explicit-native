@@ -16,6 +16,7 @@ dbus-broker
 dconf-editor
 ddcutil
 deluge-gtk
+devtools
 docker-compose
 dracut
 earlyoom
