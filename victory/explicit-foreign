@@ -9,6 +9,7 @@ darkman
 docker-credential-secretservice
 docker-rootless-extras-bin
 downgrade
+drm_info-git
 emoji-cli
 eslint-plugin-vue
 fswebcam
@@ -40,6 +41,7 @@ pyupgrade
 razercommander
 shotman
 starship
+swappy
 sway-launcher-desktop
 sysconfig
 systemd-lock-handler
