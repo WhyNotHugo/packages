@@ -58,6 +58,7 @@ imv
 inotify-tools
 intel-ucode
 ipython
+jedi-language-server
 kexec-tools
 khal
 kruler
@@ -113,7 +114,6 @@ pulseaudio-bluetooth
 pv
 python-black
 python-ipdb
-python-jedi
 python-pip
 python-pipenv
 python-poetry

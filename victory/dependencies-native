@@ -842,6 +842,7 @@ python-intervaltree
 python-ipykernel
 python-ipywidgets
 python-isort
+python-jedi
 python-jeepney
 python-jellyfish
 python-jinja
@@ -907,6 +908,7 @@ python-pycparser
 python-pycryptodome
 python-pycryptodomex
 python-pyflakes
+python-pygls
 python-pygments
 python-pyhamcrest
 python-pyinotify
