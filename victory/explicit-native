@@ -4,6 +4,7 @@ astyle
 aws-cli
 aws-vault
 base
+bash-language-server
 bashtop
 bind
 bluez-utils
@@ -130,6 +131,7 @@ retroarch-assets-xmb
 rsync
 ruby-homesick
 ruby-jekyll
+rust-analyzer
 rustup
 sbsigntools
 scdoc
