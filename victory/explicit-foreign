@@ -22,6 +22,7 @@ mako-git
 meta-group-base-devel
 neovim-git
 nodejs-serverless
+nodejs-vls
 notify-send.sh
 nvm
 openrazer-meta-git
