@@ -429,6 +429,7 @@ libelf
 libepoxy
 libepubgen
 libetonyek
+libev
 libevdev
 libevent
 libexif
@@ -835,6 +836,7 @@ python-hyperlink
 python-icalendar
 python-identify
 python-idna
+python-ifaddr
 python-imagesize
 python-importlib-metadata
 python-incremental
@@ -859,6 +861,7 @@ python-language-server
 python-lark-parser
 python-lazy-object-proxy
 python-levenshtein
+python-libarchive-c
 python-lockfile
 python-mako
 python-markupsafe
@@ -868,6 +871,7 @@ python-msgpack
 python-multidict
 python-mypy_extensions
 python-nest_asyncio
+python-netifaces
 python-nodeenv
 python-notify2
 python-numpy
@@ -997,8 +1001,16 @@ python-wurlitzer
 python-xlib
 python-yaml
 python-yarl
+python-zeroconf
 python-zipp
 python-zope-interface
+python2
+python2-appdirs
+python2-ordered-set
+python2-packaging
+python2-pyparsing
+python2-setuptools
+python2-six
 qpdf
 qt5-base
 qt5-declarative

@@ -2,8 +2,11 @@ gconf
 grimshot
 openrazer-daemon-git
 openrazer-driver-dkms-git
+owlink-git
 python-aspy-refactor-imports
 python-asttokens
+python-ctypescrypto
+python-fleep
 python-openrazer-git
 python-tokenize-rt
 python-txdbus
