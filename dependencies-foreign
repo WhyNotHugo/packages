@@ -1,10 +1,10 @@
 gconf
+grimshot
 openrazer-daemon-git
 openrazer-driver-dkms-git
 python-aspy-refactor-imports
 python-asttokens
 python-openrazer-git
-python-schedule
 python-tokenize-rt
 python-txdbus
 ttf-ms-fonts
