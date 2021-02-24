@@ -114,6 +114,7 @@ powertop
 prettier
 pulseaudio-bluetooth
 pv
+pyenv
 python-black
 python-ipdb
 python-pip
