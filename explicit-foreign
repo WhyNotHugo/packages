@@ -45,6 +45,7 @@ starship
 sway-launcher-desktop
 sysconfig
 systemd-lock-handler
+terraform-ls
 ticker
 tint-tetris
 ttf-twemoji
