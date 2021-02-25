@@ -49,6 +49,7 @@ gnome-disk-utility
 go
 gparted
 graphviz
+gst-plugin-pipewire
 guvcview
 hey
 htop
@@ -114,7 +115,6 @@ powertop
 prettier
 pulseaudio-bluetooth
 pv
-pyenv
 python-black
 python-ipdb
 python-pip
