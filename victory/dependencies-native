@@ -242,7 +242,6 @@ krb5
 kwidgetsaddons
 kwindowsystem
 kxmlgui
-kyotocabinet
 l-smash
 lame
 lapack
@@ -449,7 +448,6 @@ libgtop
 libgudev
 libgusb
 libhandy
-libhangul
 libheif
 libibus
 libical
@@ -512,7 +510,6 @@ libpaper
 libpcap
 libpciaccess
 libpgm
-libpinyin
 libpipeline
 libpipewire02
 libplacebo
