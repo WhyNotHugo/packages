@@ -43,7 +43,6 @@ python-reorder-python-imports
 pyupgrade
 razercommander
 shotman
-starship
 sway-launcher-desktop
 sysconfig
 systemd-lock-handler
