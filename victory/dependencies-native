@@ -26,6 +26,7 @@ attr
 audit
 augeas
 autoconf
+autoconf-archive
 automake
 avahi
 bash
@@ -86,6 +87,8 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
+docbook-xml
+docbook-xsl
 docker
 dosfstools
 double-conversion
@@ -137,15 +140,18 @@ git
 gjs
 glib-networking
 glib2
+glib2-docs
 glibc
 glibmm
 glslang
 glu
 gmp
+gnome-common
 gnome-desktop
 gnome-keyring
 gnupg
 gnutls
+gobject-introspection
 gobject-introspection-runtime
 gperf
 gpgme
@@ -166,6 +172,7 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
+gtk-doc
 gtk-layer-shell
 gtk-update-icon-cache
 gtk-vnc
@@ -183,6 +190,7 @@ harfbuzz
 harfbuzz-icu
 hicolor-icon-theme
 hidapi
+http-parser
 hunspell
 hunspell-en_US
 hwids
@@ -202,6 +210,7 @@ iproute2
 iptables
 iputils
 iso-codes
+itstool
 jack2
 jansson
 jasper
@@ -432,6 +441,7 @@ libfontenc
 libfreehand
 libgcrypt
 libgee
+libgit2
 libglvnd
 libgnomekbd
 libgpg-error
@@ -628,6 +638,7 @@ lzo
 m4
 mailcap
 make
+mallard-ducktype
 mariadb-libs
 mate-desktop
 mbedtls
@@ -724,6 +735,7 @@ perl-xml-parser
 phodav
 pinentry
 pipewire
+pipewire-media-session
 pixman
 pkcs11-helper
 pkgconf
@@ -746,6 +758,7 @@ python
 python-aiohttp
 python-aiohttp-socks
 python-aiorpcx
+python-anytree
 python-apipkg
 python-appdirs
 python-argcomplete
@@ -828,7 +841,9 @@ python-langdetect
 python-lark-parser
 python-levenshtein
 python-lockfile
+python-lxml
 python-mako
+python-markdown
 python-markupsafe
 python-mccabe
 python-more-itertools
@@ -1133,6 +1148,8 @@ xvidcore
 xxhash
 xz
 yajl
+yelp-tools
+yelp-xsl
 youtube-dl
 zathura-pdf-poppler
 zeromq
