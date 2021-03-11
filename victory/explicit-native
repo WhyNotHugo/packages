@@ -111,6 +111,7 @@ prettier
 pulseaudio-bluetooth
 pv
 python-black
+python-docstring-to-markdown
 python-ipdb
 python-pip
 python-pipenv
