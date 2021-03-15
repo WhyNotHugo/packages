@@ -393,6 +393,7 @@ libasyncns
 libatasmart
 libatomic_ops
 libavc1394
+libavif
 libb2
 libblockdev
 libbluray
@@ -614,6 +615,7 @@ libxtst
 libxv
 libxxf86vm
 libyaml
+libyuv
 libzen
 libzip
 libzmf
@@ -1061,6 +1063,7 @@ startup-notification
 strace
 subversion
 sudo
+svt-av1
 swaybg
 sysfsutils
 systemd
