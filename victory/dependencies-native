@@ -139,6 +139,7 @@ girara
 git
 gjs
 glib-networking
+glib-perl
 glib2
 glib2-docs
 glibc
@@ -708,6 +709,8 @@ patch
 pciutils
 pcre
 pcre2
+pcsc-perl
+pcsclite
 perl
 perl-clone
 perl-encode-locale
