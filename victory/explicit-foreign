@@ -18,6 +18,7 @@ insomnia-bin
 kernel-modules-hook
 kime
 libretro-fbneo
+lua-format
 mako-git
 meta-group-base-devel
 neovim-git

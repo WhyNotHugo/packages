@@ -9,6 +9,7 @@ alsa-card-profiles
 alsa-lib
 alsa-topology-conf
 alsa-ucm-conf
+antlr4-runtime
 aom
 appstream-glib
 apr
@@ -1154,6 +1155,7 @@ xvidcore
 xxhash
 xz
 yajl
+yaml-cpp
 yelp-tools
 yelp-xsl
 youtube-dl
