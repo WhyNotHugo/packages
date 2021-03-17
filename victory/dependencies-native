@@ -829,6 +829,8 @@ python-greenlet
 python-html5lib
 python-humanize
 python-hyperlink
+python-hypothesis
+python-hypothesmith
 python-icalendar
 python-identify
 python-idna
@@ -846,6 +848,7 @@ python-keyring
 python-langdetect
 python-lark-parser
 python-levenshtein
+python-libcst
 python-lockfile
 python-lxml
 python-mako
@@ -930,6 +933,7 @@ python-setuptools-scm
 python-shellingham
 python-six
 python-snowballstemmer
+python-sortedcontainers
 python-sphinx
 python-sphinx-alabaster-theme
 python-sphinx_rtd_theme
@@ -949,6 +953,7 @@ python-traitlets
 python-twisted
 python-typed-ast
 python-typing_extensions
+python-typing_inspect
 python-tzlocal
 python-urllib3
 python-urwid
