@@ -895,6 +895,7 @@ python-pycodestyle
 python-pycparser
 python-pycryptodome
 python-pycryptodomex
+python-pydantic
 python-pyflakes
 python-pygls
 python-pygments
@@ -952,6 +953,7 @@ python-tomlkit
 python-traitlets
 python-twisted
 python-typed-ast
+python-typeguard
 python-typing_extensions
 python-typing_inspect
 python-tzlocal
