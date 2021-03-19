@@ -1,5 +1,5 @@
 amazon-ecr-credential-helper
-aws-ecs-cli
+aws-session-manager-plugin
 awslogs
 blueman-git
 browser-vacuum
