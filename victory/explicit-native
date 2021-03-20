@@ -7,9 +7,7 @@ base
 bash-language-server
 bashtop
 bind
-bluez-libs
 bluez-utils
-ca-certificates-mozilla
 checkbashisms
 chromium
 clang
@@ -66,7 +64,6 @@ kruler
 kubectl
 libfaketime
 libreoffice-fresh
-libssh2
 light
 linux
 linux-firmware
@@ -147,7 +144,6 @@ swappy
 sway
 swayidle
 swaylock
-systemd
 terraform
 the_silver_searcher
 tmux
