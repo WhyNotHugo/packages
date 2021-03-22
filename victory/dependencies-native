@@ -875,6 +875,7 @@ python-secretstorage
 python-service-identity
 python-setproctitle
 python-setuptools
+python-setuptools-scm
 python-shellingham
 python-six
 python-stevedore
