@@ -55,6 +55,7 @@ hunspell-nl
 imv
 inotify-tools
 intel-ucode
+iptraf-ng
 ipython
 jedi-language-server
 kexec-tools
@@ -85,6 +86,7 @@ mypy
 nemo
 nemo-fileroller
 neofetch
+nethogs
 network-manager-applet
 networkmanager
 networkmanager-openvpn
