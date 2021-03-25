@@ -182,6 +182,7 @@ hicolor-icon-theme
 hidapi
 http-parser
 hunspell
+hunspell-en_us
 hwids
 hwloc
 hyphen
@@ -963,6 +964,7 @@ ruby-rb-fsevent
 ruby-rb-inotify
 ruby-rdoc
 ruby-reline
+ruby-rexml
 ruby-rouge
 ruby-safe_yaml
 ruby-sassc
