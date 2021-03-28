@@ -61,7 +61,6 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
-cmake
 cogl
 colord
 compiler-rt
@@ -146,7 +145,6 @@ gnome-keyring
 gnupg
 gnutls
 gobject-introspection-runtime
-gperf
 gpgme
 gpm
 gptfdisk
@@ -479,7 +477,6 @@ libmm-glib
 libmms
 libmnl
 libmodplug
-libmpack
 libmpc
 libmpdclient
 libmspub
@@ -565,7 +562,6 @@ libva
 libvdpau
 libvisio
 libvisual
-libvncserver
 libvorbis
 libvpx
 libvterm
@@ -619,9 +615,6 @@ lmdb
 logrotate
 lpsolve
 lua
-lua51
-lua51-lpeg
-lua51-mpack
 lua52
 luajit
 lucene++
@@ -836,7 +829,6 @@ python-markdown
 python-markupsafe
 python-mccabe
 python-mistune
-python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -885,7 +877,6 @@ python-pydantic
 python-pyflakes
 python-pygls
 python-pygments
-python-pyhamcrest
 python-pyinotify
 python-pylev
 python-pylint
@@ -900,7 +891,6 @@ python-pyqt5-sip
 python-pyqt5-webengine
 python-pyrsistent
 python-pysocks
-python-pytest
 python-pytz
 python-pyudev
 python-pyxdameraulevenshtein
@@ -925,7 +915,6 @@ python-send2trash
 python-service-identity
 python-setproctitle
 python-setuptools
-python-setuptools-scm
 python-shellingham
 python-six
 python-snowballstemmer
@@ -1004,7 +993,6 @@ recode
 redland
 reiserfsprogs
 rest
-rhash
 rpmextract
 rtkit
 rubberband
