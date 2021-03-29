@@ -1051,6 +1051,7 @@ sdl2
 sed
 semver
 serf
+setconf
 shaderc
 shadow
 shared-mime-info
