@@ -84,6 +84,8 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
+docbook-xml
+docbook-xsl
 docker
 dosfstools
 double-conversion
@@ -134,6 +136,7 @@ git
 glib-networking
 glib-perl
 glib2
+glib2-docs
 glibc
 glibmm
 glslang
@@ -143,6 +146,7 @@ gnome-desktop
 gnome-keyring
 gnupg
 gnutls
+gobject-introspection
 gobject-introspection-runtime
 gpgme
 gpm
@@ -162,6 +166,7 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
+gtk-doc
 gtk-layer-shell
 gtk-update-icon-cache
 gtk3
@@ -522,6 +527,7 @@ librevenge
 librsvg
 libsamplerate
 libsasl
+libsass
 libseccomp
 libsecp256k1
 libsecret
@@ -726,6 +732,7 @@ python-abydos
 python-aiohttp
 python-aiohttp-socks
 python-aiorpcx
+python-anytree
 python-apipkg
 python-appdirs
 python-argcomplete
@@ -823,6 +830,7 @@ python-lark-parser
 python-lazy-object-proxy
 python-levenshtein
 python-lockfile
+python-lxml
 python-mako
 python-markdown
 python-markupsafe
@@ -1037,6 +1045,7 @@ run-parts
 runc
 samba
 sane
+sassc
 sbc
 sdl2
 sed
