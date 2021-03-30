@@ -500,6 +500,7 @@ libnsl
 libnumbertext
 libodfgen
 libogg
+libolm
 libomxil-bellagio
 libopenaptx
 liborcus
@@ -729,6 +730,7 @@ pulseaudio
 pyside6
 python
 python-abydos
+python-aiofiles
 python-aiohttp
 python-aiohttp-socks
 python-aiorpcx
@@ -756,6 +758,7 @@ python-boto3
 python-botocore
 python-cachecontrol
 python-cached-property
+python-cachetools
 python-cachy
 python-cairo
 python-certifi
@@ -798,9 +801,13 @@ python-geoip
 python-gobject
 python-gpgme
 python-greenlet
+python-h11
+python-h2
 python-helpdev
+python-hpack
 python-html5lib
 python-humanize
+python-hyperframe
 python-hyperlink
 python-icalendar
 python-identify
@@ -830,10 +837,12 @@ python-lark-parser
 python-lazy-object-proxy
 python-levenshtein
 python-lockfile
+python-logbook
 python-lxml
 python-mako
 python-markdown
 python-markupsafe
+python-matrix-nio
 python-mccabe
 python-mistune
 python-msgpack
@@ -845,6 +854,7 @@ python-notify2
 python-numpy
 python-numpydoc
 python-oauthlib
+python-olm
 python-ordered-set
 python-packaging
 python-pandocfilters
@@ -856,6 +866,7 @@ python-pathspec
 python-pathtools
 python-patiencediff
 python-pbkdf2
+python-peewee
 python-pep517
 python-pexpect
 python-pickleshare
@@ -953,6 +964,7 @@ python-typeguard
 python-typing_extensions
 python-tzlocal
 python-ujson
+python-unpaddedbase64
 python-urllib3
 python-urwid
 python-utils
@@ -960,6 +972,7 @@ python-virtualenv
 python-virtualenv-clone
 python-watchdog
 python-wcwidth
+python-webcolors
 python-webencodings
 python-websocket-client
 python-wrapt
@@ -1118,6 +1131,7 @@ wayland
 wayland-protocols
 webkit2gtk
 webrtc-audio-processing
+weechat
 which
 wlroots
 woff2
