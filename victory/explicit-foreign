@@ -19,6 +19,7 @@ libretro-fbneo
 lua-format
 mako-git
 meta-group-base-devel
+meta-neovim
 neovim-git
 nodejs-serverless
 nodejs-vls
