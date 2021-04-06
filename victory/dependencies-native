@@ -27,6 +27,7 @@ attr
 audit
 autoconf
 automake
+autopep8
 avahi
 bash
 bat
@@ -61,6 +62,7 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
+cmake
 cogl
 colord
 compiler-rt
@@ -145,6 +147,7 @@ gnupg
 gnutls
 gobject-introspection-runtime
 gopls
+gperf
 gpgme
 gpm
 gptfdisk
@@ -193,6 +196,7 @@ iniparser
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
+intltool
 iproute2
 iptables
 iputils
@@ -477,6 +481,7 @@ libmm-glib
 libmms
 libmnl
 libmodplug
+libmpack
 libmpc
 libmpdclient
 libmspub
@@ -616,10 +621,14 @@ lmdb
 logrotate
 lpsolve
 lua
+lua51
+lua51-lpeg
+lua51-mpack
 lua52
 luajit
 lucene++
 lvm2
+lynx
 lz4
 lzo
 m4
@@ -693,15 +702,31 @@ pcre2
 pcsc-perl
 pcsclite
 perl
+perl-clone
 perl-encode-locale
 perl-error
 perl-file-basedir
 perl-file-desktopentry
+perl-file-listing
+perl-html-parser
+perl-html-tagset
+perl-http-cookies
+perl-http-daemon
+perl-http-date
+perl-http-message
+perl-http-negotiate
+perl-io-html
 perl-ipc-system-simple
+perl-libwww
+perl-lwp-mediatypes
 perl-mailtools
+perl-net-http
 perl-parse-yapp
 perl-timedate
+perl-try-tiny
 perl-uri
+perl-www-robotrules
+perl-xml-parser
 pinentry
 pipewire
 pipewire-media-session
@@ -735,6 +760,7 @@ python-argcomplete
 python-argh
 python-argon2_cffi
 python-argparse
+python-arrow
 python-astral
 python-astroid
 python-async-timeout
@@ -746,6 +772,7 @@ python-babel
 python-backcall
 python-bcrypt
 python-beaker
+python-binaryornot
 python-bitstring
 python-bleach
 python-boto3
@@ -770,6 +797,7 @@ python-commonmark
 python-configobj
 python-constantly
 python-contextlib2
+python-cookiecutter
 python-crashtest
 python-cryptography
 python-daemonize
@@ -809,6 +837,7 @@ python-idna
 python-imagesize
 python-importlib-metadata
 python-incremental
+python-inflection
 python-iniconfig
 python-intervaltree
 python-ipykernel
@@ -818,6 +847,7 @@ python-jedi
 python-jeepney
 python-jellyfish
 python-jinja
+python-jinja-time
 python-jmespath
 python-jsonrpc-server
 python-jsonrpclib-pelix
@@ -868,6 +898,7 @@ python-pkginfo
 python-pluggy
 python-ply
 python-poetry-core
+python-poyo
 python-progress
 python-progressbar
 python-prometheus_client
@@ -885,6 +916,7 @@ python-pycparser
 python-pycryptodome
 python-pycryptodomex
 python-pydantic
+python-pydocstyle
 python-pyflakes
 python-pygls
 python-pygments
@@ -909,6 +941,7 @@ python-pyxdg
 python-pyzmq
 python-qdarkstyle
 python-qrcode
+python-qstylizer
 python-qtawesome
 python-qtconsole
 python-qtpy
@@ -919,6 +952,7 @@ python-requests-oauthlib
 python-requests-toolbelt
 python-resolvelib
 python-retrying
+python-rope
 python-rsa
 python-s3transfer
 python-secretstorage
@@ -928,6 +962,7 @@ python-setproctitle
 python-setuptools
 python-shellingham
 python-six
+python-slugify
 python-snowballstemmer
 python-sortedcontainers
 python-sphinx
@@ -944,9 +979,11 @@ python-tabulate
 python-termcolor
 python-terminado
 python-testpath
+python-text-unidecode
 python-textdistance
 python-texttable
 python-three-merge
+python-tinycss
 python-toml
 python-tomlkit
 python-tornado
@@ -968,6 +1005,7 @@ python-wcwidth
 python-webcolors
 python-webencodings
 python-websocket-client
+python-whichcraft
 python-wrapt
 python-wurlitzer
 python-xlib
@@ -1006,6 +1044,7 @@ recode
 redland
 reiserfsprogs
 rest
+rhash
 rpmextract
 rtkit
 rubberband
@@ -1161,6 +1200,7 @@ xvidcore
 xxhash
 xz
 yaml-cpp
+yapf
 youtube-dl
 zathura-pdf-poppler
 zeromq
