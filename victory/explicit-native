@@ -166,6 +166,7 @@ wine-staging
 wl-clipboard
 xdg-desktop-portal-gtk
 xdg-desktop-portal-wlr
+xorg-server-xvfb
 xorg-xeyes
 xorg-xhost
 xorg-xwayland
