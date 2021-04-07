@@ -40,6 +40,7 @@ python-flake8-comprehensions
 python-flake8-import-order
 python-pulsectl
 python-reorder-python-imports
+python-tox-poetry
 pyupgrade
 razercommander
 shotman
