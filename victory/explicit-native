@@ -173,6 +173,7 @@ xorg-xhost
 xorg-xwayland
 xournalpp
 yarn
+yubikey-touch-detector
 zathura
 zsh
 zsh-completions
