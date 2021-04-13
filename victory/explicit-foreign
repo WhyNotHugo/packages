@@ -45,6 +45,7 @@ python-reorder-python-imports
 python-tox-poetry
 pyupgrade
 razercommander
+rootlesskit
 shotman
 sway-launcher-desktop
 sysconfig
