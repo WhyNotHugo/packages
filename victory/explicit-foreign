@@ -5,7 +5,7 @@ blueman-git
 browser-vacuum
 caffeine-ng-git
 docker-credential-secretservice
-docker-rootless-extras-bin
+docker-rootless-extras
 downgrade
 drm_info-git
 emoji-cli
@@ -43,6 +43,7 @@ python-reorder-python-imports
 python-tox-poetry
 pyupgrade
 razercommander
+rootlesskit
 shotman
 sysconfig
 systemd-lock-handler
