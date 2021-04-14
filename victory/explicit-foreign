@@ -4,8 +4,6 @@ awslogs
 blueman-git
 browser-vacuum
 caffeine-ng-git
-darkman
-ddcci-driver-linux-dkms
 docker-credential-secretservice
 docker-rootless-extras-bin
 downgrade
@@ -45,9 +43,7 @@ python-reorder-python-imports
 python-tox-poetry
 pyupgrade
 razercommander
-rootlesskit
 shotman
-sway-launcher-desktop
 sysconfig
 systemd-lock-handler
 terraform-ls

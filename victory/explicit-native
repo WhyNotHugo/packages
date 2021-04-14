@@ -14,6 +14,7 @@ clang
 ctags
 cups
 d-feet
+darkman
 dbus-broker
 dconf-editor
 ddcutil
@@ -143,6 +144,7 @@ starship
 subdownloader
 swappy
 sway
+sway-launcher-desktop
 swayidle
 swaylock
 terraform
