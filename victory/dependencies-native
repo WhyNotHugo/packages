@@ -673,7 +673,6 @@ openexr
 openjpeg2
 openmpi
 openssl
-openvpn
 opus
 orc
 ostree
@@ -707,7 +706,6 @@ pinentry
 pipewire
 pipewire-media-session
 pixman
-pkcs11-helper
 pkgconf
 polkit
 polkit-qt5
@@ -801,8 +799,6 @@ python-helpdev
 python-html5lib
 python-humanize
 python-hyperlink
-python-hypothesis
-python-hypothesmith
 python-icalendar
 python-identify
 python-idna
@@ -832,7 +828,6 @@ python-language-server
 python-lark-parser
 python-lazy-object-proxy
 python-levenshtein
-python-libcst
 python-lockfile
 python-mako
 python-markdown
@@ -960,7 +955,6 @@ python-twisted
 python-typed-ast
 python-typeguard
 python-typing_extensions
-python-typing_inspect
 python-tzlocal
 python-ujson
 python-urllib3
