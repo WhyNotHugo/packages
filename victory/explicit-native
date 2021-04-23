@@ -38,6 +38,7 @@ flatpak-builder
 fortune-mod
 fzf
 gammastep
+geckodriver
 git-crypt
 git-lfs
 gnome-disk-utility
