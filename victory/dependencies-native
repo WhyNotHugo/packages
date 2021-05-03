@@ -62,6 +62,7 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
+cmake
 cogl
 colord
 compiler-rt
@@ -72,6 +73,7 @@ cracklib
 cryptsetup
 cups-filters
 curl
+cython
 dav1d
 db
 dbus
@@ -146,6 +148,7 @@ gnupg
 gnutls
 gobject-introspection-runtime
 gopls
+gperf
 gpgme
 gpm
 gptfdisk
@@ -195,6 +198,7 @@ iniparser
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
+intltool
 iproute2
 iptables
 iputils
@@ -479,6 +483,7 @@ libmm-glib
 libmms
 libmnl
 libmodplug
+libmpack
 libmpc
 libmpdclient
 libmspub
@@ -617,6 +622,9 @@ lmdb
 logrotate
 lpsolve
 lua
+lua51
+lua51-lpeg
+lua51-mpack
 lua52
 luajit
 lucene++
@@ -655,10 +663,8 @@ netpbm
 nettle
 ninja
 nm-connection-editor
-node-gyp
 nodejs
 notification-daemon
-npm
 npth
 nspr
 nss
@@ -694,15 +700,31 @@ pcre2
 pcsc-perl
 pcsclite
 perl
+perl-clone
 perl-encode-locale
 perl-error
 perl-file-basedir
 perl-file-desktopentry
+perl-file-listing
+perl-html-parser
+perl-html-tagset
+perl-http-cookies
+perl-http-daemon
+perl-http-date
+perl-http-message
+perl-http-negotiate
+perl-io-html
 perl-ipc-system-simple
+perl-libwww
+perl-lwp-mediatypes
 perl-mailtools
+perl-net-http
 perl-parse-yapp
 perl-timedate
+perl-try-tiny
 perl-uri
+perl-www-robotrules
+perl-xml-parser
 pinentry
 pipewire
 pipewire-media-session
@@ -780,6 +802,7 @@ python-defusedxml
 python-diff-match-patch
 python-distlib
 python-distro
+python-distutils-extra
 python-dnspython
 python-docker
 python-docker-pycreds
@@ -924,6 +947,7 @@ python-send2trash
 python-service-identity
 python-setproctitle
 python-setuptools
+python-setuptools-scm
 python-shellingham
 python-six
 python-slugify
@@ -1006,6 +1030,7 @@ recode
 redland
 reiserfsprogs
 rest
+rhash
 rpmextract
 rtkit
 rubberband
@@ -1053,7 +1078,6 @@ sane
 sbc
 sdl2
 sed
-semver
 serf
 shaderc
 shadow

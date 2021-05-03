@@ -4,6 +4,7 @@ awslogs
 blueman-git
 browser-vacuum
 caffeine-ng-git
+darkman
 docker-credential-secretservice
 docker-rootless-extras
 downgrade
@@ -12,7 +13,6 @@ emoji-cli
 eslint-plugin-vue
 fswebcam
 gitlab-glab
-heroku-cli
 hunspell-pt-br
 insomnia-bin
 kernel-modules-hook
@@ -23,7 +23,6 @@ mako-git
 meta-group-base-devel
 meta-neovim
 neovim-git
-nodejs-serverless
 nodejs-vls
 notify-send.sh
 nvm
@@ -46,6 +45,7 @@ pyupgrade
 razercommander
 rootlesskit
 shotman
+sway-launcher-desktop
 sysconfig
 systemd-lock-handler
 terraform-ls
