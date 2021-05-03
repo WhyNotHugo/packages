@@ -104,6 +104,7 @@ paprefs
 pcsc-tools
 perl-file-mimeinfo
 perl-image-exiftool
+pipewire-pulse
 pkgfile
 pkgstats
 poedit
@@ -111,7 +112,6 @@ polkit-gnome
 ponymix
 powertop
 prettier
-pulseaudio-bluetooth
 pv
 python-black
 python-docstring-to-markdown
