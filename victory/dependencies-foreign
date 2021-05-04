@@ -1,5 +1,10 @@
+darkman
+docker-credential-secretservice
+docker-rootless-extras
 gconf
 grimshot
+lua-language-server
+neovim-git
 openrazer-daemon-git
 openrazer-driver-dkms-git
 python-aspy-refactor-imports
@@ -7,4 +12,12 @@ python-asttokens
 python-openrazer-git
 python-tokenize-rt
 python-txdbus
+rootlesskit
+sway-launcher-desktop
+systemd-lock-handler
+terraform-ls
 ttf-ms-fonts
+typescript-language-server
+wdisplays-git
+wev
+wf-recorder-git

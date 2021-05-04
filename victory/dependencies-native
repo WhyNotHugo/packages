@@ -29,7 +29,10 @@ autoconf
 automake
 autopep8
 avahi
+aws-cli
+aws-vault
 bash
+bash-language-server
 bat
 bc
 binutils
@@ -87,6 +90,7 @@ dkms
 dmraid
 dnssec-anchors
 docker
+docker-compose
 dosfstools
 double-conversion
 e2fsprogs
@@ -115,6 +119,7 @@ fuse-common
 fuse-overlayfs
 fuse2
 fuse3
+gammastep
 gawk
 gc
 gcab
@@ -133,6 +138,7 @@ ghostscript
 giflib
 girara
 git
+git-crypt
 glib-networking
 glib-perl
 glib2
@@ -204,6 +210,7 @@ jack2
 jansson
 jasper
 jbig2dec
+jedi-language-server
 jfsutils
 jq
 js78
@@ -231,6 +238,7 @@ kdbusaddons
 keyutils
 kglobalaccel
 kguiaddons
+khal
 ki18n
 kiconthemes
 kitemviews
@@ -654,6 +662,8 @@ neon
 net-snmp
 netpbm
 nettle
+network-manager-applet
+networkmanager
 ninja
 nm-connection-editor
 nodejs
@@ -672,6 +682,7 @@ opencore-amr
 openexr
 openjpeg2
 openmpi
+openssh
 openssl
 opus
 orc
@@ -717,6 +728,7 @@ portaudio
 portmidi
 postgresql-libs
 potrace
+prettier
 procps-ng
 protobuf
 psmisc
@@ -831,6 +843,7 @@ python-lockfile
 python-mako
 python-markdown
 python-markupsafe
+python-matplotlib-inline
 python-mccabe
 python-mistune
 python-msgpack
@@ -857,6 +870,7 @@ python-pep517
 python-pexpect
 python-pickleshare
 python-pillow
+python-pip
 python-pkginfo
 python-pluggy
 python-ply
@@ -965,6 +979,7 @@ python-watchdog
 python-wcwidth
 python-webencodings
 python-websocket-client
+python-wheel
 python-whichcraft
 python-wrapt
 python-wurlitzer
@@ -1075,6 +1090,7 @@ strace
 subversion
 sudo
 svt-av1
+sway
 swaybg
 sysfsutils
 systemd
@@ -1085,11 +1101,14 @@ taglib
 talloc
 tar
 tdb
+terraform
 tevent
 texinfo
 texlive-bin
+the_silver_searcher
 thin-provisioning-tools
 tinyxml2
+todoman
 tor
 tree-sitter
 tslib
@@ -1108,17 +1127,20 @@ util-linux
 util-linux-libs
 v4l-utils
 vamp-plugin-sdk
+vdirsyncer
 vid.stab
 vkd3d
 vmaf
 volume_key
 vulkan-icd-loader
 wavpack
+waybar
 wayland
 wayland-protocols
+waylock
 webkit2gtk
-webrtc-audio-processing
 which
+wl-clipboard
 wlroots
 woff2
 wpa_supplicant
@@ -1139,6 +1161,8 @@ xcb-util-renderutil
 xcb-util-wm
 xdg-dbus-proxy
 xdg-desktop-portal
+xdg-desktop-portal-gtk
+xdg-desktop-portal-wlr
 xdg-user-dirs
 xdg-utils
 xfsprogs
@@ -1152,6 +1176,7 @@ xorg-xkbcomp
 xorg-xprop
 xorg-xrandr
 xorg-xset
+xorg-xwayland
 xorgproto
 xvidcore
 xxhash
@@ -1166,5 +1191,9 @@ zip
 zita-alsa-pcmi
 zita-resampler
 zlib
+zsh
+zsh-completions
+zsh-doc
+zsh-syntax-highlighting
 zstd
 zziplib
