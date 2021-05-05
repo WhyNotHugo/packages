@@ -95,6 +95,7 @@ dosfstools
 double-conversion
 e2fsprogs
 efivar
+efm-langserver
 elfutils
 enchant
 exempi
