@@ -147,6 +147,7 @@ glibc
 glibmm
 glslang
 glu
+gmime3
 gmp
 gnome-desktop
 gnome-keyring
@@ -669,6 +670,8 @@ ninja
 nm-connection-editor
 nodejs
 notification-daemon
+notmuch
+notmuch-runtime
 npth
 nspr
 nss
@@ -1150,6 +1153,7 @@ wxgtk-common
 wxgtk3
 x264
 x265
+xapian-core
 xapp
 xautomation
 xcb-proto
