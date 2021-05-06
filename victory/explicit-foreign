@@ -32,6 +32,7 @@ pkgbuild-introspection
 popcorntime
 python-flake8-bugbear
 python-flake8-comprehensions
+python-flake8-efm
 python-flake8-import-order
 python-pulsectl
 python-reorder-python-imports
