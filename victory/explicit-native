@@ -122,6 +122,7 @@ rustup
 sbsigntools
 scdoc
 seahorse
+shfmt
 solaar
 speedtest-cli
 spyder
