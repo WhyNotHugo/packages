@@ -17,6 +17,7 @@ apr-util
 arch-install-scripts
 archlinux-keyring
 argon2
+asciidoc
 asp
 at-spi2-atk
 at-spi2-core
@@ -31,6 +32,7 @@ autopep8
 avahi
 aws-cli
 aws-vault
+base
 bash
 bash-language-server
 bat
@@ -73,6 +75,7 @@ coreutils
 cpio
 cracklib
 cryptsetup
+cups
 cups-filters
 curl
 cython
@@ -89,6 +92,8 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
+docbook-xml
+docbook-xsl
 docker
 docker-compose
 dosfstools
@@ -98,8 +103,10 @@ efivar
 efm-langserver
 elfutils
 enchant
+eslint
 exempi
 expat
+fakechroot
 fakeroot
 faudio
 ffmpeg
@@ -120,6 +127,7 @@ fuse-common
 fuse-overlayfs
 fuse2
 fuse3
+fzf
 gammastep
 gawk
 gc
@@ -621,7 +629,10 @@ libzen
 libzip
 libzmf
 licenses
+linux
 linux-api-headers
+linux-firmware
+linux-headers
 llvm
 llvm-libs
 lmdb
@@ -697,6 +708,7 @@ pacman-contrib
 pacman-mirrorlist
 pahole
 pam
+pam-u2f
 pambase
 pango
 pangomm
@@ -799,6 +811,7 @@ python-docker
 python-docker-pycreds
 python-dockerpty
 python-docopt
+python-docstring-to-markdown
 python-docutils
 python-dotenv
 python-ecdsa
@@ -880,6 +893,7 @@ python-pluggy
 python-ply
 python-poetry-core
 python-poyo
+python-pre-commit
 python-progress
 python-progressbar
 python-prometheus_client
@@ -1089,6 +1103,7 @@ spirv-tools
 sqlite
 squashfs-tools
 srt
+starship
 startup-notification
 strace
 subversion
@@ -1096,6 +1111,8 @@ sudo
 svt-av1
 sway
 swaybg
+swayidle
+swaylock
 sysfsutils
 systemd
 systemd-libs
@@ -1177,6 +1194,8 @@ xorg-fonts-encodings
 xorg-server-common
 xorg-setxkbmap
 xorg-xauth
+xorg-xeyes
+xorg-xhost
 xorg-xkbcomp
 xorg-xprop
 xorg-xrandr

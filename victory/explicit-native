@@ -2,7 +2,6 @@ aerc
 arc-gtk-theme
 arc-icon-theme
 astyle
-base
 bashtop
 bind
 bluez-utils
@@ -10,7 +9,6 @@ checkbashisms
 chromium
 clang
 ctags
-cups
 d-feet
 dbus-broker
 dconf-editor
@@ -23,7 +21,6 @@ efibootmgr
 efitools
 electrum
 encfs
-eslint
 expac
 figlet
 firefox
@@ -32,7 +29,6 @@ flake8
 flatpak
 flatpak-builder
 fortune-mod
-fzf
 geckodriver
 git-lfs
 gnome-disk-utility
@@ -59,9 +55,6 @@ kubectl
 libfaketime
 libreoffice-fresh
 light
-linux
-linux-firmware
-linux-headers
 lm_sensors
 lostfiles
 lsd
@@ -88,7 +81,6 @@ openbsd-netcat
 openethereum
 otf-font-awesome
 p7zip
-pam-u2f
 pantheon-camera
 paprefs
 pcsc-tools
@@ -103,11 +95,9 @@ ponymix
 powertop
 pv
 python-black
-python-docstring-to-markdown
 python-ipdb
 python-pipenv
 python-poetry
-python-pre-commit
 python-pynvim
 python-tox
 python-virtualenvwrapper
@@ -127,11 +117,8 @@ solaar
 speedtest-cli
 spyder
 sshfs
-starship
 subdownloader
 swappy
-swayidle
-swaylock
 tmux
 torbrowser-launcher
 trash-cli
@@ -143,8 +130,6 @@ wine-gecko
 wine-mono
 wine-staging
 xorg-server-xvfb
-xorg-xeyes
-xorg-xhost
 xournalpp
 yarn
 yubikey-touch-detector
