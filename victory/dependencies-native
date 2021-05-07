@@ -67,6 +67,7 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
+cmake
 cogl
 colord
 compiler-rt
@@ -163,6 +164,7 @@ gnupg
 gnutls
 gobject-introspection-runtime
 gopls
+gperf
 gpgme
 gpm
 gptfdisk
@@ -498,6 +500,7 @@ libmm-glib
 libmms
 libmnl
 libmodplug
+libmpack
 libmpc
 libmpdclient
 libmspub
@@ -639,6 +642,9 @@ lmdb
 logrotate
 lpsolve
 lua
+lua51
+lua51-lpeg
+lua51-mpack
 lua52
 luajit
 lucene++
@@ -679,10 +685,12 @@ network-manager-applet
 networkmanager
 ninja
 nm-connection-editor
+node-gyp
 nodejs
 notification-daemon
 notmuch
 notmuch-runtime
+npm
 npth
 nspr
 nss
@@ -1037,6 +1045,7 @@ recode
 redland
 reiserfsprogs
 rest
+rhash
 rpmextract
 rtkit
 rubberband
@@ -1084,6 +1093,7 @@ sane
 sbc
 sdl2
 sed
+semver
 serf
 shaderc
 shadow
