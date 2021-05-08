@@ -17,7 +17,6 @@ apr-util
 arch-install-scripts
 archlinux-keyring
 argon2
-asciidoc
 asp
 at-spi2-atk
 at-spi2-core
@@ -67,7 +66,6 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
-cmake
 cogl
 colord
 compiler-rt
@@ -93,8 +91,6 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
-docbook-xml
-docbook-xsl
 docker
 docker-compose
 dosfstools
@@ -107,7 +103,6 @@ enchant
 eslint
 exempi
 expat
-fakechroot
 fakeroot
 faudio
 ffmpeg
@@ -164,7 +159,6 @@ gnupg
 gnutls
 gobject-introspection-runtime
 gopls
-gperf
 gpgme
 gpm
 gptfdisk
@@ -500,7 +494,6 @@ libmm-glib
 libmms
 libmnl
 libmodplug
-libmpack
 libmpc
 libmpdclient
 libmspub
@@ -642,9 +635,6 @@ lmdb
 logrotate
 lpsolve
 lua
-lua51
-lua51-lpeg
-lua51-mpack
 lua52
 luajit
 lucene++
@@ -1045,7 +1035,6 @@ recode
 redland
 reiserfsprogs
 rest
-rhash
 rpmextract
 rtkit
 rubberband
