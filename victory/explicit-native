@@ -111,6 +111,7 @@ rustup
 sbsigntools
 scdoc
 seahorse
+shellcheck
 shfmt
 solaar
 speedtest-cli
