@@ -1,9 +1,11 @@
 amazon-ecr-credential-helper
 aws-session-manager-plugin
 awslogs
+blueman-git
 darkman
 docker-credential-secretservice
 docker-rootless-extras
+downgrade
 drm_info-git
 emoji-cli
 eslint-plugin-vue
@@ -12,6 +14,7 @@ grimshot
 insomnia-bin
 kernel-modules-hook
 lua-language-server
+mako-git
 meta-group-base-devel
 neovim-git
 nodejs-vls
@@ -19,9 +22,11 @@ nvm
 openrazer-daemon-git
 openrazer-driver-dkms-git
 openrazer-meta-git
+otf-operator-mono-nerd
 paru
 pavucontrol-git
 pkgbuild-introspection
+ponymix
 python-aspy-refactor-imports
 python-asttokens
 python-flake8-bugbear
@@ -29,6 +34,7 @@ python-flake8-comprehensions
 python-flake8-efm
 python-flake8-import-order
 python-openrazer-git
+python-pulsectl
 python-reorder-python-imports
 python-tokenize-rt
 python-tox-poetry

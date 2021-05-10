@@ -158,6 +158,7 @@ gnome-desktop
 gnome-keyring
 gnupg
 gnutls
+go
 gobject-introspection-runtime
 gopls
 gpgme
@@ -684,6 +685,7 @@ mbedtls
 md4c
 mdadm
 mercurial
+mesa
 mingw-w64-binutils
 mingw-w64-crt
 mingw-w64-headers
@@ -700,6 +702,8 @@ mtdev
 mujs
 ncurses
 ndctl
+nemo
+nemo-fileroller
 neon
 net-snmp
 netpbm
@@ -713,6 +717,8 @@ nodejs
 notification-daemon
 notmuch
 notmuch-runtime
+noto-fonts
+noto-fonts-cjk
 npm
 npth
 nspr
@@ -733,6 +739,7 @@ openssl
 opus
 orc
 ostree
+otf-font-awesome
 p11-kit
 pacman
 pacman-contrib
@@ -755,6 +762,8 @@ perl-encode-locale
 perl-error
 perl-file-basedir
 perl-file-desktopentry
+perl-file-mimeinfo
+perl-image-exiftool
 perl-ipc-system-simple
 perl-mailtools
 perl-parse-yapp
@@ -765,6 +774,7 @@ pipewire
 pipewire-media-session
 pixman
 pkgconf
+pkgfile
 polkit
 polkit-qt5
 poppler
@@ -805,6 +815,7 @@ python-bcrypt
 python-beaker
 python-binaryornot
 python-bitstring
+python-black
 python-bleach
 python-boto3
 python-botocore
@@ -867,6 +878,7 @@ python-incremental
 python-inflection
 python-iniconfig
 python-intervaltree
+python-ipdb
 python-ipykernel
 python-ipywidgets
 python-isort
@@ -919,6 +931,7 @@ python-pexpect
 python-pickleshare
 python-pillow
 python-pip
+python-pipenv
 python-pkginfo
 python-pluggy
 python-ply
@@ -1068,7 +1081,9 @@ recode
 redland
 reiserfsprogs
 rest
+restic
 rpmextract
+rsync
 rtkit
 rubberband
 ruby
@@ -1110,10 +1125,13 @@ ruby-zeitwerk
 rubygems
 run-parts
 runc
+rust-analyzer
+rustup
 samba
 sane
 sbc
 sdl2
+seahorse
 sed
 semver
 serf
@@ -1127,6 +1145,7 @@ slurp
 smbclient
 snappy
 sndio
+solaar
 sound-theme-freedesktop
 spdlog
 speex
@@ -1166,6 +1185,8 @@ tor
 tree-sitter
 tslib
 ttf-liberation
+ttf-opensans
+ttf-ubuntu-font-family
 twolame
 typescript
 tzdata
@@ -1176,6 +1197,7 @@ unixodbc
 unrar
 unzip
 usbmuxd
+usbutils
 util-linux
 util-linux-libs
 v4l-utils
