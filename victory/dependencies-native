@@ -774,7 +774,6 @@ pipewire
 pipewire-media-session
 pixman
 pkgconf
-pkgfile
 polkit
 polkit-qt5
 poppler
