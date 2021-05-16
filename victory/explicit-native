@@ -45,6 +45,7 @@ hunspell-en_gb
 hunspell-es_ar
 hunspell-nl
 imv
+inetutils
 inotify-tools
 intel-ucode
 iptraf-ng
@@ -79,6 +80,7 @@ pantheon-camera
 paprefs
 pcsc-tools
 pipewire-pulse
+pkgfile
 pkgstats
 poedit
 polkit-gnome
