@@ -47,7 +47,6 @@ sway-launcher-desktop
 systemd-lock-handler
 terraform-ls
 tor-browser
-ttf-ms-fonts
 ttf-twemoji
 typescript-language-server
 vue-cli
