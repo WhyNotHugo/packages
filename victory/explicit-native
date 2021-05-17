@@ -30,6 +30,7 @@ flake8
 flatpak
 flatpak-builder
 fortune-mod
+fwupd
 geckodriver
 git-lfs
 gnome-disk-utility
@@ -94,6 +95,7 @@ reflector
 retroarch
 retroarch-assets-xmb
 ruby-jekyll
+sbctl
 sbsigntools
 scdoc
 shellcheck

@@ -69,6 +69,7 @@ clutter-gtk
 cogl
 colord
 compiler-rt
+confuse
 containerd
 coreutils
 cpio
@@ -113,6 +114,7 @@ file-roller
 filesystem
 findutils
 flac
+flashrom
 flex
 fmt
 fontconfig
@@ -123,6 +125,7 @@ fuse-common
 fuse-overlayfs
 fuse2
 fuse3
+fwupd-efi
 fzf
 gammastep
 gawk
@@ -484,6 +487,7 @@ libffi
 libfido2
 libfontenc
 libfreehand
+libftdi
 libgcrypt
 libgee
 libgit2
@@ -510,6 +514,7 @@ libindicator-gtk3
 libinih
 libinput
 libixion
+libjcat
 libjpeg-turbo
 libkeybinder3
 libksba
@@ -582,6 +587,7 @@ libsigc++
 libsigsegv
 libslirp
 libsm
+libsmbios
 libsndfile
 libsodium
 libsoup
@@ -605,6 +611,7 @@ libunistring
 libunwind
 liburing
 libusb
+libusb-compat
 libusbmuxd
 libutempter
 libutf8proc
@@ -642,6 +649,7 @@ libxkbcommon-x11
 libxkbfile
 libxklavier
 libxml2
+libxmlb
 libxmu
 libxpm
 libxrandr
@@ -1041,7 +1049,6 @@ python-wcwidth
 python-webencodings
 python-websocket-client
 python-wheel
-python-whichcraft
 python-wrapt
 python-wurlitzer
 python-xlib
@@ -1181,6 +1188,7 @@ thin-provisioning-tools
 tinyxml2
 todoman
 tor
+tpm2-tss
 tree-sitter
 tslib
 ttf-liberation
