@@ -22,6 +22,7 @@ earlyoom
 efibootmgr
 efitools
 electrum
+elementary-icon-theme
 encfs
 expac
 figlet
@@ -79,6 +80,7 @@ openbsd-netcat
 openethereum
 p7zip
 pantheon-camera
+papirus-icon-theme
 paprefs
 pcsc-tools
 pipewire-pulse
