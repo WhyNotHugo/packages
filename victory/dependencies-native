@@ -906,7 +906,9 @@ python-language-server
 python-lark-parser
 python-lazy-object-proxy
 python-levenshtein
+python-libarchive-c
 python-lockfile
+python-magic
 python-mako
 python-markdown
 python-markupsafe
@@ -1029,6 +1031,7 @@ python-textdistance
 python-texttable
 python-three-merge
 python-tinycss
+python-tlsh
 python-toml
 python-tomlkit
 python-tornado
