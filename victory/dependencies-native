@@ -283,7 +283,6 @@ kdbusaddons
 keyutils
 kglobalaccel
 kguiaddons
-khal
 ki18n
 kiconthemes
 kitemviews
@@ -868,6 +867,7 @@ python-ecdsa
 python-entrypoints
 python-ewmh
 python-filelock
+python-freezegun
 python-future
 python-geoip
 python-gobject
@@ -916,6 +916,7 @@ python-markupsafe
 python-matplotlib-inline
 python-mccabe
 python-mistune
+python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -982,6 +983,7 @@ python-pyqt5-sip
 python-pyqt5-webengine
 python-pyrsistent
 python-pysocks
+python-pytest
 python-pytz
 python-pyudev
 python-pyxdameraulevenshtein
@@ -1008,6 +1010,7 @@ python-send2trash
 python-service-identity
 python-setproctitle
 python-setuptools
+python-setuptools-scm
 python-shellingham
 python-six
 python-slugify
@@ -1019,6 +1022,7 @@ python-sphinxcontrib-applehelp
 python-sphinxcontrib-devhelp
 python-sphinxcontrib-htmlhelp
 python-sphinxcontrib-jsmath
+python-sphinxcontrib-newsfeed
 python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
 python-spyder-kernels
