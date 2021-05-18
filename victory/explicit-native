@@ -1,6 +1,5 @@
 aerc
 arc-gtk-theme
-arc-icon-theme
 arch-repro-status
 astyle
 bashtop
@@ -22,7 +21,6 @@ earlyoom
 efibootmgr
 efitools
 electrum
-elementary-icon-theme
 encfs
 expac
 figlet

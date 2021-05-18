@@ -14,6 +14,7 @@ aom
 appstream-glib
 apr
 apr-util
+arc-icon-theme
 arch-install-scripts
 archlinux-keyring
 argon2
@@ -99,6 +100,7 @@ double-conversion
 e2fsprogs
 efivar
 efm-langserver
+elementary-icon-theme
 elfutils
 enchant
 eslint
