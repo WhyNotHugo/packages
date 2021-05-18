@@ -97,6 +97,7 @@ docker
 docker-compose
 dosfstools
 double-conversion
+dtc
 e2fsprogs
 efivar
 efm-langserver
@@ -449,6 +450,7 @@ libbluray
 libbsd
 libbytesize
 libcaca
+libcacard
 libcanberra
 libcanberra-pulse
 libcap
@@ -540,6 +542,7 @@ libndp
 libnetfilter_conntrack
 libnewt
 libnfnetlink
+libnfs
 libnftnl
 libnghttp2
 libnl
@@ -617,6 +620,7 @@ libutf8proc
 libuv
 libva
 libvdpau
+libvirt
 libvisio
 libvisual
 libvorbis
@@ -732,6 +736,7 @@ nspr
 nss
 nss-mdns
 ntfs-3g
+numactl
 oath-toolkit
 ocaml
 ocl-icd
@@ -1064,6 +1069,7 @@ python-yaml
 python-yarl
 python-zipp
 python-zope-interface
+qemu-headless
 qpdf
 qt5-base
 qt5-declarative
@@ -1136,6 +1142,7 @@ ruby-terminal-table-2
 ruby-tzinfo
 ruby-unicode-display_width-1
 ruby-zeitwerk
+ruby2.7
 rubygems
 run-parts
 runc
@@ -1144,6 +1151,7 @@ rustup
 samba
 sbc
 sdl2
+seabios
 seahorse
 sed
 semver
@@ -1163,6 +1171,7 @@ sound-theme-freedesktop
 spdlog
 speex
 speexdsp
+spice
 spirv-tools
 sqlite
 squashfs-tools
@@ -1211,11 +1220,13 @@ unixodbc
 unrar
 unzip
 usbmuxd
+usbredir
 usbutils
 util-linux
 util-linux-libs
 v4l-utils
 vamp-plugin-sdk
+vde2
 vdirsyncer
 vid.stab
 vkd3d
@@ -1273,6 +1284,7 @@ xorgproto
 xvidcore
 xxhash
 xz
+yajl
 yaml-cpp
 yapf
 youtube-dl
