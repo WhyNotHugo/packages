@@ -496,7 +496,6 @@ libgit2
 libglvnd
 libgnomekbd
 libgpg-error
-libgphoto2
 libgtop
 libgudev
 libgusb
@@ -509,7 +508,6 @@ libid3tag
 libidn
 libidn2
 libiec61883
-libieee1284
 libimagequant
 libimobiledevice
 libindicator-gtk3
@@ -678,6 +676,7 @@ llvm-libs
 lmdb
 logrotate
 lpsolve
+lsd
 lua
 lua52
 luajit
@@ -715,7 +714,6 @@ ndctl
 nemo
 nemo-fileroller
 neon
-net-snmp
 netpbm
 nettle
 network-manager-applet
@@ -733,6 +731,7 @@ npm
 npth
 nspr
 nss
+nss-mdns
 ntfs-3g
 oath-toolkit
 ocaml
@@ -1139,7 +1138,6 @@ runc
 rust-analyzer
 rustup
 samba
-sane
 sbc
 sdl2
 seahorse
