@@ -611,6 +611,7 @@ libtool
 libtorrent-rasterbar
 libunistring
 libunwind
+liburcu
 liburing
 libusb
 libusb-compat
@@ -712,6 +713,7 @@ mpg123
 msgpack-c
 mtdev
 mujs
+multipath-tools
 ncurses
 ndctl
 nemo
