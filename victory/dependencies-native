@@ -854,6 +854,7 @@ python-configobj
 python-constantly
 python-contextlib2
 python-cookiecutter
+python-coverage
 python-crashtest
 python-cryptography
 python-daemonize
@@ -885,6 +886,7 @@ python-helpdev
 python-html5lib
 python-humanize
 python-hyperlink
+python-hypothesis
 python-icalendar
 python-identify
 python-idna
@@ -992,6 +994,8 @@ python-pyqt5-webengine
 python-pyrsistent
 python-pysocks
 python-pytest
+python-pytest-cov
+python-pytest-runner
 python-pytz
 python-pyudev
 python-pyxdameraulevenshtein
@@ -1205,7 +1209,6 @@ texlive-bin
 the_silver_searcher
 thin-provisioning-tools
 tinyxml2
-todoman
 tor
 tpm2-tss
 tree-sitter
