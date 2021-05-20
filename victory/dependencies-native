@@ -574,6 +574,7 @@ libpulse
 libpwquality
 libqxp
 libraqm
+libratbag
 libraw
 libraw1394
 libretro-core-info
@@ -874,6 +875,7 @@ python-docutils
 python-dotenv
 python-ecdsa
 python-entrypoints
+python-evdev
 python-ewmh
 python-filelock
 python-freezegun
@@ -919,6 +921,7 @@ python-lazy-object-proxy
 python-levenshtein
 python-libarchive-c
 python-lockfile
+python-lxml
 python-magic
 python-mako
 python-markdown
