@@ -18,6 +18,7 @@ arc-icon-theme
 arch-install-scripts
 archlinux-keyring
 argon2
+asciidoc
 asp
 at-spi2-atk
 at-spi2-core
@@ -93,6 +94,8 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
+docbook-xml
+docbook-xsl
 docker
 docker-compose
 dosfstools
