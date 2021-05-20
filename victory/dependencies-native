@@ -47,6 +47,7 @@ boost-libs
 box2d
 breezy
 bridge-utils
+brltty
 brotli
 btrfs-progs
 bubblewrap
@@ -252,7 +253,7 @@ intel-gmmlib
 intel-media-driver
 intel-media-sdk
 iproute2
-iptables
+iptables-nft
 iputils
 iso-codes
 jack2
@@ -598,6 +599,7 @@ libsndfile
 libsodium
 libsoup
 libsoxr
+libspeechd
 libssh
 libssh2
 libstaroffice
@@ -728,6 +730,7 @@ netpbm
 nettle
 network-manager-applet
 networkmanager
+nftables
 ninja
 nm-connection-editor
 node-gyp
@@ -1082,7 +1085,7 @@ python-yaml
 python-yarl
 python-zipp
 python-zope-interface
-qemu-headless
+qemu
 qpdf
 qt5-base
 qt5-declarative
@@ -1105,6 +1108,7 @@ qt6-base
 qt6-declarative
 qt6-svg
 qt6-wayland
+radvd
 raptor
 rasqal
 rav1e
@@ -1207,6 +1211,7 @@ t1lib
 taglib
 talloc
 tar
+tcl
 tdb
 terraform
 tevent
@@ -1241,9 +1246,12 @@ vamp-plugin-sdk
 vde2
 vdirsyncer
 vid.stab
+virglrenderer
 vkd3d
 vmaf
 volume_key
+vte-common
+vte3
 vulkan-icd-loader
 wavpack
 waybar

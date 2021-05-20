@@ -92,6 +92,7 @@ python-poetry
 python-pynvim
 python-tox
 python-virtualenvwrapper
+qemu-arch-extra
 reflector
 retroarch
 retroarch-assets-xmb
