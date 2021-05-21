@@ -18,7 +18,6 @@ arc-icon-theme
 arch-install-scripts
 archlinux-keyring
 argon2
-asciidoc
 asp
 at-spi2-atk
 at-spi2-core
@@ -95,8 +94,6 @@ diffutils
 dkms
 dmraid
 dnssec-anchors
-docbook-xml
-docbook-xsl
 docker
 docker-compose
 dosfstools
@@ -627,7 +624,6 @@ libutf8proc
 libuv
 libva
 libvdpau
-libvirt
 libvisio
 libvisual
 libvorbis
@@ -861,7 +857,6 @@ python-configobj
 python-constantly
 python-contextlib2
 python-cookiecutter
-python-coverage
 python-crashtest
 python-cryptography
 python-daemonize
@@ -884,7 +879,6 @@ python-entrypoints
 python-evdev
 python-ewmh
 python-filelock
-python-freezegun
 python-future
 python-geoip
 python-gobject
@@ -894,7 +888,6 @@ python-helpdev
 python-html5lib
 python-humanize
 python-hyperlink
-python-hypothesis
 python-icalendar
 python-identify
 python-idna
@@ -935,7 +928,6 @@ python-markupsafe
 python-matplotlib-inline
 python-mccabe
 python-mistune
-python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -1002,9 +994,6 @@ python-pyqt5-sip
 python-pyqt5-webengine
 python-pyrsistent
 python-pysocks
-python-pytest
-python-pytest-cov
-python-pytest-runner
 python-pytz
 python-pyudev
 python-pyxdameraulevenshtein
@@ -1043,7 +1032,6 @@ python-sphinxcontrib-applehelp
 python-sphinxcontrib-devhelp
 python-sphinxcontrib-htmlhelp
 python-sphinxcontrib-jsmath
-python-sphinxcontrib-newsfeed
 python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
 python-spyder-kernels
@@ -1304,7 +1292,6 @@ xorgproto
 xvidcore
 xxhash
 xz
-yajl
 yaml-cpp
 yapf
 youtube-dl
