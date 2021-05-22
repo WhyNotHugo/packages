@@ -1131,6 +1131,7 @@ ruby-kramdown
 ruby-kramdown-parser-gfm
 ruby-liquid-4
 ruby-listen
+ruby-maruku
 ruby-mercenary
 ruby-minitest
 ruby-mocha
@@ -1143,10 +1144,13 @@ ruby-reline
 ruby-rexml
 ruby-rouge
 ruby-safe_yaml
+ruby-sass
+ruby-sass-listen
 ruby-sassc
 ruby-terminal-table-2
 ruby-tzinfo
 ruby-unicode-display_width-1
+ruby-yard
 ruby-zeitwerk
 ruby2.7
 rubygems
