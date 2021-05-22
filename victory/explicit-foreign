@@ -11,7 +11,6 @@ peerflix-server
 pgformatter-git
 pipes.sh
 popcorntime
-systemd-boot-pacman-hook
 ticker
 tint-tetris
 todoman-git

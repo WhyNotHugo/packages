@@ -43,6 +43,7 @@ razercommander
 rootlesskit
 shotman
 sway-launcher-desktop
+systemd-boot-pacman-hook
 systemd-lock-handler
 terraform-ls
 tor-browser

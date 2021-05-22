@@ -93,6 +93,7 @@ device-mapper
 diffutils
 dkms
 dmraid
+dnsmasq
 dnssec-anchors
 docker
 docker-compose
@@ -1292,6 +1293,7 @@ xorgproto
 xvidcore
 xxhash
 xz
+yajl
 yaml-cpp
 yapf
 youtube-dl
