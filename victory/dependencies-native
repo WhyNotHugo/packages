@@ -849,6 +849,7 @@ python-chardet
 python-cleo
 python-click
 python-click-log
+python-click-repl
 python-click-threading
 python-clikit
 python-cloudpickle
