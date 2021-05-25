@@ -32,6 +32,7 @@ autopep8
 avahi
 aws-cli
 aws-vault
+babl
 base
 bash
 bash-language-server
@@ -95,6 +96,8 @@ dkms
 dmraid
 dnsmasq
 dnssec-anchors
+docbook-xml
+docbook-xsl
 docker
 docker-compose
 dosfstools
@@ -108,6 +111,7 @@ elfutils
 enchant
 eslint
 exempi
+exiv2
 expat
 fakeroot
 faudio
@@ -142,6 +146,7 @@ gcr
 gd
 gdbm
 gdk-pixbuf2
+gegl
 geoclue
 geocode-glib
 geoip
@@ -153,9 +158,11 @@ giflib
 girara
 git
 git-crypt
+gjs
 glib-networking
 glib-perl
 glib2
+glib2-docs
 glibc
 glibmm
 glslang
@@ -167,6 +174,7 @@ gnome-keyring
 gnupg
 gnutls
 go
+gobject-introspection
 gobject-introspection-runtime
 gopls
 gpgme
@@ -187,6 +195,7 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
+gtk-doc
 gtk-layer-shell
 gtk-update-icon-cache
 gtk3
@@ -250,6 +259,7 @@ iniparser
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
+intltool
 iproute2
 iptables-nft
 iputils
@@ -301,6 +311,7 @@ lapack
 lcms2
 ldb
 ldns
+lensfun
 less
 lib32-acl
 lib32-alsa-lib
@@ -495,6 +506,7 @@ libfreehand
 libftdi
 libgcrypt
 libgee
+libgexiv2
 libgit2
 libglvnd
 libgnomekbd
@@ -534,12 +546,14 @@ libmfx
 libmicrohttpd
 libmm-glib
 libmms
+libmng
 libmnl
 libmodplug
 libmpc
 libmpdclient
 libmspub
 libmwaw
+libmypaint
 libndp
 libnetfilter_conntrack
 libnewt
@@ -598,6 +612,7 @@ libsodium
 libsoup
 libsoxr
 libspeechd
+libspiro
 libssh
 libssh2
 libstaroffice
@@ -632,6 +647,7 @@ libvpx
 libvterm
 libwacom
 libwebp
+libwmf
 libwpd
 libwpe
 libwpg
@@ -702,6 +718,7 @@ md4c
 mdadm
 mercurial
 mesa
+metis
 mingw-w64-binutils
 mingw-w64-crt
 mingw-w64-headers
@@ -718,6 +735,7 @@ mtdev
 mtools
 mujs
 multipath-tools
+mypaint-brushes1
 ncurses
 ndctl
 nemo
@@ -778,17 +796,33 @@ pcre2
 pcsc-perl
 pcsclite
 perl
+perl-clone
 perl-encode-locale
 perl-error
 perl-file-basedir
 perl-file-desktopentry
+perl-file-listing
 perl-file-mimeinfo
+perl-html-parser
+perl-html-tagset
+perl-http-cookies
+perl-http-daemon
+perl-http-date
+perl-http-message
+perl-http-negotiate
 perl-image-exiftool
+perl-io-html
 perl-ipc-system-simple
+perl-libwww
+perl-lwp-mediatypes
 perl-mailtools
+perl-net-http
 perl-parse-yapp
 perl-timedate
+perl-try-tiny
 perl-uri
+perl-www-robotrules
+perl-xml-parser
 pinentry
 pipewire
 pipewire-media-session
@@ -814,6 +848,7 @@ python-abydos
 python-aiohttp
 python-aiohttp-socks
 python-aiorpcx
+python-anytree
 python-apipkg
 python-appdirs
 python-argcomplete
@@ -859,7 +894,6 @@ python-configobj
 python-constantly
 python-contextlib2
 python-cookiecutter
-python-coverage
 python-crashtest
 python-cryptography
 python-daemonize
@@ -882,7 +916,6 @@ python-entrypoints
 python-evdev
 python-ewmh
 python-filelock
-python-freezegun
 python-future
 python-geoip
 python-gobject
@@ -892,7 +925,6 @@ python-helpdev
 python-html5lib
 python-humanize
 python-hyperlink
-python-hypothesis
 python-icalendar
 python-identify
 python-idna
@@ -933,7 +965,6 @@ python-markupsafe
 python-matplotlib-inline
 python-mccabe
 python-mistune
-python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -954,7 +985,6 @@ python-pathspec
 python-pathtools
 python-patiencediff
 python-pbkdf2
-python-pbr
 python-pep517
 python-pexpect
 python-pickleshare
@@ -1001,9 +1031,6 @@ python-pyqt5-sip
 python-pyqt5-webengine
 python-pyrsistent
 python-pysocks
-python-pytest
-python-pytest-cov
-python-pytest-runner
 python-pytz
 python-pyudev
 python-pyxdameraulevenshtein
@@ -1038,8 +1065,6 @@ python-snowballstemmer
 python-sortedcontainers
 python-sphinx
 python-sphinx-alabaster-theme
-python-sphinx-autorun
-python-sphinx-click
 python-sphinxcontrib-applehelp
 python-sphinxcontrib-devhelp
 python-sphinxcontrib-htmlhelp
@@ -1198,6 +1223,7 @@ startup-notification
 strace
 subversion
 sudo
+suitesparse
 svt-av1
 sway
 swaybg
@@ -1211,6 +1237,7 @@ t1lib
 taglib
 talloc
 tar
+tbb
 tcl
 tdb
 terraform
@@ -1242,6 +1269,7 @@ usbutils
 util-linux
 util-linux-libs
 v4l-utils
+vala
 vamp-plugin-sdk
 vde2
 vdirsyncer
