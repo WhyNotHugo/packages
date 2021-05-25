@@ -859,6 +859,7 @@ python-configobj
 python-constantly
 python-contextlib2
 python-cookiecutter
+python-coverage
 python-crashtest
 python-cryptography
 python-daemonize
@@ -881,6 +882,7 @@ python-entrypoints
 python-evdev
 python-ewmh
 python-filelock
+python-freezegun
 python-future
 python-geoip
 python-gobject
@@ -890,6 +892,7 @@ python-helpdev
 python-html5lib
 python-humanize
 python-hyperlink
+python-hypothesis
 python-icalendar
 python-identify
 python-idna
@@ -930,6 +933,7 @@ python-markupsafe
 python-matplotlib-inline
 python-mccabe
 python-mistune
+python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -950,6 +954,7 @@ python-pathspec
 python-pathtools
 python-patiencediff
 python-pbkdf2
+python-pbr
 python-pep517
 python-pexpect
 python-pickleshare
@@ -996,6 +1001,9 @@ python-pyqt5-sip
 python-pyqt5-webengine
 python-pyrsistent
 python-pysocks
+python-pytest
+python-pytest-cov
+python-pytest-runner
 python-pytz
 python-pyudev
 python-pyxdameraulevenshtein
@@ -1030,6 +1038,8 @@ python-snowballstemmer
 python-sortedcontainers
 python-sphinx
 python-sphinx-alabaster-theme
+python-sphinx-autorun
+python-sphinx-click
 python-sphinxcontrib-applehelp
 python-sphinxcontrib-devhelp
 python-sphinxcontrib-htmlhelp
