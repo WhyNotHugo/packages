@@ -130,7 +130,6 @@ freetype2
 fribidi
 fstrm
 fuse-common
-fuse-overlayfs
 fuse2
 fuse3
 fwupd-efi
@@ -1190,7 +1189,6 @@ shadow
 shared-mime-info
 shiboken6
 slang
-slirp4netns
 slurp
 smbclient
 snappy
