@@ -4,7 +4,6 @@ awslogs
 blueman-git
 darkman
 docker-credential-secretservice
-docker-rootless-extras
 downgrade
 drm_info-git
 emoji-cli
@@ -40,7 +39,6 @@ python-tox-poetry
 python-txdbus
 pyupgrade
 razercommander
-rootlesskit
 shotman
 sway-launcher-desktop
 systemd-boot-pacman-hook
