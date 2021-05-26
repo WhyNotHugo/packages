@@ -130,6 +130,7 @@ fontconfig
 freeimage
 freetype2
 fribidi
+fstrm
 fuse-common
 fuse-overlayfs
 fuse2
@@ -243,6 +244,7 @@ haskell-uuid-types
 haskell-vector
 hicolor-icon-theme
 hidapi
+hiredis
 http-parser
 hunspell
 hunspell-en_us
@@ -728,6 +730,7 @@ minizip
 mkinitcpio
 mkinitcpio-busybox
 mobile-broadband-provider-info
+monero
 mpfr
 mpg123
 msgpack-c
@@ -841,6 +844,7 @@ potrace
 prettier
 procps-ng
 protobuf
+protobuf-c
 psmisc
 pyside6
 python
@@ -1259,6 +1263,7 @@ typescript
 tzdata
 uchardet
 udisks2
+unbound
 unibilium
 unixodbc
 unrar
