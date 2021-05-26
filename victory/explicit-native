@@ -110,9 +110,11 @@ subdownloader
 swappy
 tmux
 torbrowser-launcher
+torsocks
 trash-cli
 vagrant
 vi
+virt-manager
 wine-gecko
 wine-mono
 wine-staging

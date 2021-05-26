@@ -199,8 +199,10 @@ gstreamer
 gtk-doc
 gtk-layer-shell
 gtk-update-icon-cache
+gtk-vnc
 gtk3
 gtkmm3
+gtksourceview4
 gtkspell3
 gts
 guile
@@ -575,6 +577,7 @@ libogg
 libomxil-bellagio
 libopenaptx
 liborcus
+libosinfo
 libp11-kit
 libpagemaker
 libpaper
@@ -642,6 +645,8 @@ libutf8proc
 libuv
 libva
 libvdpau
+libvirt-glib
+libvirt-python
 libvisio
 libvisual
 libvorbis
@@ -779,6 +784,7 @@ openssh
 openssl
 opus
 orc
+osinfo-db
 ostree
 otf-font-awesome
 p11-kit
@@ -826,6 +832,7 @@ perl-try-tiny
 perl-uri
 perl-www-robotrules
 perl-xml-parser
+phodav
 pinentry
 pipewire
 pipewire-media-session
@@ -1218,6 +1225,7 @@ spdlog
 speex
 speexdsp
 spice
+spice-gtk
 spirv-tools
 sqlite
 squashfs-tools
@@ -1280,6 +1288,7 @@ vde2
 vdirsyncer
 vid.stab
 virglrenderer
+virt-install
 vkd3d
 vmaf
 volume_key
