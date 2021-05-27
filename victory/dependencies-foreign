@@ -36,7 +36,6 @@ python-pulsectl
 python-reorder-python-imports
 python-tokenize-rt
 python-tox-poetry
-python-txdbus
 pyupgrade
 razercommander
 shotman
