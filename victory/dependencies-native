@@ -69,6 +69,7 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
+cmake
 cogl
 colord
 compiler-rt
@@ -172,6 +173,7 @@ gnutls
 go
 gobject-introspection-runtime
 gopls
+gperf
 gpgme
 gpm
 gptfdisk
@@ -544,6 +546,7 @@ libmms
 libmng
 libmnl
 libmodplug
+libmpack
 libmpc
 libmpdclient
 libmspub
@@ -699,6 +702,9 @@ logrotate
 lpsolve
 lsd
 lua
+lua51
+lua51-lpeg
+lua51-mpack
 lua52
 luajit
 lucene++
@@ -950,6 +956,7 @@ python-markupsafe
 python-matplotlib-inline
 python-mccabe
 python-mistune
+python-more-itertools
 python-msgpack
 python-multidict
 python-mypy_extensions
@@ -1129,6 +1136,7 @@ redland
 reiserfsprogs
 rest
 restic
+rhash
 rpmextract
 rsync
 rtkit
