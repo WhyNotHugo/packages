@@ -19,6 +19,7 @@ diffoscope
 dracut
 earlyoom
 edk2-armvirt
+edk2-ovmf
 efibootmgr
 efitools
 electrum
