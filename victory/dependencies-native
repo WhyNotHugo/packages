@@ -60,6 +60,7 @@ cairo
 cairomm
 cantarell-fonts
 cblas
+ccid
 cdparanoia
 celt
 ceph-libs
@@ -903,6 +904,7 @@ python-ecdsa
 python-entrypoints
 python-evdev
 python-ewmh
+python-fido2
 python-filelock
 python-future
 python-geoip
@@ -1019,6 +1021,7 @@ python-pyqt5
 python-pyqt5-sip
 python-pyqt5-webengine
 python-pyrsistent
+python-pyscard
 python-pysocks
 python-pytz
 python-pyudev
@@ -1328,6 +1331,9 @@ yajl
 yaml-cpp
 yapf
 youtube-dl
+yubico-c
+yubico-c-client
+yubikey-personalization
 zathura-pdf-poppler
 zeromq
 zimg

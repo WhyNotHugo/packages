@@ -126,5 +126,6 @@ wine-staging
 xorg-server-xvfb
 xournalpp
 yarn
+yubikey-manager
 yubikey-touch-detector
 zathura
