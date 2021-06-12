@@ -883,6 +883,7 @@ python-configobj
 python-constantly
 python-contextlib2
 python-cookiecutter
+python-coverage
 python-crashtest
 python-cryptography
 python-daemonize
@@ -915,6 +916,7 @@ python-helpdev
 python-html5lib
 python-humanize
 python-hyperlink
+python-hypothesis
 python-icalendar
 python-identify
 python-idna
@@ -1023,6 +1025,10 @@ python-pyqt5-webengine
 python-pyrsistent
 python-pyscard
 python-pysocks
+python-pytest
+python-pytest-cov
+python-pytest-localserver
+python-pytest-subtesthack
 python-pytz
 python-pyudev
 python-pyxdameraulevenshtein
@@ -1057,6 +1063,7 @@ python-snowballstemmer
 python-sortedcontainers
 python-sphinx
 python-sphinx-alabaster-theme
+python-sphinx_rtd_theme
 python-sphinxcontrib-applehelp
 python-sphinxcontrib-devhelp
 python-sphinxcontrib-htmlhelp
@@ -1094,6 +1101,7 @@ python-watchdog
 python-wcwidth
 python-webencodings
 python-websocket-client
+python-werkzeug
 python-wheel
 python-wrapt
 python-wurlitzer
@@ -1265,7 +1273,6 @@ util-linux-libs
 v4l-utils
 vamp-plugin-sdk
 vde2
-vdirsyncer
 vid.stab
 virglrenderer
 virt-install
