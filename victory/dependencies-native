@@ -18,13 +18,11 @@ arc-icon-theme
 arch-install-scripts
 archlinux-keyring
 argon2
-asciidoc
 asp
 at-spi2-atk
 at-spi2-core
 atk
 atkmm
-attica
 attr
 audit
 autoconf
@@ -72,7 +70,6 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
-cmake
 cogl
 colord
 compiler-rt
@@ -100,8 +97,6 @@ dkms
 dmraid
 dnsmasq
 dnssec-anchors
-docbook-xml
-docbook-xsl
 docker
 docker-compose
 dosfstools
@@ -178,7 +173,6 @@ gnutls
 go
 gobject-introspection-runtime
 gopls
-gperf
 gpgme
 gpm
 gptfdisk
@@ -287,7 +281,6 @@ jupyter-widgetsnbextension
 jupyter_console
 jupyterlab_pygments
 jxrlib
-kanshi
 karchive
 kauth
 kbd
@@ -548,7 +541,6 @@ libmms
 libmng
 libmnl
 libmodplug
-libmpack
 libmpc
 libmpdclient
 libmspub
@@ -704,13 +696,11 @@ logrotate
 lpsolve
 lsd
 lua
-lua51
-lua51-lpeg
-lua51-mpack
 lua52
 luajit
 lucene++
 lvm2
+lynx
 lz4
 lzo
 m4
@@ -886,7 +876,6 @@ python-configobj
 python-constantly
 python-contextlib2
 python-cookiecutter
-python-coverage
 python-crashtest
 python-cryptography
 python-daemonize
@@ -919,7 +908,6 @@ python-helpdev
 python-html5lib
 python-humanize
 python-hyperlink
-python-hypothesis
 python-icalendar
 python-identify
 python-idna
@@ -1028,10 +1016,6 @@ python-pyqt5-webengine
 python-pyrsistent
 python-pyscard
 python-pysocks
-python-pytest
-python-pytest-cov
-python-pytest-localserver
-python-pytest-subtesthack
 python-pytz
 python-pyudev
 python-pyxdameraulevenshtein
@@ -1066,7 +1050,6 @@ python-snowballstemmer
 python-sortedcontainers
 python-sphinx
 python-sphinx-alabaster-theme
-python-sphinx_rtd_theme
 python-sphinxcontrib-applehelp
 python-sphinxcontrib-devhelp
 python-sphinxcontrib-htmlhelp
@@ -1104,7 +1087,6 @@ python-watchdog
 python-wcwidth
 python-webencodings
 python-websocket-client
-python-werkzeug
 python-wheel
 python-wrapt
 python-wurlitzer
@@ -1147,7 +1129,6 @@ redland
 reiserfsprogs
 rest
 restic
-rhash
 rpmextract
 rsync
 rtkit
