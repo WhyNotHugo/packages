@@ -70,6 +70,7 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
+cmake
 cogl
 colord
 compiler-rt
@@ -485,6 +486,7 @@ libelf
 libepoxy
 libepubgen
 libetonyek
+libev
 libevdev
 libevent
 libexif
@@ -911,6 +913,7 @@ python-hyperlink
 python-icalendar
 python-identify
 python-idna
+python-ifaddr
 python-imagesize
 python-importlib-metadata
 python-incremental
@@ -953,6 +956,7 @@ python-msgpack
 python-multidict
 python-mypy_extensions
 python-nest_asyncio
+python-netifaces
 python-nodeenv
 python-notify2
 python-numpy
@@ -1093,8 +1097,16 @@ python-wurlitzer
 python-xlib
 python-yaml
 python-yarl
+python-zeroconf
 python-zipp
 python-zope-interface
+python2
+python2-appdirs
+python2-ordered-set
+python2-packaging
+python2-pyparsing
+python2-setuptools
+python2-six
 qemu
 qpdf
 qt5-base
@@ -1129,6 +1141,7 @@ redland
 reiserfsprogs
 rest
 restic
+rhash
 rpmextract
 rsync
 rtkit
