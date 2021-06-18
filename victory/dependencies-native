@@ -70,7 +70,6 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
-cmake
 cogl
 colord
 compiler-rt
@@ -535,6 +534,7 @@ liblqr
 libluv
 libmanette
 libmaxminddb
+libmbim
 libmediainfo
 libmfx
 libmicrohttpd
@@ -583,6 +583,8 @@ libproxy
 libpsl
 libpulse
 libpwquality
+libqmi
+libqrtr-glib
 libqxp
 libraqm
 libratbag
@@ -1141,7 +1143,6 @@ redland
 reiserfsprogs
 rest
 restic
-rhash
 rpmextract
 rsync
 rtkit
