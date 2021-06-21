@@ -16,9 +16,8 @@ meta-group-base-devel
 neovim-git
 nodejs-vls
 nvm
-openrazer-daemon-git
-openrazer-driver-dkms-git
-openrazer-meta-git
+openrazer-daemon
+openrazer-driver-dkms
 otf-operator-mono-nerd
 owlink-git
 paru
@@ -33,7 +32,7 @@ python-flake8-comprehensions
 python-flake8-efm
 python-flake8-import-order
 python-fleep
-python-openrazer-git
+python-openrazer
 python-pulsectl
 python-reorder-python-imports
 python-tokenize-rt
