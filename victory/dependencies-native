@@ -70,7 +70,6 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
-cmake
 cogl
 colord
 compiler-rt
@@ -174,7 +173,6 @@ gnutls
 go
 gobject-introspection-runtime
 gopls
-gperf
 gpgme
 gpm
 gptfdisk
@@ -286,21 +284,29 @@ jxrlib
 karchive
 kauth
 kbd
+kbookmarks
 kcodecs
+kcompletion
 kconfig
 kconfigwidgets
 kcoreaddons
 kcrash
 kdbusaddons
+kded
 keyutils
 kglobalaccel
 kguiaddons
 ki18n
 kiconthemes
+kio
 kitemviews
+kjobwidgets
 kmod
 knotifications
 krb5
+kservice
+ktextwidgets
+kwallet
 kwidgetsaddons
 kwindowsystem
 kxmlgui
@@ -545,7 +551,6 @@ libmms
 libmng
 libmnl
 libmodplug
-libmpack
 libmpc
 libmpdclient
 libmspub
@@ -704,9 +709,6 @@ logrotate
 lpsolve
 lsd
 lua
-lua51
-lua51-lpeg
-lua51-mpack
 lua52
 luajit
 lucene++
@@ -722,6 +724,7 @@ mathjax2
 mbedtls
 md4c
 mdadm
+media-player-info
 mercurial
 mesa
 metis
@@ -1149,7 +1152,6 @@ redland
 reiserfsprogs
 rest
 restic
-rhash
 rpmextract
 rsync
 rtkit
@@ -1214,6 +1216,8 @@ smbclient
 snappy
 sndio
 solaar
+solid
+sonnet
 sound-theme-freedesktop
 spdlog
 speex
@@ -1270,6 +1274,7 @@ unibilium
 unixodbc
 unrar
 unzip
+upower
 usbmuxd
 usbredir
 usbutils
