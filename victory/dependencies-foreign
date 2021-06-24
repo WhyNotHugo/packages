@@ -18,6 +18,7 @@ nodejs-vls
 nvm
 openrazer-daemon
 openrazer-driver-dkms
+openrazer-meta
 otf-operator-mono-nerd
 owlink-git
 paru

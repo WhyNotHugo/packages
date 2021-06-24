@@ -20,7 +20,6 @@ diffoscope
 dmidecode
 dracut
 earlyoom
-edk2-armvirt
 edk2-ovmf
 efibootmgr
 efitools
@@ -54,7 +53,6 @@ hunspell-nl
 imv
 inetutils
 inotify-tools
-intel-ucode
 iptraf-ng
 ipython
 kexec-tools
@@ -62,7 +60,6 @@ kruler
 kubectl
 libfaketime
 libreoffice-fresh
-libvirt
 light
 lm_sensors
 lostfiles
@@ -95,18 +92,13 @@ pkgstats
 poedit
 polkit-gnome
 powertop
-pv
 python-poetry
 python-pynvim
 python-tox
 python-virtualenvwrapper
-qemu-arch-extra
 reflector
 retroarch
 retroarch-assets-xmb
-ruby-jekyll
-sbctl
-sbsigntools
 scdoc
 shellcheck
 shfmt
@@ -122,7 +114,6 @@ torsocks
 trash-cli
 vagrant
 vi
-virt-manager
 wine-gecko
 wine-mono
 wine-staging
