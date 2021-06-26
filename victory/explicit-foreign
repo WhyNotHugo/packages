@@ -16,6 +16,7 @@ peerflix-server
 pgformatter-git
 pipes.sh
 popcorntime
+python-aiohttp-oauthlib
 spotify-tui
 tint-tetris
 todoman-git
