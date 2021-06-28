@@ -606,6 +606,7 @@ librevenge
 librsvg
 libsamplerate
 libsasl
+libseat
 libseccomp
 libsecp256k1
 libsecret
