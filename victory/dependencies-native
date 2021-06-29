@@ -92,6 +92,7 @@ dconf
 deluge
 desktop-file-utils
 device-mapper
+dhcpcd
 diffutils
 dkms
 dmraid
