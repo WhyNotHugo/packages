@@ -92,7 +92,6 @@ dconf
 deluge
 desktop-file-utils
 device-mapper
-dhcpcd
 diffutils
 dkms
 dmraid
@@ -535,7 +534,6 @@ libinput
 libixion
 libjcat
 libjpeg-turbo
-libkeybinder3
 libksba
 liblangtag
 libldac
@@ -914,7 +912,6 @@ python-dotenv
 python-ecdsa
 python-entrypoints
 python-evdev
-python-ewmh
 python-fido2
 python-filelock
 python-future
@@ -1021,7 +1018,6 @@ python-pydocstyle
 python-pyflakes
 python-pygls
 python-pygments
-python-pyinotify
 python-pylev
 python-pylint
 python-pyls-black
@@ -1107,7 +1103,6 @@ python-watchdog
 python-wcwidth
 python-webencodings
 python-websocket-client
-python-wheel
 python-wrapt
 python-wurlitzer
 python-xlib

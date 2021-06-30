@@ -1,17 +1,14 @@
 autovdirsyncer
 browser-vacuum
-caffeine-ng-git
 ddcci-driver-linux-dkms
 fswebcam
 gimp-devel
-gitlab-glab
 glow
 khal-git
 librespot
 libretro-fbneo
 lua-format
 mako-git
-notify-send.sh
 opendrop
 peerflix-server
 pgformatter-git
@@ -21,7 +18,6 @@ python-aiohttp-oauthlib
 spotify-tui
 tint-tetris
 todoman-git
-ulauncher
 vdirsyncer-git
 whynothugo-desktop
 wshowkeys-git
