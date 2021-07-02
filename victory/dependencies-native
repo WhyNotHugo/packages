@@ -849,6 +849,7 @@ python
 python-abydos
 python-aiohttp
 python-aiohttp-socks
+python-aioresponses
 python-aiorpcx
 python-apipkg
 python-appdirs
@@ -894,6 +895,7 @@ python-configobj
 python-constantly
 python-contextlib2
 python-cookiecutter
+python-coverage
 python-crashtest
 python-cryptography
 python-daemonize
@@ -925,6 +927,7 @@ python-helpdev
 python-html5lib
 python-humanize
 python-hyperlink
+python-hypothesis
 python-icalendar
 python-identify
 python-idna
@@ -1034,6 +1037,10 @@ python-pyqt5-webengine
 python-pyrsistent
 python-pyscard
 python-pysocks
+python-pytest
+python-pytest-asyncio
+python-pytest-cov
+python-pytest-subtesthack
 python-pytz
 python-pyudev
 python-pyxdameraulevenshtein
@@ -1068,6 +1075,7 @@ python-snowballstemmer
 python-sortedcontainers
 python-sphinx
 python-sphinx-alabaster-theme
+python-sphinx_rtd_theme
 python-sphinxcontrib-applehelp
 python-sphinxcontrib-devhelp
 python-sphinxcontrib-htmlhelp
@@ -1090,6 +1098,7 @@ python-toml
 python-tomlkit
 python-tornado
 python-traitlets
+python-trustme
 python-twisted
 python-typed-ast
 python-typeguard
@@ -1105,6 +1114,8 @@ python-watchdog
 python-wcwidth
 python-webencodings
 python-websocket-client
+python-werkzeug
+python-wheel
 python-wrapt
 python-wurlitzer
 python-xlib

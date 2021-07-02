@@ -25,6 +25,7 @@ paru
 pavucontrol-git
 pkgbuild-introspection
 ponymix
+python-aiostream
 python-aspy-refactor-imports
 python-asttokens
 python-ctypescrypto
@@ -34,6 +35,7 @@ python-flake8-efm
 python-flake8-import-order
 python-fleep
 python-openrazer
+python-pytest-httpserver
 python-reorder-python-imports
 python-tokenize-rt
 python-tox-poetry
