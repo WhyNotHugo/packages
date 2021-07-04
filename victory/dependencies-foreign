@@ -35,7 +35,6 @@ python-flake8-efm
 python-flake8-import-order
 python-fleep
 python-openrazer
-python-pytest-httpserver
 python-reorder-python-imports
 python-tokenize-rt
 python-tox-poetry

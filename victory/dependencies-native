@@ -112,7 +112,6 @@ enchant
 eslint
 exempi
 exiv2
-expac
 expat
 fakeroot
 faudio
@@ -264,7 +263,6 @@ iproute2
 iptables-nft
 iputils
 iso-codes
-iw
 jack2
 jansson
 jasper
@@ -849,7 +847,6 @@ python
 python-abydos
 python-aiohttp
 python-aiohttp-socks
-python-aioresponses
 python-aiorpcx
 python-apipkg
 python-appdirs
@@ -886,7 +883,6 @@ python-cleo
 python-click
 python-click-log
 python-click-repl
-python-click-threading
 python-clikit
 python-cloudpickle
 python-colorama
@@ -895,7 +891,6 @@ python-configobj
 python-constantly
 python-contextlib2
 python-cookiecutter
-python-coverage
 python-crashtest
 python-cryptography
 python-daemonize
@@ -927,7 +922,6 @@ python-helpdev
 python-html5lib
 python-humanize
 python-hyperlink
-python-hypothesis
 python-icalendar
 python-identify
 python-idna
@@ -1037,10 +1031,6 @@ python-pyqt5-webengine
 python-pyrsistent
 python-pyscard
 python-pysocks
-python-pytest
-python-pytest-asyncio
-python-pytest-cov
-python-pytest-subtesthack
 python-pytz
 python-pyudev
 python-pyxdameraulevenshtein
@@ -1055,7 +1045,6 @@ python-qtpy
 python-regex
 python-rencode
 python-requests
-python-requests-oauthlib
 python-requests-toolbelt
 python-resolvelib
 python-retrying
@@ -1075,7 +1064,6 @@ python-snowballstemmer
 python-sortedcontainers
 python-sphinx
 python-sphinx-alabaster-theme
-python-sphinx_rtd_theme
 python-sphinxcontrib-applehelp
 python-sphinxcontrib-devhelp
 python-sphinxcontrib-htmlhelp
@@ -1098,7 +1086,6 @@ python-toml
 python-tomlkit
 python-tornado
 python-traitlets
-python-trustme
 python-twisted
 python-typed-ast
 python-typeguard
@@ -1114,8 +1101,6 @@ python-watchdog
 python-wcwidth
 python-webencodings
 python-websocket-client
-python-werkzeug
-python-wheel
 python-wrapt
 python-wurlitzer
 python-xlib
@@ -1124,13 +1109,6 @@ python-yarl
 python-zeroconf
 python-zipp
 python-zope-interface
-python2
-python2-appdirs
-python2-ordered-set
-python2-packaging
-python2-pyparsing
-python2-setuptools
-python2-six
 qemu
 qemu-arch-extra
 qpdf
@@ -1241,8 +1219,6 @@ tpm2-tss
 tree-sitter
 tslib
 ttf-liberation
-ttf-opensans
-ttf-ubuntu-font-family
 twolame
 typescript
 tzdata
