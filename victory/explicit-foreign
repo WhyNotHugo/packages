@@ -1,4 +1,3 @@
-autovdirsyncer
 browser-vacuum
 ddcci-driver-linux-dkms
 fswebcam
@@ -7,11 +6,9 @@ glow
 khal-git
 librespot
 libretro-fbneo
-lua-format
 mako-git
 opendrop
 peerflix-server
-pgformatter-git
 pipes.sh
 popcorntime
 python-aiohttp-oauthlib

@@ -42,6 +42,7 @@ bison
 blas
 bluez
 bluez-libs
+bolt
 boost-libs
 box2d
 breezy
@@ -90,6 +91,7 @@ dbus-glib
 dbus-python
 dconf
 deluge
+deluge-gtk
 desktop-file-utils
 device-mapper
 diffutils
@@ -123,6 +125,7 @@ file-roller
 filesystem
 findutils
 flac
+flake8
 flashrom
 flex
 fmt
@@ -159,7 +162,6 @@ girara
 git
 git-crypt
 glib-networking
-glib-perl
 glib2
 glibc
 glibmm
@@ -286,29 +288,21 @@ jxrlib
 karchive
 kauth
 kbd
-kbookmarks
 kcodecs
-kcompletion
 kconfig
 kconfigwidgets
 kcoreaddons
 kcrash
 kdbusaddons
-kded
 keyutils
 kglobalaccel
 kguiaddons
 ki18n
 kiconthemes
-kio
 kitemviews
-kjobwidgets
 kmod
 knotifications
 krb5
-kservice
-ktextwidgets
-kwallet
 kwidgetsaddons
 kwindowsystem
 kxmlgui
@@ -527,7 +521,6 @@ libidn
 libidn2
 libiec61883
 libimagequant
-libimobiledevice
 libindicator-gtk3
 libinih
 libinput
@@ -586,7 +579,6 @@ libpgm
 libpipeline
 libpipewire02
 libplacebo
-libplist
 libpng
 libproxy
 libpsl
@@ -596,7 +588,6 @@ libqmi
 libqrtr-glib
 libqxp
 libraqm
-libratbag
 libraw
 libraw1394
 libressl
@@ -642,7 +633,6 @@ liburcu
 liburing
 libusb
 libusb-compat
-libusbmuxd
 libutempter
 libutf8proc
 libuv
@@ -727,14 +717,9 @@ mathjax2
 mbedtls
 md4c
 mdadm
-media-player-info
 mercurial
 mesa
 metis
-mingw-w64-binutils
-mingw-w64-crt
-mingw-w64-headers
-mingw-w64-winpthreads
 miniupnpc
 minizip
 mkinitcpio
@@ -807,7 +792,6 @@ patch
 pciutils
 pcre
 pcre2
-pcsc-perl
 pcsclite
 perl
 perl-encode-locale
@@ -910,7 +894,6 @@ python-docutils
 python-dotenv
 python-ecdsa
 python-entrypoints
-python-evdev
 python-fido2
 python-filelock
 python-future
@@ -955,7 +938,6 @@ python-lazy-object-proxy
 python-levenshtein
 python-libarchive-c
 python-lockfile
-python-lxml
 python-magic
 python-mako
 python-markdown
@@ -1157,6 +1139,7 @@ samba
 sbc
 sbctl
 sbsigntools
+scdoc
 sdl2
 seabios
 seahorse
@@ -1166,6 +1149,7 @@ serf
 shaderc
 shadow
 shared-mime-info
+shellcheck
 shiboken6
 slang
 slurp
@@ -1173,8 +1157,6 @@ smbclient
 snappy
 sndio
 solaar
-solid
-sonnet
 sound-theme-freedesktop
 spdlog
 speex
@@ -1214,8 +1196,10 @@ texlive-bin
 the_silver_searcher
 thin-provisioning-tools
 tinyxml2
+tmux
 tor
 tpm2-tss
+trash-cli
 tree-sitter
 tslib
 ttf-liberation
@@ -1229,8 +1213,6 @@ unibilium
 unixodbc
 unrar
 unzip
-upower
-usbmuxd
 usbredir
 usbutils
 util-linux
@@ -1303,10 +1285,12 @@ xz
 yajl
 yaml-cpp
 yapf
+yarn
 youtube-dl
 yubico-c
 yubico-c-client
 yubikey-personalization
+zathura
 zathura-pdf-poppler
 zeromq
 zimg

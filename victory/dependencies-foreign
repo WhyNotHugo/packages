@@ -1,4 +1,5 @@
 amazon-ecr-credential-helper
+autovdirsyncer
 aws-session-manager-plugin
 awslogs
 blueman-git
@@ -9,8 +10,8 @@ drm_info-git
 emoji-cli
 eslint-plugin-vue
 grimshot
-insomnia-bin
 kernel-modules-hook
+lua-format
 lua-language-server
 meta-group-base-devel
 neovim-git
@@ -23,6 +24,7 @@ otf-operator-mono-nerd
 owlink-git
 paru
 pavucontrol-git
+pgformatter-git
 pkgbuild-introspection
 ponymix
 python-aiostream
