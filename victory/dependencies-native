@@ -1210,9 +1210,6 @@ swaybg
 swayidle
 swaylock
 sysfsutils
-systemd
-systemd-libs
-systemd-sysvcompat
 t1lib
 taglib
 talloc

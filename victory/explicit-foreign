@@ -13,6 +13,10 @@ pipes.sh
 popcorntime
 python-aiohttp-oauthlib
 spotify-tui
+systemd-git
+systemd-libs-git
+systemd-resolvconf-git
+systemd-sysvcompat-git
 tint-tetris
 todoman-git
 vdirsyncer-git
