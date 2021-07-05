@@ -72,14 +72,11 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
-cni-plugins
 cogl
 colord
 compiler-rt
 confuse
-conmon
 containerd
-containers-common
 coreutils
 cpio
 cracklib
@@ -141,7 +138,6 @@ freetype2
 fribidi
 fstrm
 fuse-common
-fuse-overlayfs
 fuse2
 fuse3
 fwupd-efi
@@ -838,7 +834,6 @@ pipewire
 pipewire-media-session
 pixman
 pkgconf
-podman
 polkit
 polkit-qt5
 poppler
@@ -1182,7 +1177,6 @@ shared-mime-info
 shellcheck
 shiboken6
 slang
-slirp4netns
 slurp
 smbclient
 snappy

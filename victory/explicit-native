@@ -14,6 +14,7 @@ dconf-editor
 devtools
 diffoscope
 dmidecode
+docker
 dracut
 earlyoom
 edk2-ovmf
@@ -77,8 +78,6 @@ papirus-icon-theme
 paprefs
 pipewire-pulse
 pkgstats
-podman-compose
-podman-docker
 poedit
 polkit-gnome
 powertop
