@@ -15,7 +15,6 @@ devtools
 diffoscope
 dmidecode
 docker
-dracut
 earlyoom
 edk2-ovmf
 efibootmgr
