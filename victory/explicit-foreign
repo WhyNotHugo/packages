@@ -9,6 +9,8 @@ libretro-fbneo
 mako-git
 peerflix-server
 pipes.sh
+plymouth-git
+plymouth-theme-monoarch
 popcorntime
 python-aiohttp-oauthlib
 spotify-tui
