@@ -3,7 +3,6 @@ arc-gtk-theme
 arch-audit
 arch-repro-status
 bind
-bluez-utils
 checkbashisms
 chromium
 clang
@@ -20,13 +19,7 @@ edk2-ovmf
 efibootmgr
 efitools
 electrum
-encfs
-fd
 figlet
-firefox
-firefox-i18n-en-gb
-flatpak
-flatpak-builder
 fortune-mod
 fwupd
 geckodriver
@@ -36,7 +29,6 @@ gparted
 graphviz
 gst-plugin-pipewire
 guvcview
-hey
 htop
 hugo
 hunspell-de
@@ -47,7 +39,6 @@ imv
 inetutils
 inotify-tools
 iptraf-ng
-ipython
 kruler
 kubectl
 libfaketime
@@ -55,7 +46,6 @@ libreoffice-fresh
 light
 lm_sensors
 lostfiles
-lsof
 man-db
 man-pages
 mate-utils
@@ -70,13 +60,11 @@ neofetch
 nethogs
 openbsd-netcat
 openethereum
-opensmtpd
 p7zip
 pantheon-camera
 papirus-icon-theme
 paprefs
 pipewire-pulse
-pkgstats
 poedit
 polkit-gnome
 powertop

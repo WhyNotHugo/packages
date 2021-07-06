@@ -43,6 +43,7 @@ bison
 blas
 bluez
 bluez-libs
+bluez-utils
 bolt
 boost-libs
 box2d
@@ -110,6 +111,7 @@ efivar
 efm-langserver
 elementary-icon-theme
 elfutils
+encfs
 enchant
 eslint
 exempi
@@ -117,6 +119,7 @@ exiv2
 expat
 fakeroot
 faudio
+fd
 ffmpeg
 ffmpegthumbnailer
 fftw
@@ -124,9 +127,13 @@ file
 file-roller
 filesystem
 findutils
+firefox
+firefox-i18n-en-gb
 flac
 flake8
 flashrom
+flatpak
+flatpak-builder
 flex
 fmt
 fontconfig
@@ -241,6 +248,7 @@ haskell-transformers-compat
 haskell-unordered-containers
 haskell-uuid-types
 haskell-vector
+hey
 hicolor-icon-theme
 hidapi
 hiredis
@@ -264,6 +272,7 @@ intel-ucode
 iproute2
 iptables-nft
 iputils
+ipython
 iso-codes
 jack2
 jansson
@@ -285,6 +294,7 @@ jupyter-widgetsnbextension
 jupyter_console
 jupyterlab_pygments
 jxrlib
+kanshi
 karchive
 kauth
 kbd
@@ -628,7 +638,6 @@ libtool
 libtorrent-rasterbar
 libunistring
 libunwind
-liburcu
 liburing
 libusb
 libusb-compat
@@ -700,6 +709,7 @@ lmdb
 logrotate
 lpsolve
 lsd
+lsof
 lua
 lua52
 luajit
@@ -731,7 +741,6 @@ msgpack-c
 mtdev
 mtools
 mujs
-multipath-tools
 mypaint-brushes1
 ncurses
 ndctl
@@ -770,6 +779,7 @@ opencore-amr
 openexr
 openjpeg2
 openmpi
+opensmtpd
 openssh
 openssl
 opus
@@ -810,6 +820,7 @@ pipewire
 pipewire-media-session
 pixman
 pkgconf
+pkgstats
 polkit
 polkit-qt5
 poppler
