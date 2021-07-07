@@ -13,7 +13,6 @@ plymouth-git
 plymouth-theme-monoarch
 popcorntime
 python-aiohttp-oauthlib
-spotify-tui
 systemd-git
 systemd-libs-git
 systemd-resolvconf-git
