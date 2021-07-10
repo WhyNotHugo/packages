@@ -18,6 +18,7 @@ arc-icon-theme
 arch-install-scripts
 archlinux-keyring
 argon2
+asciidoc
 asp
 at-spi2-atk
 at-spi2-core
@@ -73,6 +74,7 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
+cmocka
 cogl
 colord
 compiler-rt
@@ -101,6 +103,8 @@ dkms
 dmraid
 dnsmasq
 dnssec-anchors
+docbook-xml
+docbook-xsl
 docker-compose
 dosfstools
 double-conversion
@@ -728,6 +732,7 @@ md4c
 mdadm
 mercurial
 mesa
+meson
 metis
 miniupnpc
 minizip
