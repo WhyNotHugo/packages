@@ -919,6 +919,8 @@ python-helpdev
 python-html5lib
 python-humanize
 python-hyperlink
+python-hypothesis
+python-hypothesmith
 python-icalendar
 python-identify
 python-idna
@@ -950,6 +952,7 @@ python-lark-parser
 python-lazy-object-proxy
 python-levenshtein
 python-libarchive-c
+python-libcst
 python-lockfile
 python-lxml
 python-magic
@@ -1085,6 +1088,7 @@ python-twisted
 python-typed-ast
 python-typeguard
 python-typing_extensions
+python-typing_inspect
 python-tzlocal
 python-ujson
 python-urllib3
