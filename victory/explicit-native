@@ -14,6 +14,7 @@ devtools
 diffoscope
 dmidecode
 docker
+dolphin
 earlyoom
 edk2-ovmf
 efibootmgr
@@ -83,6 +84,7 @@ torbrowser-launcher
 torsocks
 vagrant
 vi
+vim
 wine-gecko
 wine-mono
 wine-staging
