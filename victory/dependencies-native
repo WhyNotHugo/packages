@@ -9,6 +9,7 @@ alsa-card-profiles
 alsa-lib
 alsa-topology-conf
 alsa-ucm-conf
+ansible-core
 antlr4-runtime
 aom
 appstream-glib
@@ -18,7 +19,6 @@ arc-icon-theme
 arch-install-scripts
 archlinux-keyring
 argon2
-asciidoc
 asp
 at-spi2-atk
 at-spi2-core
@@ -77,7 +77,6 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
-cmocka
 cni-plugins
 cogl
 colord
@@ -111,8 +110,6 @@ dkms
 dmraid
 dnsmasq
 dnssec-anchors
-docbook-xml
-docbook-xsl
 docker-compose
 dosfstools
 double-conversion
@@ -279,7 +276,6 @@ ijs
 imagemagick
 imath
 imlib2
-index-fm
 iniparser
 intel-gmmlib
 intel-media-driver
@@ -338,7 +334,6 @@ kidletime
 kinit
 kio
 kio-extras
-kirigami2
 kitemviews
 kjobwidgets
 kmod
@@ -765,19 +760,15 @@ make
 mariadb-libs
 mate-desktop
 mathjax2
-mauikit
-mauikit-filebrowsing
 mbedtls
 md4c
 mdadm
 media-player-info
 mercurial
 mesa
-meson
 metis
 miniupnpc
 minizip
-mkinitcpio-busybox
 mobile-broadband-provider-info
 monero
 mpfr
@@ -797,7 +788,6 @@ nettle
 network-manager-applet
 networkmanager
 nftables
-ninja
 nm-connection-editor
 node-gyp
 nodejs
@@ -964,8 +954,6 @@ python-helpdev
 python-html5lib
 python-humanize
 python-hyperlink
-python-hypothesis
-python-hypothesmith
 python-icalendar
 python-identify
 python-idna
@@ -997,7 +985,6 @@ python-lark-parser
 python-lazy-object-proxy
 python-levenshtein
 python-libarchive-c
-python-libcst
 python-lockfile
 python-lxml
 python-magic
@@ -1133,7 +1120,6 @@ python-twisted
 python-typed-ast
 python-typeguard
 python-typing_extensions
-python-typing_inspect
 python-tzlocal
 python-ujson
 python-urllib3

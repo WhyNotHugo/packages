@@ -26,7 +26,6 @@ pavucontrol-git
 pgformatter-git
 pkgbuild-introspection
 plymouth-git
-plymouth-theme-monoarch
 ponymix
 python-aiostream
 python-aspy-refactor-imports
