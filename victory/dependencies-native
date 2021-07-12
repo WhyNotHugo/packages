@@ -78,15 +78,19 @@ clutter
 clutter-gst
 clutter-gtk
 cmocka
+cni-plugins
 cogl
 colord
 compiler-rt
 confuse
+conmon
 containerd
+containers-common
 convertlit
 coreutils
 cpio
 cracklib
+crun
 cryptsetup
 cups
 cups-filters
@@ -152,6 +156,7 @@ freetype2
 fribidi
 fstrm
 fuse-common
+fuse-overlayfs
 fuse2
 fuse3
 fwupd-efi
@@ -863,6 +868,7 @@ pipewire-media-session
 pixman
 pkgconf
 pkgstats
+podman
 polkit
 polkit-qt5
 poppler
@@ -1215,6 +1221,7 @@ shared-mime-info
 shellcheck
 shiboken6
 slang
+slirp4netns
 slurp
 smbclient
 snappy
