@@ -748,6 +748,7 @@ lpsolve
 lsd
 lsof
 lua
+lua-language-server
 lua52
 luajit
 lucene++

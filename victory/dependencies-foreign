@@ -12,7 +12,6 @@ eslint-plugin-vue
 grimshot
 kernel-modules-hook
 lua-format
-lua-language-server
 meta-group-base-devel
 neovim-git
 nodejs-vls
